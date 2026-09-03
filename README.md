@@ -1,10 +1,22 @@
 # Paper & OSS Ranking
 
-Rankings for research papers by citations and open-source projects by GitHub stars.
+<p align="center">
+  <a href="https://rsasaki0109.github.io/paper-oss-ranking/">
+    <img src="docs/banner.svg" alt="Paper & OSS Ranking — Citations × GitHub Stars" width="100%">
+  </a>
+</p>
 
-> Paper & OSS rankings by citations and GitHub stars.
+<p align="center">
+  <a href="https://rsasaki0109.github.io/paper-oss-ranking/"><img src="https://img.shields.io/badge/demo-live-success?style=flat-square" alt="Demo"></a>
+  <a href="https://github.com/rsasaki0109/paper-oss-ranking/actions/workflows/deploy.yml"><img src="https://github.com/rsasaki0109/paper-oss-ranking/actions/workflows/deploy.yml/badge.svg" alt="Deploy"></a>
+  <a href="https://github.com/rsasaki0109/paper-oss-ranking/actions/workflows/data-update.yml"><img src="https://github.com/rsasaki0109/paper-oss-ranking/actions/workflows/data-update.yml/badge.svg" alt="Data Update"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square" alt="License: MIT"></a>
+</p>
 
-**Demo:** `https://rsasaki0109.github.io/paper-oss-ranking/`
+<p align="center">
+  <strong>Paper & OSS rankings by citations and GitHub stars.</strong><br>
+  <a href="https://rsasaki0109.github.io/paper-oss-ranking/">🚀 Live Demo</a>
+</p>
 
 ## Screenshot
 
@@ -31,12 +43,14 @@ Rankings for research papers by citations and open-source projects by GitHub sta
 
 No backend, no database. GitHub Actions fetches data daily and commits static JSON; the React frontend reads that JSON.
 
-```text
-OpenAlex API ─┐
-              ├─▶ scripts/update-data.mjs ─▶ data/*.json + data/snapshots/*.json ─▶ public/data/*.json
-GitHub API ───┘                                                              │
-                                                                             ▼
-                                              React + Vite + TypeScript ─▶ GitHub Pages
+```mermaid
+flowchart LR
+    OA[OpenAlex API] --> UPD[scripts/update-data.mjs]
+    GH[GitHub API] --> UPD
+    UPD --> DATA[data/*.json + snapshots]
+    DATA --> PUB[public/data/*.json]
+    PUB --> FE[React + Vite + TS]
+    FE --> PAGES[GitHub Pages]
 ```
 
 - `data/papers.json`, `data/repos.json`: curated entity lists + cached API values.
@@ -54,6 +68,7 @@ paper-oss-ranking/
 ├── src/                   # React frontend (lib/, components/, App.tsx)
 ├── .github/workflows/     # data-update.yml (daily), deploy.yml (Pages)
 ├── .github/ISSUE_TEMPLATE/# add-paper / add-oss / fix-mapping
+├── docs/                  # banner.svg and other static docs assets
 └── index.html, vite.config.ts, package.json
 ```
 
