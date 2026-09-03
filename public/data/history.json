@@ -167,7 +167,7 @@
     "UZ-SLAMLab/ORB_SLAM3": [
       {
         "date": "2026-09-03",
-        "value": 9021
+        "value": 9022
       }
     ],
     "rpng/open_vins": [
@@ -179,7 +179,7 @@
     "hku-mars/FAST_LIO": [
       {
         "date": "2026-09-03",
-        "value": 5134
+        "value": 5135
       }
     ],
     "TixiaoShan/LIO-SAM": [
@@ -209,7 +209,7 @@
     "ultralytics/ultralytics": [
       {
         "date": "2026-09-03",
-        "value": 61235
+        "value": 61240
       }
     ],
     "facebookresearch/vggt": [
@@ -239,7 +239,7 @@
     "openai/CLIP": [
       {
         "date": "2026-09-03",
-        "value": 34255
+        "value": 34254
       }
     ],
     "facebookresearch/detr": [
@@ -281,7 +281,7 @@
     "autowarefoundation/autoware": [
       {
         "date": "2026-09-03",
-        "value": 12040
+        "value": 12041
       }
     ],
     "ros/ros": [
