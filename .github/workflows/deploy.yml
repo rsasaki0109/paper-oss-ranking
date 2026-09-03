@@ -3,6 +3,12 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches: [main]
+  # Data Update pushes with GITHUB_TOKEN do not trigger `push` workflows,
+  # so chain off its completion explicitly (no PAT required).
+  workflow_run:
+    workflows: ["Data Update"]
+    types: [completed]
+    branches: [main]
   workflow_dispatch:
 
 permissions:
@@ -16,6 +22,8 @@ concurrency:
 
 jobs:
   build:
+    # Only deploy successful data updates; push/dispatch always builds.
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4

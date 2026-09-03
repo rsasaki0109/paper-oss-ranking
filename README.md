@@ -84,6 +84,7 @@ npm run preview
 
 - Workflow `.github/workflows/data-update.yml` runs daily (`17 2 * * *` UTC) and on manual dispatch.
 - `scripts/update-data.mjs` fetches OpenAlex (by DOI, falling back to title search) and GitHub (`/repos/{full_name}` + contributors count), updates only fields with valid API responses, writes `data/snapshots/YYYY-MM-DD.json`, regenerates `public/data/*`, validates the schema, and commits **only if something changed**. API failures never destroy existing good data.
+- Bot pushes use `GITHUB_TOKEN` and therefore don't trigger `push` workflows; `deploy.yml` additionally listens for `workflow_run` completion of Data Update so fresh data is redeployed daily without any PAT.
 - No secrets are required: the workflow uses the built-in `GITHUB_TOKEN`. For heavy local use, export `GITHUB_TOKEN` to raise the GitHub rate limit; optionally `OPENALEX_MAILTO` for the OpenAlex polite pool.
 
 ## How to add a paper
