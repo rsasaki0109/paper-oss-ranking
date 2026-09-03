@@ -36,7 +36,7 @@
 
 ## Data sources
 
-- Paper data: [OpenAlex](https://openalex.org/) API (no Google Scholar scraping).
+- Paper data: [OpenAlex](https://openalex.org/) API (primary) with [Semantic Scholar](https://www.semanticscholar.org/) API fallback (no Google Scholar scraping).
 - OSS data: GitHub REST API (uses `GITHUB_TOKEN` in Actions).
 
 ## Architecture
@@ -99,8 +99,9 @@ npm run preview
 
 - Workflow `.github/workflows/data-update.yml` runs daily (`17 2 * * *` UTC) and on manual dispatch.
 - `scripts/update-data.mjs` fetches OpenAlex (by DOI, falling back to title search) and GitHub (`/repos/{full_name}` + contributors count), updates only fields with valid API responses, writes `data/snapshots/YYYY-MM-DD.json`, regenerates `public/data/*`, validates the schema, and commits **only if something changed**. API failures never destroy existing good data.
+- If OpenAlex is rate-limited, the updater falls back to the Semantic Scholar API for papers. Title-search hits must pass a word-overlap relevance gate, otherwise values stay blank (`N/A` in the UI) until a later run resolves them — counts are never guessed.
 - Bot pushes use `GITHUB_TOKEN` and therefore don't trigger `push` workflows; `deploy.yml` additionally listens for `workflow_run` completion of Data Update so fresh data is redeployed daily without any PAT.
-- No secrets are required: the workflow uses the built-in `GITHUB_TOKEN`. For heavy local use, export `GITHUB_TOKEN` to raise the GitHub rate limit; optionally `OPENALEX_MAILTO` for the OpenAlex polite pool.
+- No secrets are required: the workflow uses the built-in `GITHUB_TOKEN`. For heavy local use, export `GITHUB_TOKEN` to raise the GitHub rate limit; optionally `OPENALEX_MAILTO` for the OpenAlex polite pool and `SEMANTIC_SCHOLAR_API_KEY` to raise fallback limits.
 
 ## How to add a paper
 

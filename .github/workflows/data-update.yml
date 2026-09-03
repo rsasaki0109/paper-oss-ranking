@@ -19,6 +19,8 @@ jobs:
       - name: Update data from OpenAlex and GitHub
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Optional: raises Semantic Scholar fallback limits. Unset = anonymous (slower).
+          SEMANTIC_SCHOLAR_API_KEY: ${{ secrets.SEMANTIC_SCHOLAR_API_KEY }}
         run: node scripts/update-data.mjs
       - name: Validate
         run: node scripts/validate.mjs

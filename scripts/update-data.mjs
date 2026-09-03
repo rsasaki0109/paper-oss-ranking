@@ -20,6 +20,9 @@ import {
 
 const OPENALEX_MAILTO = process.env.OPENALEX_MAILTO || "paper-oss-ranking@example.com";
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN || process.env.GH_TOKEN || "";
+const S2_API_KEY = process.env.SEMANTIC_SCHOLAR_API_KEY || "";
+// Unauthenticated Semantic Scholar: max ~100 req / 5 min -> stay well below it.
+const S2_DELAY_MS = S2_API_KEY ? 1100 : 3000;
 
 function log(...a) {
   console.log("[update-data]", ...a);
@@ -37,16 +40,63 @@ function openAlexHeaders() {
 }
 
 async function fetchWorkByDoi(doi) {
-  const url = `https://api.openalex.org/works/https://doi.org/${doi}?select=id,doi,title,publication_year,cited_by_count,authorships,primary_location,open_access`;
+  const url =
+    `https://api.openalex.org/works/https://doi.org/${doi}?select=id,doi,title,publication_year,cited_by_count,authorships,primary_location,open_access` +
+    `&mailto=${encodeURIComponent(OPENALEX_MAILTO)}`;
   return await fetchJson(url, openAlexHeaders());
 }
 
 async function searchWork(title) {
   const url =
     `https://api.openalex.org/works?search=${encodeURIComponent(title)}&per-page=1` +
-    `&select=id,doi,title,publication_year,cited_by_count,authorships,primary_location`;
+    `&select=id,doi,title,publication_year,cited_by_count,authorships,primary_location` +
+    `&mailto=${encodeURIComponent(OPENALEX_MAILTO)}`;
   const j = await fetchJson(url, openAlexHeaders());
   return j.results && j.results[0] ? j.results[0] : null;
+}
+
+/**
+ * Relevance gate for title-search results. DOI-direct hits are trusted;
+ * search hits must share enough significant words with the hint so a wrong
+ * record is never stored (counts are never fabricated).
+ */
+function titleMatchOk(hint, title) {
+  if (!hint || !title) return false;
+  const q = hint
+    .toLowerCase()
+    .split(/[^a-z0-9]+/)
+    .filter((w) => w.length > 3);
+  if (q.length === 0) return true;
+  const t = title.toLowerCase();
+  const hit = q.filter((w) => t.includes(w)).length;
+  return hit >= Math.min(4, q.length) && hit / q.length >= 0.6;
+}
+
+function s2Headers() {
+  const h = { Accept: "application/json", "User-Agent": `paper-oss-ranking/0.1 (mailto:${OPENALEX_MAILTO})` };
+  if (S2_API_KEY) h["x-api-key"] = S2_API_KEY;
+  return h;
+}
+
+/** Semantic Scholar fallback (spec-sanctioned second source). Returns top-1 hit or null. */
+async function searchSemanticScholar(title) {
+  const url =
+    `https://api.semanticscholar.org/graph/v1/paper/search?query=${encodeURIComponent(title)}` +
+    `&limit=1&fields=title,authors,year,venue,citationCount,url,externalIds`;
+  const j = await fetchJson(url, s2Headers());
+  const hit = j.data && j.data[0];
+  if (!hit || !titleMatchOk(title, hit.title)) return null;
+  const doi = hit.externalIds && hit.externalIds.DOI ? String(hit.externalIds.DOI).toLowerCase() : null;
+  return {
+    openalex_id: null, // keep existing OpenAlex ID; S2 does not provide it
+    doi,
+    title: hit.title || null,
+    authors: (hit.authors || []).slice(0, 12).map((a) => a && a.name).filter(Boolean),
+    year: Number.isInteger(hit.year) ? hit.year : null,
+    venue: hit.venue || null,
+    cited_by_count: Number.isInteger(hit.citationCount) && hit.citationCount >= 0 ? hit.citationCount : null,
+    url: (doi ? `https://doi.org/${doi}` : null) || hit.url || null,
+  };
 }
 
 function toPaperPatch(work) {
@@ -132,24 +182,35 @@ async function main() {
   if (!checkOnly) {
     for (const p of papers) {
       try {
-        let work = null;
+        let patch = null;
         if (p.doi) {
           try {
-            work = await fetchWorkByDoi(p.doi);
-            if (work && work.__notFound) work = null;
+            const work = await fetchWorkByDoi(p.doi);
+            // DOI endpoint is exact: a returned record owns that DOI, trust it.
+            if (work && !work.__notFound) patch = toPaperPatch(work);
           } catch (e) {
             log(`OpenAlex DOI lookup failed for ${p.doi}: ${e.message}`);
-            work = null;
           }
         }
-        if (!work && p.title_hint) {
+        if (!patch && p.title_hint) {
           try {
-            work = await searchWork(p.title_hint);
+            const work = await searchWork(p.title_hint);
+            // Search hits must pass the relevance gate (never store a wrong record).
+            if (work && titleMatchOk(p.title_hint, work.title)) patch = toPaperPatch(work);
+            else if (work) log(`OpenAlex top hit rejected for "${p.title_hint}": "${work.title}"`);
           } catch (e) {
             log(`OpenAlex search failed for "${p.title_hint}": ${e.message}`);
           }
         }
-        const patch = toPaperPatch(work);
+        if (!patch && p.title_hint) {
+          try {
+            await sleep(S2_DELAY_MS);
+            patch = await searchSemanticScholar(p.title_hint);
+            if (patch) log(`Semantic Scholar fallback hit for "${p.title_hint}"`);
+          } catch (e) {
+            log(`Semantic Scholar failed for "${p.title_hint}": ${e.message}`);
+          }
+        }
         if (patch) {
           // Only overwrite with non-null values; keep key stable.
           if (patch.openalex_id) p.openalex_id = patch.openalex_id;
@@ -159,9 +220,10 @@ async function main() {
           if (patch.venue) p.venue = patch.venue;
           if (patch.cited_by_count !== null) p.cited_by_count = patch.cited_by_count;
           if (patch.url) p.url = patch.url;
+          if (patch.doi && !p.doi) p.doi = patch.doi;
           paperHits++;
         } else {
-          log(`No OpenAlex data for ${p.key}; keeping existing values`);
+          log(`No paper data for ${p.key}; keeping existing values`);
         }
       } catch (e) {
         log(`Paper ${p.key} error (kept old values): ${e.message}`);

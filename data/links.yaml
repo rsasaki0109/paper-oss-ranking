@@ -394,3 +394,514 @@
 - paper: 10.1109/iccv.2019.00943
   repo: facebookresearch/habitat-lab
   relation: official
+
+- paper: "tandem: tracking and dense mapping in real-time using deep multi-view stereo"
+  repo: tum-vision/tandem
+  relation: official
+
+- paper: "dynaslam: tracking, mapping and inpainting in dynamic scenes"
+  repo: BertaBescos/DynaSLAM
+  relation: official
+
+- paper: "suma++: efficient lidar-based semantic slam"
+  repo: PRBonn/semantic_suma
+  relation: official
+
+- paper: "go-slam: global optimization for consistent 3d instant reconstruction"
+  repo: youmi-zym/GO-SLAM
+  relation: official
+
+- paper: "nerf-slam: real-time dense monocular slam with neural radiance fields"
+  repo: ToniRV/NeRF-SLAM
+  relation: official
+
+- paper: "nice-slam: neural implicit scalable encoding for slam"
+  repo: cvg/nice-slam
+  relation: official
+
+- paper: "point-slam: dense neural point cloud-based slam"
+  repo: eriksandstroem/Point-SLAM
+  relation: official
+
+- paper: "elasticfusion: real-time dense slam and light source estimation"
+  repo: mp3guy/ElasticFusion
+  relation: official
+
+- paper: "bundlefusion: real-time globally consistent 3d reconstruction using on-the-fly surface re-integration"
+  repo: niessner/BundleFusion
+  relation: official
+
+- paper: "photo-slam: real-time simultaneous localization and photorealistic mapping for monocular, stereo, and rgb-d cameras"
+  repo: HuajianUP/Photo-SLAM
+  relation: official
+
+- paper: factor graphs and gtsam
+  repo: borglab/gtsam
+  relation: official
+
+- paper: "mixvpr: feature mixing for visual place recognition"
+  repo: amaralibey/MixVPR
+  relation: official
+
+- paper: "patch-netvlad: multi-scale fusion of locally-global descriptors for place recognition"
+  repo: QVPR/Patch-NetVLAD
+  relation: official
+
+- paper: "cosplace: rethinking visual geo-localization"
+  repo: gmberton/CosPlace
+  relation: official
+
+- paper: "xfeat: accelerated features for lightweight image matching"
+  repo: verlab/accelerated_features
+  relation: official
+
+- paper: "r2d2: reliable and repeatable detector and descriptor"
+  repo: naver/r2d2
+  relation: official
+
+- paper: "d2-net: a trainable cnn for joint description and detection of local features"
+  repo: mihaidusmanu/d2-net
+  relation: official
+
+- paper: "teaser: fast and certifiable point cloud registration"
+  repo: MIT-SPARK/TEASER-plusplus
+  relation: official
+
+- paper: "from coarse to fine: robust hierarchical localization at large scale"
+  repo: cvg/Hierarchical-Localization
+  relation: official
+
+- paper: "blip: bootstrapping language-image pre-training for unified vision-language understanding and generation"
+  repo: salesforce/BLIP
+  relation: official
+
+- paper: visual instruction tuning
+  repo: haotian-liu/LLaVA
+  relation: official
+
+- paper: "yolov4: optimal speed and accuracy of object detection"
+  repo: AlexeyAB/darknet
+  relation: community
+  note: Darknet ecosystem implementation
+
+- paper: "yolov7: trainable bag-of-freebies sets new state-of-the-art for real-time object detectors"
+  repo: WongKinYiu/yolov7
+  relation: official
+
+- paper: "yolox: exceeding yolo series in 2021"
+  repo: Megvii-BaseDetection/YOLOX
+  relation: official
+
+- paper: objects as points
+  repo: xingyizhou/CenterNet
+  relation: official
+
+- paper: "fcos: fully convolutional one-stage object detection"
+  repo: tianzhi0549/FCOS
+  relation: official
+
+- paper: "deformable detr: deformable transformers for end-to-end object detection"
+  repo: fundamentalvision/Deformable-DETR
+  relation: official
+
+- paper: "segformer: simple and efficient design for semantic segmentation with transformers"
+  repo: NVlabs/SegFormer
+  relation: official
+
+- paper: "mask2former: masked-attention mask transformer for universal image segmentation"
+  repo: facebookresearch/Mask2Former
+  relation: official
+
+- paper: a convnet for the 2020s
+  repo: facebookresearch/ConvNeXt
+  relation: official
+
+- paper: squeeze-and-excitation networks
+  repo: hujie-frank/SENet
+  relation: official
+
+- paper: "cbam: convolutional block attention module"
+  repo: Jongchan/attention-module
+  relation: official
+
+- paper: "grad-cam: visual explanations from deep networks via gradient-based localization"
+  repo: ramprs/grad-cam
+  relation: official
+
+- paper: "efficientnet: rethinking model scaling for convolutional neural networks"
+  repo: lukemelas/EfficientNet-PyTorch
+  relation: community
+  note: Popular third-party implementation
+
+- paper: a style-based generator architecture for generative adversarial networks
+  repo: NVlabs/stylegan
+  relation: official
+
+- paper: progressive growing of gans for improved quality, stability, and variation
+  repo: tkarras/progressive_growing_of_gans
+  relation: official
+
+- paper: unpaired image-to-image translation using cycle-consistent adversarial networks
+  repo: junyanz/pytorch-CycleGAN-and-pix2pix
+  relation: official
+
+- paper: "esrgan: enhanced super-resolution generative adversarial networks"
+  repo: xinntao/ESRGAN
+  relation: official
+
+- paper: "swinir: image restoration using swin transformer"
+  repo: JingyunLiang/SwinIR
+  relation: official
+
+- paper: "raft: recurrent all-pairs field transforms for optical flow"
+  repo: princeton-vl/RAFT
+  relation: official
+
+- paper: "pwc-net: cnns for optical flow using pyramid, warping, and cost volume"
+  repo: NVlabs/PWC-Net
+  relation: official
+
+- paper: "yolov3: an incremental improvement"
+  repo: AlexeyAB/darknet
+  relation: community
+  note: Darknet ecosystem implementation
+
+- paper: "ssd: single shot multibox detector"
+  repo: amdegroot/ssd.pytorch
+  relation: community
+  note: Popular third-party implementation
+
+- paper: fast r-cnn
+  repo: rbgirshick/fast-rcnn
+  relation: official
+
+- paper: deep image prior
+  repo: DmitryUlyanov/deep-image-prior
+  relation: official
+
+- paper: momentum contrast for unsupervised visual representation learning
+  repo: facebookresearch/moco
+  relation: official
+
+- paper: a simple framework for contrastive learning of visual representations
+  repo: google-research/simclr
+  relation: official
+
+- paper: "bootstrap your own latent: a new approach to self-supervised learning"
+  repo: lucidrains/byol-pytorch
+  relation: community
+  note: De-facto standard reimplementation; original repo removed
+
+- paper: the cityscapes dataset for semantic urban scene understanding
+  repo: mcordts/cityscapesScripts
+  relation: official
+
+- paper: "yolact: real-time instance segmentation"
+  repo: dbolya/yolact
+  relation: official
+
+- paper: deep high-resolution representation learning for visual recognition
+  repo: leoxiaobin/deep-high-resolution-net.pytorch
+  relation: official
+
+- paper: simple baselines for human pose estimation and tracking
+  repo: microsoft/human-pose-estimation.pytorch
+  relation: official
+
+- paper: "rmpe: regional multi-person pose estimation"
+  repo: MVIG-SJTU/AlphaPose
+  relation: official
+
+- paper: "mediapipe: a framework for building perception pipelines"
+  repo: google-ai-edge/mediapipe
+  relation: official
+
+- paper: "facenet: a unified embedding for face recognition and clustering"
+  repo: davidsandberg/facenet
+  relation: community
+  note: Popular third-party implementation
+
+- paper: "arcface: additive angular margin loss for deep face recognition"
+  repo: deepinsight/insightface
+  relation: official
+
+- paper: simple online and realtime tracking with a deep association metric
+  repo: nwojke/deep_sort
+  relation: official
+
+- paper: simple online and realtime tracking with a deep association metric
+  repo: abewley/sort
+  relation: official
+
+- paper: "bytetrack: multi-object tracking by associating every detection box"
+  repo: ifzhang/ByteTrack
+  relation: official
+
+- paper: "fairmot: on the fairness of detection and re-identification in multiple object tracking"
+  repo: ifzhang/FairMOT
+  relation: official
+
+- paper: high performance visual tracking with siamese region proposal network
+  repo: STVIR/pysot
+  relation: community
+  note: SenseTime tracking toolkit hosting SiamRPN
+
+- paper: "fast online object tracking and segmentation: a unifying approach"
+  repo: foolwood/SiamMask
+  relation: official
+
+- paper: learning discriminative model prediction for tracking
+  repo: visionml/pytracking
+  relation: community
+  note: Tracking toolkit hosting DiMP
+
+- paper: learning spatio-temporal transformer for visual tracking
+  repo: researchmm/Stark
+  relation: official
+
+- paper: is space-time attention all you need for video understanding?
+  repo: facebookresearch/TimeSformer
+  relation: official
+
+- paper: slowfast networks for video recognition
+  repo: facebookresearch/SlowFast
+  relation: official
+
+- paper: quo vadis, action recognition? a new model and the kinetics dataset
+  repo: deepmind/kinetics-i3d
+  relation: official
+
+- paper: "videomae: masked autoencoders are data-efficient learners for self-supervised video pre-training"
+  repo: MCG-NJU/VideoMAE
+  relation: official
+
+- paper: "imagebind: one embedding space to bind them all"
+  repo: facebookresearch/ImageBind
+  relation: official
+
+- paper: "sparse r-cnn: end-to-end object detection with learnable proposals"
+  repo: PeizeSun/SparseR-CNN
+  relation: official
+
+- paper: "yolo-world: real-time open-vocabulary object detection"
+  repo: AILab-CVC/YOLO-World
+  relation: official
+
+- paper: "glip: grounded language-image pre-training"
+  repo: microsoft/GLIP
+  relation: official
+
+- paper: per-pixel classification is not all you need for semantic segmentation
+  repo: facebookresearch/MaskFormer
+  relation: official
+
+- paper: "plenoxels: radiance fields without neural networks"
+  repo: sxyu/svox2
+  relation: official
+  note: Official implementation lives in svox2
+
+- paper: "direct voxel grid optimization: super-fast convergence for radiance fields reconstruction"
+  repo: sunset1995/DirectVoxGO
+  relation: official
+
+- paper: "kilonerf: speeding up neural radiance fields with thousands of tiny mlps"
+  repo: creiser/kiloneRF
+  relation: official
+
+- paper: "point-nerf: point-based neural radiance fields"
+  repo: Xharlie/pointnerf
+  relation: official
+
+- paper: "nerfies: deformable neural radiance fields"
+  repo: google/nerfies
+  relation: official
+
+- paper: "d-nerf: neural radiance fields for dynamic scenes"
+  repo: albertpumarola/D-NeRF
+  relation: official
+
+- paper: "eg3d: efficient geometry-aware 3d generative adversarial networks"
+  repo: NVlabs/eg3d
+  relation: official
+
+- paper: "dreamfusion: text-to-3d using 2d diffusion"
+  repo: ashawkey/stable-dreamfusion
+  relation: community
+  note: Reimplementation; no official code release
+
+- paper: "zero-1-to-3: zero-shot one image to 3d object"
+  repo: cvlab-columbia/zero123
+  relation: official
+
+- paper: "depth anything: unleashing the power of large-scale unlabeled data"
+  repo: LiheYoung/Depth-Anything
+  relation: official
+
+- paper: "towards robust monocular depth estimation: mixing datasets for zero-shot cross-dataset transfer"
+  repo: isl-org/MiDaS
+  relation: official
+
+- paper: vision transformers for dense prediction
+  repo: isl-org/DPT
+  relation: official
+
+- paper: "zoedepth: zero-shot transfer by combining relative and metric depth"
+  repo: isl-org/ZoeDepth
+  relation: official
+
+- paper: "marigold: repurposing diffusion-based image generators for monocular depth estimation"
+  repo: prs-eth/Marigold
+  relation: official
+
+- paper: "splatter image: ultra-fast single-view 3d reconstruction"
+  repo: szymanowiczs/splatter-image
+  relation: official
+
+- paper: "neus: learning neural implicit surfaces by volume rendering for multi-view reconstruction"
+  repo: Totoro97/NeuS
+  relation: official
+
+- paper: implicit neural representations with periodic activation functions
+  repo: vsitzmann/siren
+  relation: official
+
+- paper: "nerf++: analyzing and improving neural radiance fields"
+  repo: Kai-46/nerfplusplus
+  relation: official
+
+- paper: "scannet: richly-annotated 3d reconstructions of indoor scenes"
+  repo: ScanNet/ScanNet
+  relation: official
+
+- paper: accelerating 3d deep learning with pytorch3d
+  repo: facebookresearch/pytorch3d
+  relation: official
+
+- paper: "pixelsplat: 3d gaussian splats from image pairs for scalable generalizable 3d reconstruction"
+  repo: dcharatan/pixelsplat
+  relation: official
+
+- paper: "mvsplat: efficient 3d gaussian splatting from sparse multi-view images"
+  repo: donydchen/mvsplat
+  relation: official
+
+- paper: "lgm: large multi-view gaussian model for high-resolution 3d content creation"
+  repo: 3DTopia/LGM
+  relation: official
+
+- paper: what and where pathways for robotic manipulation
+  repo: cliport/cliport
+  relation: official
+
+- paper: "transporter networks: rearranging the visual world for robotic manipulation"
+  repo: google-research/ravens
+  relation: official
+  note: Ravens framework hosts Transporter Networks
+
+- paper: "perceiver-actor: a multi-task transformer for robotic manipulation"
+  repo: peract/peract
+  relation: official
+
+- paper: robotic view transformer for 3d object manipulation
+  repo: NVlabs/RVT
+  relation: official
+
+- paper: "3d diffusion policy: generalizable visuomotor policy learning via simple 3d representations"
+  repo: YanjieZe/3D-Diffusion-Policy
+  relation: official
+
+- paper: "universal manipulation interface: in-the-wild robot teaching without humans"
+  repo: real-stanford/universal_manipulation_interface
+  relation: official
+
+- paper: "calvin: a benchmark for language-conditioned policy learning for long-horizon robot manipulation tasks"
+  repo: mees/calvin
+  relation: official
+
+- paper: "rlbench: the robot learning benchmark and learning environment"
+  repo: stepjam/RLBench
+  relation: official
+
+- paper: "meta-world: a benchmark and evaluation for multi-task and meta reinforcement learning"
+  repo: Farama-Foundation/Metaworld
+  relation: official
+
+- paper: "robosuite: a modular simulation framework and benchmark for robot learning"
+  repo: ARISE-Initiative/robosuite
+  relation: official
+
+- paper: "maniskill: generalizable manipulation skill benchmark with large-scale demonstrations"
+  repo: haosulab/ManiSkill
+  relation: official
+
+- paper: "libero: benchmarking knowledge transfer for lifelong robot learning"
+  repo: Lifelong-Robot-Learning/LIBERO
+  relation: official
+
+- paper: "mobile aloha: learning bimanual mobile manipulation with low-cost whole-body teleoperation"
+  repo: MarkFzp/mobile-aloha
+  relation: official
+
+- paper: "daydreamer: world models for physical robot learning"
+  repo: danijar/daydreamer
+  relation: official
+
+- paper: "igibson 1.0: a simulation environment for interactive tasks in large realistic scenes"
+  repo: StanfordVL/iGibson
+  relation: official
+
+- paper: "sapien: a simulated part-based interactive environment"
+  repo: haosulab/SAPIEN
+  relation: official
+
+- paper: "ai2-thor: an interactive 3d environment for visual ai"
+  repo: allenai/ai2thor
+  relation: official
+
+- paper: learning to walk in minutes using massively parallel deep reinforcement learning
+  repo: leggedrobotics/legged_gym
+  relation: official
+
+- paper: "stable-baselines3: reliable reinforcement learning implementations"
+  repo: DLR-RM/stable-baselines3
+  relation: official
+
+- paper: "cleanrl: high-quality single-file implementations of deep reinforcement learning algorithms"
+  repo: vwxyzjn/cleanrl
+  relation: official
+
+- paper: openai gym
+  repo: openai/gym
+  relation: official
+
+- paper: deepmind control suite
+  repo: google-deepmind/dm_control
+  relation: official
+
+- paper: "argoverse: 3d tracking and forecasting with rich maps"
+  repo: argoverse/argoverse-api
+  relation: official
+
+- paper: planning-oriented autonomous driving
+  repo: OpenDriveLab/UniAD
+  relation: official
+
+- paper: "vad: vectorized scene representation for efficient autonomous driving"
+  repo: hustvl/VAD
+  relation: official
+
+- paper: end-to-end vision-based autonomous driving via spatial-temporal feature learning
+  repo: OpenPerceptionX/ST-P3
+  relation: official
+
+- paper: "surroundocc: multi-camera 3d occupancy prediction for autonomous driving"
+  repo: weiyithu/SurroundOcc
+  relation: official
+
+- paper: "airsim: high-fidelity visual and physical simulation for autonomous vehicles"
+  repo: microsoft/AirSim
+  relation: official
+
+- paper: "one-2-3-45: any single image to 3d mesh in 45 seconds without per-shape optimization"
+  repo: One-2-3-45/One-2-3-45
+  relation: official
