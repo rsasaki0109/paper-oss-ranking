@@ -91,7 +91,10 @@ async function searchSemanticScholar(title) {
     openalex_id: null, // keep existing OpenAlex ID; S2 does not provide it
     doi,
     title: hit.title || null,
-    authors: (hit.authors || []).slice(0, 12).map((a) => a && a.name).filter(Boolean),
+    authors: (hit.authors || [])
+      .slice(0, 12)
+      .map((a) => a && a.name)
+      .filter(Boolean),
     year: Number.isInteger(hit.year) ? hit.year : null,
     venue: hit.venue || null,
     cited_by_count: Number.isInteger(hit.citationCount) && hit.citationCount >= 0 ? hit.citationCount : null,
