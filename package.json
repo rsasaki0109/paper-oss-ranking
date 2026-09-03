@@ -1,0 +1,42 @@
+{
+  "name": "paper-oss-ranking",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Rankings for research papers by citations and open-source projects by GitHub stars.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && node scripts/build-data.mjs && vite build",
+    "build:only": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint src scripts --ext .ts,.tsx,.mjs,.js",
+    "lint:fix": "eslint src scripts --ext .ts,.tsx,.mjs,.js --fix",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "update-data": "node scripts/update-data.mjs",
+    "validate": "node scripts/validate.mjs"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "@vitejs/plugin-react": "^4.3.1",
+    "eslint": "^8.57.0",
+    "@typescript-eslint/eslint-plugin": "^7.13.1",
+    "@typescript-eslint/parser": "^7.13.1",
+    "eslint-plugin-react": "^7.34.4",
+    "eslint-plugin-react-hooks": "^4.6.2",
+    "prettier": "^3.3.2",
+    "typescript": "^5.5.2",
+    "vite": "^5.4.0",
+    "vitest": "^2.0.5"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

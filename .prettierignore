@@ -1,0 +1,8 @@
+node_modules/
+dist/
+coverage/
+public/data/
+data/snapshots/
+data/meta.json
+data/papers.json
+data/repos.json

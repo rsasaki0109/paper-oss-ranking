@@ -1,0 +1,109 @@
+[
+  {
+    "paper": "10.1109/tro.2017.2705103",
+    "repo": "raulmur/ORB_SLAM2",
+    "relation": "official"
+  },
+  {
+    "paper": "10.1109/tro.2021.3075644",
+    "repo": "UZ-SLAMLab/ORB_SLAM3",
+    "relation": "official"
+  },
+  {
+    "paper": "10.1109/cvpr.2016.445",
+    "repo": "colmap/colmap",
+    "relation": "official"
+  },
+  {
+    "paper": "10.1007/978-3-030-58452-8_24",
+    "repo": "bmild/nerf",
+    "relation": "official"
+  },
+  {
+    "paper": "10.1145/3592433",
+    "repo": "graphdeco-inria/gaussian-splatting",
+    "relation": "official"
+  },
+  {
+    "paper": "10.1109/iccv51070.2023.00371",
+    "repo": "facebookresearch/segment-anything",
+    "relation": "official"
+  },
+  {
+    "paper": "10.1109/cvpr.2016.91",
+    "repo": "ultralytics/ultralytics",
+    "relation": "community",
+    "note": "YOLO ecosystem successor; original YOLO code is pjreddie/darknet"
+  },
+  {
+    "paper": "10.1109/icra.2016.7487258",
+    "repo": "cartographer-project/cartographer",
+    "relation": "official"
+  },
+  {
+    "paper": "10.1109/lra.2021.3064227",
+    "repo": "hku-mars/FAST_LIO",
+    "relation": "official"
+  },
+  {
+    "paper": "10.1109/tro.2022.3141876",
+    "repo": "hku-mars/FAST_LIO",
+    "relation": "official",
+    "note": "FAST-LIO2 code is maintained in the same repository"
+  },
+  {
+    "paper": "10.1109/iros45743.2020.9341176",
+    "repo": "TixiaoShan/LIO-SAM",
+    "relation": "official"
+  },
+  {
+    "paper": "10.48550/arxiv.2103.00020",
+    "repo": "openai/CLIP",
+    "relation": "official"
+  },
+  {
+    "paper": "10.1007/978-3-030-58452-8_13",
+    "repo": "facebookresearch/detr",
+    "relation": "official"
+  },
+  {
+    "paper": "10.48550/arxiv.2010.11929",
+    "repo": "google-research/vision_transformer",
+    "relation": "official"
+  },
+  {
+    "paper": "10.48550/arxiv.2406.09246",
+    "repo": "openvla/openvla",
+    "relation": "official"
+  },
+  {
+    "paper": "10.48550/arxiv.1912.01603",
+    "repo": "danijar/dreamer",
+    "relation": "official"
+  },
+  {
+    "paper": "10.48550/arxiv.2108.10869",
+    "repo": "princeton-vl/DROID-SLAM",
+    "relation": "official"
+  },
+  {
+    "paper": "10.1109/cvpr52734.2025.00499",
+    "repo": "facebookresearch/vggt",
+    "relation": "official"
+  },
+  {
+    "paper": "10.1109/cvpr42600.2020.00499",
+    "repo": "magicleap/SuperGluePretrainedNetwork",
+    "relation": "official"
+  },
+  {
+    "paper": "10.1109/icra40945.2020.9196524",
+    "repo": "rpng/open_vins",
+    "relation": "official"
+  },
+  {
+    "paper": "10.1109/iros.2018.8594299",
+    "repo": "RobustFieldAutonomyLab/LeGO-LOAM",
+    "relation": "official"
+  }
+]

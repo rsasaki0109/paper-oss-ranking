@@ -1,0 +1,33 @@
+name: Fix Paper/OSS Mapping
+description: Correct or add a paper-repository link
+title: "[mapping] "
+labels: ["data", "mapping"]
+body:
+  - type: input
+    id: paper
+    attributes:
+      label: Paper DOI or OpenAlex ID
+      placeholder: 10.1109/tro.2017.2705103
+    validations:
+      required: true
+  - type: input
+    id: repo
+    attributes:
+      label: GitHub repository (owner/repo)
+      placeholder: raulmur/ORB_SLAM2
+    validations:
+      required: true
+  - type: dropdown
+    id: relation
+    attributes:
+      label: Relation
+      options:
+        - official
+        - community
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence (project README, paper page, author statement)
+      placeholder: Link showing this is the official implementation

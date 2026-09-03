@@ -1,0 +1,41 @@
+name: Add Paper
+description: Request a new paper for the citations ranking
+title: "[paper] "
+labels: ["data", "paper"]
+body:
+  - type: input
+    id: title
+    attributes:
+      label: Paper title
+      placeholder: "ORB-SLAM2: An Open-Source SLAM System"
+    validations:
+      required: true
+  - type: input
+    id: doi
+    attributes:
+      label: DOI (preferred) or OpenAlex ID
+      placeholder: 10.1109/tro.2017.2705103
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Robotics
+        - SLAM
+        - Localization
+        - Autonomous Driving
+        - Computer Vision
+        - 3D Vision
+        - VLA
+        - World Models
+        - Gaussian Splatting
+        - NeRF
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes (official repo, venue, etc.)
+      placeholder: "Official implementation (if any): owner/repo"

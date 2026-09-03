@@ -1,0 +1,34 @@
+name: Add OSS
+description: Request a new open-source project for the stars ranking
+title: "[oss] "
+labels: ["data", "oss"]
+body:
+  - type: input
+    id: repo
+    attributes:
+      label: GitHub repository (owner/repo)
+      placeholder: UZ-SLAMLab/ORB_SLAM3
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Robotics
+        - SLAM
+        - Localization
+        - Autonomous Driving
+        - Computer Vision
+        - 3D Vision
+        - VLA
+        - World Models
+        - Gaussian Splatting
+        - NeRF
+    validations:
+      required: true
+  - type: input
+    id: paper
+    attributes:
+      label: Related paper DOI (if any)
+      placeholder: 10.1109/tro.2021.3075644
