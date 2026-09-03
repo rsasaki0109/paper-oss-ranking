@@ -19,6 +19,9 @@ export const CATEGORIES = new Set([
   "World Models",
   "Gaussian Splatting",
   "NeRF",
+  "VLM",
+  "Image Generation",
+  "Coding AI",
 ]);
 
 export function readJson(path, fallback) {

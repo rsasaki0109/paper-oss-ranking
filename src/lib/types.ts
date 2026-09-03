@@ -9,6 +9,9 @@ export const CATEGORIES = [
   "World Models",
   "Gaussian Splatting",
   "NeRF",
+  "VLM",
+  "Image Generation",
+  "Coding AI",
 ] as const;
 
 export type Category = (typeof CATEGORIES)[number];

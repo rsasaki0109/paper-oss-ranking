@@ -905,3 +905,129 @@
 - paper: "one-2-3-45: any single image to 3d mesh in 45 seconds without per-shape optimization"
   repo: One-2-3-45/One-2-3-45
   relation: official
+
+# --- VLM (2026-09 enrichment) ---
+- paper: 10.48550/arxiv.2301.12597
+  repo: salesforce/LAVIS
+  relation: official
+  note: BLIP-2 code lives in LAVIS
+
+- paper: 10.48550/arxiv.2305.06500
+  repo: salesforce/LAVIS
+  relation: official
+  note: InstructBLIP code lives in LAVIS
+
+- paper: 10.48550/arxiv.2304.10592
+  repo: Vision-CAIR/MiniGPT-4
+  relation: official
+
+- paper: 10.48550/arxiv.2312.14238
+  repo: OpenGVLab/InternVL
+  relation: official
+
+- paper: 10.48550/arxiv.2308.12966
+  repo: QwenLM/Qwen-VL
+  relation: official
+
+- paper: 10.48550/arxiv.2311.03079
+  repo: zai-org/CogVLM
+  relation: official
+
+- paper: 10.48550/arxiv.2409.17146
+  repo: allenai/molmo
+  relation: official
+
+- paper: 10.48550/arxiv.2209.06794
+  repo: google-research/big_vision
+  relation: official
+  note: PaLI implementation in big_vision
+
+- paper: 10.48550/arxiv.2407.07726
+  repo: google-research/big_vision
+  relation: official
+  note: PaliGemma implementation in big_vision
+
+# --- Image Generation (2026-09 enrichment) ---
+- paper: 10.48550/arxiv.2212.09748
+  repo: facebookresearch/DiT
+  relation: official
+
+- paper: 10.48550/arxiv.2307.01952
+  repo: Stability-AI/generative-models
+  relation: official
+  note: Official SDXL code release
+
+- paper: 10.48550/arxiv.2506.15742
+  repo: black-forest-labs/flux
+  relation: official
+
+- paper: 10.48550/arxiv.2211.09800
+  repo: timothybrooks/instruct-pix2pix
+  relation: official
+
+- paper: 10.48550/arxiv.2310.00426
+  repo: PixArt-alpha/PixArt-alpha
+  relation: official
+
+- paper: 10.48550/arxiv.2208.12242
+  repo: google/dreambooth
+  relation: official
+
+- paper: 10.1109/cvpr52688.2022.01042
+  repo: AUTOMATIC1111/stable-diffusion-webui
+  relation: community
+  note: Most-starred Stable Diffusion UI
+
+- paper: 10.1109/cvpr52688.2022.01042
+  repo: Comfy-Org/ComfyUI
+  relation: community
+  note: Node-based Stable Diffusion UI
+
+- paper: 10.48550/arxiv.2307.01952
+  repo: lllyasviel/Fooocus
+  relation: community
+  note: Popular SDXL image generator UI
+
+- paper: 10.48550/arxiv.2006.11239
+  repo: huggingface/diffusers
+  relation: community
+  note: De-facto standard diffusion library
+
+# --- Coding AI (2026-09 enrichment) ---
+- paper: 10.48550/arxiv.2305.06161
+  repo: bigcode-project/starcoder
+  relation: official
+
+- paper: 10.48550/arxiv.2308.12950
+  repo: meta-llama/codellama
+  relation: official
+
+- paper: 10.48550/arxiv.2406.11931
+  repo: deepseek-ai/DeepSeek-Coder-V2
+  relation: official
+
+- paper: 10.48550/arxiv.2409.12186
+  repo: QwenLM/Qwen3-Coder
+  relation: official
+  note: Repo renamed from Qwen2.5-Coder; hosts the Qwen Coder series
+
+- paper: 10.48550/arxiv.2109.00859
+  repo: salesforce/CodeT5
+  relation: official
+
+- paper: 10.48550/arxiv.2107.03374
+  repo: openai/human-eval
+  relation: official
+  note: HumanEval benchmark released with Codex
+
+- paper: 10.48550/arxiv.2310.06770
+  repo: SWE-bench/SWE-bench
+  relation: official
+
+- paper: 10.48550/arxiv.2405.15793
+  repo: SWE-agent/SWE-agent
+  relation: official
+
+- paper: 10.48550/arxiv.2407.16741
+  repo: OpenHands/OpenHands
+  relation: official

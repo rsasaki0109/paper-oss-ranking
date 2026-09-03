@@ -192,7 +192,7 @@
     "updated_at": "2026-09-03T11:00:32Z",
     "url": "https://github.com/openai/CLIP",
     "contributors_count": 23,
-    "category": "Computer Vision"
+    "category": "VLM"
   },
   {
     "full_name": "facebookresearch/detr",
@@ -803,7 +803,7 @@
     "updated_at": "2026-09-03T10:32:11Z",
     "url": "https://github.com/CompVis/stable-diffusion",
     "contributors_count": 8,
-    "category": "Computer Vision"
+    "category": "Image Generation"
   },
   {
     "full_name": "lllyasviel/ControlNet",
@@ -816,7 +816,7 @@
     "updated_at": "2026-09-03T08:11:02Z",
     "url": "https://github.com/lllyasviel/ControlNet",
     "contributors_count": 6,
-    "category": "Computer Vision"
+    "category": "Image Generation"
   },
   {
     "full_name": "hojonathanho/diffusion",
@@ -829,7 +829,7 @@
     "updated_at": "2026-09-03T09:34:54Z",
     "url": "https://github.com/hojonathanho/diffusion",
     "contributors_count": 1,
-    "category": "Computer Vision"
+    "category": "Image Generation"
   },
   {
     "full_name": "IDEA-Research/GroundingDINO",
@@ -1830,7 +1830,7 @@
     "updated_at": "2026-09-03T07:45:59Z",
     "url": "https://github.com/salesforce/BLIP",
     "contributors_count": 5,
-    "category": "Computer Vision"
+    "category": "VLM"
   },
   {
     "full_name": "salesforce/LAVIS",
@@ -1843,7 +1843,7 @@
     "updated_at": "2026-09-03T10:05:10Z",
     "url": "https://github.com/salesforce/LAVIS",
     "contributors_count": 28,
-    "category": "Computer Vision"
+    "category": "VLM"
   },
   {
     "full_name": "haotian-liu/LLaVA",
@@ -1856,7 +1856,7 @@
     "updated_at": "2026-09-03T10:26:01Z",
     "url": "https://github.com/haotian-liu/LLaVA",
     "contributors_count": 48,
-    "category": "Computer Vision"
+    "category": "VLM"
   },
   {
     "full_name": "AlexeyAB/darknet",
@@ -2051,7 +2051,7 @@
     "updated_at": "2026-09-02T12:01:13Z",
     "url": "https://github.com/NVlabs/stylegan",
     "contributors_count": 2,
-    "category": "Computer Vision"
+    "category": "Image Generation"
   },
   {
     "full_name": "tkarras/progressive_growing_of_gans",
@@ -2064,7 +2064,7 @@
     "updated_at": "2026-09-02T17:05:27Z",
     "url": "https://github.com/tkarras/progressive_growing_of_gans",
     "contributors_count": 1,
-    "category": "Computer Vision"
+    "category": "Image Generation"
   },
   {
     "full_name": "junyanz/pytorch-CycleGAN-and-pix2pix",
@@ -2077,7 +2077,7 @@
     "updated_at": "2026-09-03T09:05:45Z",
     "url": "https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix",
     "contributors_count": 72,
-    "category": "Computer Vision"
+    "category": "Image Generation"
   },
   {
     "full_name": "xinntao/ESRGAN",
@@ -2090,7 +2090,7 @@
     "updated_at": "2026-08-29T16:42:21Z",
     "url": "https://github.com/xinntao/ESRGAN",
     "contributors_count": 1,
-    "category": "Computer Vision"
+    "category": "Image Generation"
   },
   {
     "full_name": "xinntao/Real-ESRGAN",
@@ -2103,7 +2103,7 @@
     "updated_at": "2026-09-03T11:05:20Z",
     "url": "https://github.com/xinntao/Real-ESRGAN",
     "contributors_count": 11,
-    "category": "Computer Vision"
+    "category": "Image Generation"
   },
   {
     "full_name": "JingyunLiang/SwinIR",
@@ -2194,7 +2194,7 @@
     "updated_at": "2026-08-28T08:52:33Z",
     "url": "https://github.com/DmitryUlyanov/deep-image-prior",
     "contributors_count": 7,
-    "category": "Computer Vision"
+    "category": "Image Generation"
   },
   {
     "full_name": "facebookresearch/moco",
@@ -2558,7 +2558,7 @@
     "updated_at": "2026-09-03T05:21:40Z",
     "url": "https://github.com/facebookresearch/ImageBind",
     "contributors_count": 21,
-    "category": "Computer Vision"
+    "category": "VLM"
   },
   {
     "full_name": "baaivision/EVA",
@@ -2662,7 +2662,7 @@
     "updated_at": "2026-09-03T10:04:40Z",
     "url": "https://github.com/microsoft/unilm",
     "contributors_count": 78,
-    "category": "Computer Vision"
+    "category": "VLM"
   },
   {
     "full_name": "sunset1995/DirectVoxGO",
@@ -3885,5 +3885,369 @@
     "url": "https://github.com/SHI-Labs/OneFormer",
     "contributors_count": 5,
     "category": "Computer Vision"
+  },
+  {
+    "full_name": "Vision-CAIR/MiniGPT-4",
+    "owner": "Vision-CAIR",
+    "repo": "MiniGPT-4",
+    "description": null,
+    "stars": null,
+    "forks": null,
+    "language": null,
+    "updated_at": null,
+    "url": "https://github.com/Vision-CAIR/MiniGPT-4",
+    "contributors_count": null,
+    "category": "VLM"
+  },
+  {
+    "full_name": "OpenGVLab/InternVL",
+    "owner": "OpenGVLab",
+    "repo": "InternVL",
+    "description": null,
+    "stars": null,
+    "forks": null,
+    "language": null,
+    "updated_at": null,
+    "url": "https://github.com/OpenGVLab/InternVL",
+    "contributors_count": null,
+    "category": "VLM"
+  },
+  {
+    "full_name": "QwenLM/Qwen-VL",
+    "owner": "QwenLM",
+    "repo": "Qwen-VL",
+    "description": null,
+    "stars": null,
+    "forks": null,
+    "language": null,
+    "updated_at": null,
+    "url": "https://github.com/QwenLM/Qwen-VL",
+    "contributors_count": null,
+    "category": "VLM"
+  },
+  {
+    "full_name": "zai-org/CogVLM",
+    "owner": "zai-org",
+    "repo": "CogVLM",
+    "description": null,
+    "stars": null,
+    "forks": null,
+    "language": null,
+    "updated_at": null,
+    "url": "https://github.com/zai-org/CogVLM",
+    "contributors_count": null,
+    "category": "VLM"
+  },
+  {
+    "full_name": "allenai/molmo",
+    "owner": "allenai",
+    "repo": "molmo",
+    "description": null,
+    "stars": null,
+    "forks": null,
+    "language": null,
+    "updated_at": null,
+    "url": "https://github.com/allenai/molmo",
+    "contributors_count": null,
+    "category": "VLM"
+  },
+  {
+    "full_name": "google-research/big_vision",
+    "owner": "google-research",
+    "repo": "big_vision",
+    "description": null,
+    "stars": null,
+    "forks": null,
+    "language": null,
+    "updated_at": null,
+    "url": "https://github.com/google-research/big_vision",
+    "contributors_count": null,
+    "category": "VLM"
+  },
+  {
+    "full_name": "facebookresearch/DiT",
+    "owner": "facebookresearch",
+    "repo": "DiT",
+    "description": null,
+    "stars": null,
+    "forks": null,
+    "language": null,
+    "updated_at": null,
+    "url": "https://github.com/facebookresearch/DiT",
+    "contributors_count": null,
+    "category": "Image Generation"
+  },
+  {
+    "full_name": "Stability-AI/generative-models",
+    "owner": "Stability-AI",
+    "repo": "generative-models",
+    "description": null,
+    "stars": null,
+    "forks": null,
+    "language": null,
+    "updated_at": null,
+    "url": "https://github.com/Stability-AI/generative-models",
+    "contributors_count": null,
+    "category": "Image Generation"
+  },
+  {
+    "full_name": "black-forest-labs/flux",
+    "owner": "black-forest-labs",
+    "repo": "flux",
+    "description": null,
+    "stars": null,
+    "forks": null,
+    "language": null,
+    "updated_at": null,
+    "url": "https://github.com/black-forest-labs/flux",
+    "contributors_count": null,
+    "category": "Image Generation"
+  },
+  {
+    "full_name": "AUTOMATIC1111/stable-diffusion-webui",
+    "owner": "AUTOMATIC1111",
+    "repo": "stable-diffusion-webui",
+    "description": null,
+    "stars": null,
+    "forks": null,
+    "language": null,
+    "updated_at": null,
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "contributors_count": null,
+    "category": "Image Generation"
+  },
+  {
+    "full_name": "Comfy-Org/ComfyUI",
+    "owner": "Comfy-Org",
+    "repo": "ComfyUI",
+    "description": null,
+    "stars": null,
+    "forks": null,
+    "language": null,
+    "updated_at": null,
+    "url": "https://github.com/Comfy-Org/ComfyUI",
+    "contributors_count": null,
+    "category": "Image Generation"
+  },
+  {
+    "full_name": "lllyasviel/Fooocus",
+    "owner": "lllyasviel",
+    "repo": "Fooocus",
+    "description": null,
+    "stars": null,
+    "forks": null,
+    "language": null,
+    "updated_at": null,
+    "url": "https://github.com/lllyasviel/Fooocus",
+    "contributors_count": null,
+    "category": "Image Generation"
+  },
+  {
+    "full_name": "timothybrooks/instruct-pix2pix",
+    "owner": "timothybrooks",
+    "repo": "instruct-pix2pix",
+    "description": null,
+    "stars": null,
+    "forks": null,
+    "language": null,
+    "updated_at": null,
+    "url": "https://github.com/timothybrooks/instruct-pix2pix",
+    "contributors_count": null,
+    "category": "Image Generation"
+  },
+  {
+    "full_name": "PixArt-alpha/PixArt-alpha",
+    "owner": "PixArt-alpha",
+    "repo": "PixArt-alpha",
+    "description": null,
+    "stars": null,
+    "forks": null,
+    "language": null,
+    "updated_at": null,
+    "url": "https://github.com/PixArt-alpha/PixArt-alpha",
+    "contributors_count": null,
+    "category": "Image Generation"
+  },
+  {
+    "full_name": "huggingface/diffusers",
+    "owner": "huggingface",
+    "repo": "diffusers",
+    "description": null,
+    "stars": null,
+    "forks": null,
+    "language": null,
+    "updated_at": null,
+    "url": "https://github.com/huggingface/diffusers",
+    "contributors_count": null,
+    "category": "Image Generation"
+  },
+  {
+    "full_name": "google/dreambooth",
+    "owner": "google",
+    "repo": "dreambooth",
+    "description": null,
+    "stars": null,
+    "forks": null,
+    "language": null,
+    "updated_at": null,
+    "url": "https://github.com/google/dreambooth",
+    "contributors_count": null,
+    "category": "Image Generation"
+  },
+  {
+    "full_name": "bigcode-project/starcoder",
+    "owner": "bigcode-project",
+    "repo": "starcoder",
+    "description": null,
+    "stars": null,
+    "forks": null,
+    "language": null,
+    "updated_at": null,
+    "url": "https://github.com/bigcode-project/starcoder",
+    "contributors_count": null,
+    "category": "Coding AI"
+  },
+  {
+    "full_name": "meta-llama/codellama",
+    "owner": "meta-llama",
+    "repo": "codellama",
+    "description": null,
+    "stars": null,
+    "forks": null,
+    "language": null,
+    "updated_at": null,
+    "url": "https://github.com/meta-llama/codellama",
+    "contributors_count": null,
+    "category": "Coding AI"
+  },
+  {
+    "full_name": "deepseek-ai/DeepSeek-Coder-V2",
+    "owner": "deepseek-ai",
+    "repo": "DeepSeek-Coder-V2",
+    "description": null,
+    "stars": null,
+    "forks": null,
+    "language": null,
+    "updated_at": null,
+    "url": "https://github.com/deepseek-ai/DeepSeek-Coder-V2",
+    "contributors_count": null,
+    "category": "Coding AI"
+  },
+  {
+    "full_name": "QwenLM/Qwen3-Coder",
+    "owner": "QwenLM",
+    "repo": "Qwen3-Coder",
+    "description": null,
+    "stars": null,
+    "forks": null,
+    "language": null,
+    "updated_at": null,
+    "url": "https://github.com/QwenLM/Qwen3-Coder",
+    "contributors_count": null,
+    "category": "Coding AI"
+  },
+  {
+    "full_name": "salesforce/CodeT5",
+    "owner": "salesforce",
+    "repo": "CodeT5",
+    "description": null,
+    "stars": null,
+    "forks": null,
+    "language": null,
+    "updated_at": null,
+    "url": "https://github.com/salesforce/CodeT5",
+    "contributors_count": null,
+    "category": "Coding AI"
+  },
+  {
+    "full_name": "openai/human-eval",
+    "owner": "openai",
+    "repo": "human-eval",
+    "description": null,
+    "stars": null,
+    "forks": null,
+    "language": null,
+    "updated_at": null,
+    "url": "https://github.com/openai/human-eval",
+    "contributors_count": null,
+    "category": "Coding AI"
+  },
+  {
+    "full_name": "SWE-bench/SWE-bench",
+    "owner": "SWE-bench",
+    "repo": "SWE-bench",
+    "description": null,
+    "stars": null,
+    "forks": null,
+    "language": null,
+    "updated_at": null,
+    "url": "https://github.com/SWE-bench/SWE-bench",
+    "contributors_count": null,
+    "category": "Coding AI"
+  },
+  {
+    "full_name": "SWE-agent/SWE-agent",
+    "owner": "SWE-agent",
+    "repo": "SWE-agent",
+    "description": null,
+    "stars": null,
+    "forks": null,
+    "language": null,
+    "updated_at": null,
+    "url": "https://github.com/SWE-agent/SWE-agent",
+    "contributors_count": null,
+    "category": "Coding AI"
+  },
+  {
+    "full_name": "OpenHands/OpenHands",
+    "owner": "OpenHands",
+    "repo": "OpenHands",
+    "description": null,
+    "stars": null,
+    "forks": null,
+    "language": null,
+    "updated_at": null,
+    "url": "https://github.com/OpenHands/OpenHands",
+    "contributors_count": null,
+    "category": "Coding AI"
+  },
+  {
+    "full_name": "Aider-AI/aider",
+    "owner": "Aider-AI",
+    "repo": "aider",
+    "description": null,
+    "stars": null,
+    "forks": null,
+    "language": null,
+    "updated_at": null,
+    "url": "https://github.com/Aider-AI/aider",
+    "contributors_count": null,
+    "category": "Coding AI"
+  },
+  {
+    "full_name": "continuedev/continue",
+    "owner": "continuedev",
+    "repo": "continue",
+    "description": null,
+    "stars": null,
+    "forks": null,
+    "language": null,
+    "updated_at": null,
+    "url": "https://github.com/continuedev/continue",
+    "contributors_count": null,
+    "category": "Coding AI"
+  },
+  {
+    "full_name": "TabbyML/tabby",
+    "owner": "TabbyML",
+    "repo": "tabby",
+    "description": null,
+    "stars": null,
+    "forks": null,
+    "language": null,
+    "updated_at": null,
+    "url": "https://github.com/TabbyML/tabby",
+    "contributors_count": null,
+    "category": "Coding AI"
   }
 ]

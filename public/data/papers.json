@@ -245,7 +245,7 @@
     "venue": "arXiv (Cornell University)",
     "cited_by_count": 5296,
     "url": "http://arxiv.org/abs/2103.00020",
-    "category": "Computer Vision",
+    "category": "VLM",
     "title_hint": "Learning Transferable Visual Models From Natural Language Supervision"
   },
   {
@@ -1152,7 +1152,7 @@
     "venue": "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
     "cited_by_count": 15123,
     "url": "https://doi.org/10.1109/cvpr52688.2022.01042",
-    "category": "Computer Vision",
+    "category": "Image Generation",
     "title_hint": "High-Resolution Image Synthesis with Latent Diffusion Models"
   },
   {
@@ -1169,7 +1169,7 @@
     "venue": "arXiv (Cornell University)",
     "cited_by_count": 5678,
     "url": "http://arxiv.org/abs/2006.11239",
-    "category": "Computer Vision",
+    "category": "Image Generation",
     "title_hint": "Denoising Diffusion Probabilistic Models"
   },
   {
@@ -1186,7 +1186,7 @@
     "venue": null,
     "cited_by_count": 4036,
     "url": "https://doi.org/10.1109/iccv51070.2023.00355",
-    "category": "Computer Vision",
+    "category": "Image Generation",
     "title_hint": "Adding Conditional Control to Text-to-Image Diffusion Models"
   },
   {
@@ -2813,7 +2813,7 @@
     "venue": "arXiv (Cornell University)",
     "cited_by_count": 871,
     "url": "http://arxiv.org/abs/2201.12086",
-    "category": "Computer Vision",
+    "category": "VLM",
     "title_hint": "BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation"
   },
   {
@@ -2831,7 +2831,7 @@
     "venue": null,
     "cited_by_count": 1380,
     "url": "https://doi.org/10.1109/cvpr52733.2024.02484",
-    "category": "Computer Vision",
+    "category": "VLM",
     "title_hint": "Visual Instruction Tuning"
   },
   {
@@ -3145,7 +3145,7 @@
     "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
     "cited_by_count": 763,
     "url": "https://doi.org/10.1109/tpami.2020.2970919",
-    "category": "Computer Vision",
+    "category": "Image Generation",
     "title_hint": "A Style-Based Generator Architecture for Generative Adversarial Networks"
   },
   {
@@ -3163,7 +3163,7 @@
     "venue": "arXiv (Cornell University)",
     "cited_by_count": 1556,
     "url": "http://arxiv.org/abs/1710.10196",
-    "category": "Computer Vision",
+    "category": "Image Generation",
     "title_hint": "Progressive Growing of GANs for Improved Quality, Stability, and Variation"
   },
   {
@@ -3181,7 +3181,7 @@
     "venue": null,
     "cited_by_count": 22319,
     "url": "https://doi.org/10.1109/iccv.2017.244",
-    "category": "Computer Vision",
+    "category": "Image Generation",
     "title_hint": "Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks"
   },
   {
@@ -3198,7 +3198,7 @@
     "venue": null,
     "cited_by_count": 6117,
     "url": "https://doi.org/10.1109/cvpr.2016.265",
-    "category": "Computer Vision",
+    "category": "Image Generation",
     "title_hint": "Image Style Transfer Using Convolutional Neural Networks"
   },
   {
@@ -3220,7 +3220,7 @@
     "venue": "Lecture notes in computer science",
     "cited_by_count": 3998,
     "url": "https://doi.org/10.1007/978-3-030-11021-5_5",
-    "category": "Computer Vision",
+    "category": "Image Generation",
     "title_hint": "ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks"
   },
   {
@@ -3382,7 +3382,7 @@
     "venue": null,
     "cited_by_count": 1987,
     "url": "https://doi.org/10.1109/cvpr.2018.00984",
-    "category": "Computer Vision",
+    "category": "Image Generation",
     "title_hint": "Deep Image Prior"
   },
   {
@@ -3809,7 +3809,7 @@
     "venue": null,
     "cited_by_count": null,
     "url": null,
-    "category": "Computer Vision",
+    "category": "VLM",
     "title_hint": "ImageBind: One Embedding Space To Bind Them All"
   },
   {
@@ -3874,7 +3874,7 @@
     "venue": null,
     "cited_by_count": null,
     "url": null,
-    "category": "Computer Vision",
+    "category": "Image Generation",
     "title_hint": "Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks"
   },
   {
@@ -3887,7 +3887,7 @@
     "venue": null,
     "cited_by_count": null,
     "url": null,
-    "category": "Computer Vision",
+    "category": "Image Generation",
     "title_hint": "Wasserstein GAN"
   },
   {
@@ -4884,5 +4884,408 @@
     "url": null,
     "category": "3D Vision",
     "title_hint": "One-2-3-45: Any Single Image to 3D Mesh in 45 Seconds without Per-Shape Optimization"
+  },
+  {
+    "key": "10.48550/arxiv.2301.12597",
+    "openalex_id": null,
+    "doi": "10.48550/arxiv.2301.12597",
+    "title": null,
+    "authors": [],
+    "year": null,
+    "venue": null,
+    "cited_by_count": null,
+    "url": null,
+    "category": "VLM",
+    "title_hint": "BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models"
+  },
+  {
+    "key": "10.48550/arxiv.2204.14198",
+    "openalex_id": null,
+    "doi": "10.48550/arxiv.2204.14198",
+    "title": null,
+    "authors": [],
+    "year": null,
+    "venue": null,
+    "cited_by_count": null,
+    "url": null,
+    "category": "VLM",
+    "title_hint": "Flamingo: a Visual Language Model for Few-Shot Learning"
+  },
+  {
+    "key": "10.48550/arxiv.2305.06500",
+    "openalex_id": null,
+    "doi": "10.48550/arxiv.2305.06500",
+    "title": null,
+    "authors": [],
+    "year": null,
+    "venue": null,
+    "cited_by_count": null,
+    "url": null,
+    "category": "VLM",
+    "title_hint": "InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning"
+  },
+  {
+    "key": "10.48550/arxiv.2304.10592",
+    "openalex_id": null,
+    "doi": "10.48550/arxiv.2304.10592",
+    "title": null,
+    "authors": [],
+    "year": null,
+    "venue": null,
+    "cited_by_count": null,
+    "url": null,
+    "category": "VLM",
+    "title_hint": "MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models"
+  },
+  {
+    "key": "10.48550/arxiv.2209.06794",
+    "openalex_id": null,
+    "doi": "10.48550/arxiv.2209.06794",
+    "title": null,
+    "authors": [],
+    "year": null,
+    "venue": null,
+    "cited_by_count": null,
+    "url": null,
+    "category": "VLM",
+    "title_hint": "PaLI: A Jointly-Scaled Multilingual Language-Image Model"
+  },
+  {
+    "key": "10.48550/arxiv.2308.12966",
+    "openalex_id": null,
+    "doi": "10.48550/arxiv.2308.12966",
+    "title": null,
+    "authors": [],
+    "year": null,
+    "venue": null,
+    "cited_by_count": null,
+    "url": null,
+    "category": "VLM",
+    "title_hint": "Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond"
+  },
+  {
+    "key": "10.48550/arxiv.2312.14238",
+    "openalex_id": null,
+    "doi": "10.48550/arxiv.2312.14238",
+    "title": null,
+    "authors": [],
+    "year": null,
+    "venue": null,
+    "cited_by_count": null,
+    "url": null,
+    "category": "VLM",
+    "title_hint": "InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks"
+  },
+  {
+    "key": "10.48550/arxiv.2311.03079",
+    "openalex_id": null,
+    "doi": "10.48550/arxiv.2311.03079",
+    "title": null,
+    "authors": [],
+    "year": null,
+    "venue": null,
+    "cited_by_count": null,
+    "url": null,
+    "category": "VLM",
+    "title_hint": "CogVLM: Visual Expert for Pretrained Language Models"
+  },
+  {
+    "key": "10.48550/arxiv.2407.07726",
+    "openalex_id": null,
+    "doi": "10.48550/arxiv.2407.07726",
+    "title": null,
+    "authors": [],
+    "year": null,
+    "venue": null,
+    "cited_by_count": null,
+    "url": null,
+    "category": "VLM",
+    "title_hint": "PaliGemma: A versatile 3B VLM for transfer"
+  },
+  {
+    "key": "10.48550/arxiv.2409.17146",
+    "openalex_id": null,
+    "doi": "10.48550/arxiv.2409.17146",
+    "title": null,
+    "authors": [],
+    "year": null,
+    "venue": null,
+    "cited_by_count": null,
+    "url": null,
+    "category": "VLM",
+    "title_hint": "Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Multimodal Models"
+  },
+  {
+    "key": "10.48550/arxiv.2212.09748",
+    "openalex_id": null,
+    "doi": "10.48550/arxiv.2212.09748",
+    "title": null,
+    "authors": [],
+    "year": null,
+    "venue": null,
+    "cited_by_count": null,
+    "url": null,
+    "category": "Image Generation",
+    "title_hint": "Scalable Diffusion Models with Transformers"
+  },
+  {
+    "key": "10.48550/arxiv.2102.12092",
+    "openalex_id": null,
+    "doi": "10.48550/arxiv.2102.12092",
+    "title": null,
+    "authors": [],
+    "year": null,
+    "venue": null,
+    "cited_by_count": null,
+    "url": null,
+    "category": "Image Generation",
+    "title_hint": "Zero-Shot Text-to-Image Generation"
+  },
+  {
+    "key": "10.48550/arxiv.2204.06125",
+    "openalex_id": null,
+    "doi": "10.48550/arxiv.2204.06125",
+    "title": null,
+    "authors": [],
+    "year": null,
+    "venue": null,
+    "cited_by_count": null,
+    "url": null,
+    "category": "Image Generation",
+    "title_hint": "Hierarchical Text-Conditional Image Generation with CLIP Latents"
+  },
+  {
+    "key": "10.48550/arxiv.2205.11487",
+    "openalex_id": null,
+    "doi": "10.48550/arxiv.2205.11487",
+    "title": null,
+    "authors": [],
+    "year": null,
+    "venue": null,
+    "cited_by_count": null,
+    "url": null,
+    "category": "Image Generation",
+    "title_hint": "Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding"
+  },
+  {
+    "key": "10.48550/arxiv.2307.01952",
+    "openalex_id": null,
+    "doi": "10.48550/arxiv.2307.01952",
+    "title": null,
+    "authors": [],
+    "year": null,
+    "venue": null,
+    "cited_by_count": null,
+    "url": null,
+    "category": "Image Generation",
+    "title_hint": "SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis"
+  },
+  {
+    "key": "10.48550/arxiv.2403.03206",
+    "openalex_id": null,
+    "doi": "10.48550/arxiv.2403.03206",
+    "title": null,
+    "authors": [],
+    "year": null,
+    "venue": null,
+    "cited_by_count": null,
+    "url": null,
+    "category": "Image Generation",
+    "title_hint": "Scaling Rectified Flow Transformers for High-Resolution Image Synthesis"
+  },
+  {
+    "key": "10.48550/arxiv.2211.09800",
+    "openalex_id": null,
+    "doi": "10.48550/arxiv.2211.09800",
+    "title": null,
+    "authors": [],
+    "year": null,
+    "venue": null,
+    "cited_by_count": null,
+    "url": null,
+    "category": "Image Generation",
+    "title_hint": "InstructPix2Pix: Learning to Follow Image Editing Instructions"
+  },
+  {
+    "key": "10.48550/arxiv.2208.12242",
+    "openalex_id": null,
+    "doi": "10.48550/arxiv.2208.12242",
+    "title": null,
+    "authors": [],
+    "year": null,
+    "venue": null,
+    "cited_by_count": null,
+    "url": null,
+    "category": "Image Generation",
+    "title_hint": "DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation"
+  },
+  {
+    "key": "10.48550/arxiv.2112.10741",
+    "openalex_id": null,
+    "doi": "10.48550/arxiv.2112.10741",
+    "title": null,
+    "authors": [],
+    "year": null,
+    "venue": null,
+    "cited_by_count": null,
+    "url": null,
+    "category": "Image Generation",
+    "title_hint": "GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models"
+  },
+  {
+    "key": "10.48550/arxiv.2310.00426",
+    "openalex_id": null,
+    "doi": "10.48550/arxiv.2310.00426",
+    "title": null,
+    "authors": [],
+    "year": null,
+    "venue": null,
+    "cited_by_count": null,
+    "url": null,
+    "category": "Image Generation",
+    "title_hint": "PixArt-alpha: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis"
+  },
+  {
+    "key": "10.48550/arxiv.2506.15742",
+    "openalex_id": null,
+    "doi": "10.48550/arxiv.2506.15742",
+    "title": null,
+    "authors": [],
+    "year": null,
+    "venue": null,
+    "cited_by_count": null,
+    "url": null,
+    "category": "Image Generation",
+    "title_hint": "FLUX.1 Kontext: Flow Matching for In-Context Image Generation and Editing in Latent Space"
+  },
+  {
+    "key": "10.48550/arxiv.2107.03374",
+    "openalex_id": null,
+    "doi": "10.48550/arxiv.2107.03374",
+    "title": null,
+    "authors": [],
+    "year": null,
+    "venue": null,
+    "cited_by_count": null,
+    "url": null,
+    "category": "Coding AI",
+    "title_hint": "Evaluating Large Language Models Trained on Code"
+  },
+  {
+    "key": "10.48550/arxiv.2203.07814",
+    "openalex_id": null,
+    "doi": "10.48550/arxiv.2203.07814",
+    "title": null,
+    "authors": [],
+    "year": null,
+    "venue": null,
+    "cited_by_count": null,
+    "url": null,
+    "category": "Coding AI",
+    "title_hint": "Competition-Level Code Generation with AlphaCode"
+  },
+  {
+    "key": "10.48550/arxiv.2305.06161",
+    "openalex_id": null,
+    "doi": "10.48550/arxiv.2305.06161",
+    "title": null,
+    "authors": [],
+    "year": null,
+    "venue": null,
+    "cited_by_count": null,
+    "url": null,
+    "category": "Coding AI",
+    "title_hint": "StarCoder: may the source be with you!"
+  },
+  {
+    "key": "10.48550/arxiv.2308.12950",
+    "openalex_id": null,
+    "doi": "10.48550/arxiv.2308.12950",
+    "title": null,
+    "authors": [],
+    "year": null,
+    "venue": null,
+    "cited_by_count": null,
+    "url": null,
+    "category": "Coding AI",
+    "title_hint": "Code Llama: Open Foundation Models for Code"
+  },
+  {
+    "key": "10.48550/arxiv.2406.11931",
+    "openalex_id": null,
+    "doi": "10.48550/arxiv.2406.11931",
+    "title": null,
+    "authors": [],
+    "year": null,
+    "venue": null,
+    "cited_by_count": null,
+    "url": null,
+    "category": "Coding AI",
+    "title_hint": "DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence"
+  },
+  {
+    "key": "10.48550/arxiv.2310.06770",
+    "openalex_id": null,
+    "doi": "10.48550/arxiv.2310.06770",
+    "title": null,
+    "authors": [],
+    "year": null,
+    "venue": null,
+    "cited_by_count": null,
+    "url": null,
+    "category": "Coding AI",
+    "title_hint": "SWE-bench: Can Language Models Resolve Real-World Bugs?"
+  },
+  {
+    "key": "10.48550/arxiv.2405.15793",
+    "openalex_id": null,
+    "doi": "10.48550/arxiv.2405.15793",
+    "title": null,
+    "authors": [],
+    "year": null,
+    "venue": null,
+    "cited_by_count": null,
+    "url": null,
+    "category": "Coding AI",
+    "title_hint": "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering"
+  },
+  {
+    "key": "10.48550/arxiv.2409.12186",
+    "openalex_id": null,
+    "doi": "10.48550/arxiv.2409.12186",
+    "title": null,
+    "authors": [],
+    "year": null,
+    "venue": null,
+    "cited_by_count": null,
+    "url": null,
+    "category": "Coding AI",
+    "title_hint": "Qwen2.5-Coder Technical Report"
+  },
+  {
+    "key": "10.48550/arxiv.2109.00859",
+    "openalex_id": null,
+    "doi": "10.48550/arxiv.2109.00859",
+    "title": null,
+    "authors": [],
+    "year": null,
+    "venue": null,
+    "cited_by_count": null,
+    "url": null,
+    "category": "Coding AI",
+    "title_hint": "CodeT5: Identifier-aware Unified Pre-trained Encoder-Decoder Models for Code Understanding and Generation"
+  },
+  {
+    "key": "10.48550/arxiv.2407.16741",
+    "openalex_id": null,
+    "doi": "10.48550/arxiv.2407.16741",
+    "title": null,
+    "authors": [],
+    "year": null,
+    "venue": null,
+    "cited_by_count": null,
+    "url": null,
+    "category": "Coding AI",
+    "title_hint": "OpenHands: An Open Platform for AI Software Developers as Generalist Agents"
   }
 ]
