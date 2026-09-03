@@ -21,8 +21,22 @@ import {
 const OPENALEX_MAILTO = process.env.OPENALEX_MAILTO || "paper-oss-ranking@example.com";
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN || process.env.GH_TOKEN || "";
 const S2_API_KEY = process.env.SEMANTIC_SCHOLAR_API_KEY || "";
-// Unauthenticated Semantic Scholar: max ~100 req / 5 min -> stay well below it.
-const S2_DELAY_MS = S2_API_KEY ? 1100 : 3000;
+// Unauthenticated Semantic Scholar: max ~100 req / 5 min shared per IP -> stay well below it.
+const S2_DELAY_MS = S2_API_KEY ? 1100 : 5000;
+
+/** Retry helper for rate limits (HTTP 429): wait and try once more. */
+async function withRetry(fn, waitMs, label) {
+  try {
+    return await fn();
+  } catch (e) {
+    if (String(e.message).includes("429")) {
+      log(`${label}: rate-limited, waiting ${Math.round(waitMs / 1000)}s before one retry`);
+      await sleep(waitMs);
+      return await fn();
+    }
+    throw e;
+  }
+}
 
 function log(...a) {
   console.log("[update-data]", ...a);
@@ -188,16 +202,23 @@ async function main() {
         let patch = null;
         if (p.doi) {
           try {
-            const work = await fetchWorkByDoi(p.doi);
+            const work = await withRetry(
+              async () => {
+                const w = await fetchWorkByDoi(p.doi);
+                return w && !w.__notFound ? w : null;
+              },
+              90000,
+              `OpenAlex DOI ${p.doi}`,
+            );
             // DOI endpoint is exact: a returned record owns that DOI, trust it.
-            if (work && !work.__notFound) patch = toPaperPatch(work);
+            if (work) patch = toPaperPatch(work);
           } catch (e) {
             log(`OpenAlex DOI lookup failed for ${p.doi}: ${e.message}`);
           }
         }
         if (!patch && p.title_hint) {
           try {
-            const work = await searchWork(p.title_hint);
+            const work = await withRetry(() => searchWork(p.title_hint), 90000, "OpenAlex search");
             // Search hits must pass the relevance gate (never store a wrong record).
             if (work && titleMatchOk(p.title_hint, work.title)) patch = toPaperPatch(work);
             else if (work) log(`OpenAlex top hit rejected for "${p.title_hint}": "${work.title}"`);
@@ -208,7 +229,7 @@ async function main() {
         if (!patch && p.title_hint) {
           try {
             await sleep(S2_DELAY_MS);
-            patch = await searchSemanticScholar(p.title_hint);
+            patch = await withRetry(() => searchSemanticScholar(p.title_hint), 120000, "Semantic Scholar");
             if (patch) log(`Semantic Scholar fallback hit for "${p.title_hint}"`);
           } catch (e) {
             log(`Semantic Scholar failed for "${p.title_hint}": ${e.message}`);
