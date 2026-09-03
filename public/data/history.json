@@ -2935,6 +2935,174 @@
         "date": "2026-09-03",
         "value": 1735
       }
+    ],
+    "Vision-CAIR/MiniGPT-4": [
+      {
+        "date": "2026-09-03",
+        "value": 25619
+      }
+    ],
+    "OpenGVLab/InternVL": [
+      {
+        "date": "2026-09-03",
+        "value": 10148
+      }
+    ],
+    "QwenLM/Qwen-VL": [
+      {
+        "date": "2026-09-03",
+        "value": 6727
+      }
+    ],
+    "zai-org/CogVLM": [
+      {
+        "date": "2026-09-03",
+        "value": 6744
+      }
+    ],
+    "allenai/molmo": [
+      {
+        "date": "2026-09-03",
+        "value": 931
+      }
+    ],
+    "google-research/big_vision": [
+      {
+        "date": "2026-09-03",
+        "value": 3533
+      }
+    ],
+    "facebookresearch/DiT": [
+      {
+        "date": "2026-09-03",
+        "value": 8690
+      }
+    ],
+    "Stability-AI/generative-models": [
+      {
+        "date": "2026-09-03",
+        "value": 27280
+      }
+    ],
+    "black-forest-labs/flux": [
+      {
+        "date": "2026-09-03",
+        "value": 25938
+      }
+    ],
+    "AUTOMATIC1111/stable-diffusion-webui": [
+      {
+        "date": "2026-09-03",
+        "value": 164784
+      }
+    ],
+    "Comfy-Org/ComfyUI": [
+      {
+        "date": "2026-09-03",
+        "value": 131331
+      }
+    ],
+    "lllyasviel/Fooocus": [
+      {
+        "date": "2026-09-03",
+        "value": 52720
+      }
+    ],
+    "timothybrooks/instruct-pix2pix": [
+      {
+        "date": "2026-09-03",
+        "value": 6885
+      }
+    ],
+    "PixArt-alpha/PixArt-alpha": [
+      {
+        "date": "2026-09-03",
+        "value": 3304
+      }
+    ],
+    "huggingface/diffusers": [
+      {
+        "date": "2026-09-03",
+        "value": 34438
+      }
+    ],
+    "google/dreambooth": [
+      {
+        "date": "2026-09-03",
+        "value": 1029
+      }
+    ],
+    "bigcode-project/starcoder": [
+      {
+        "date": "2026-09-03",
+        "value": 7508
+      }
+    ],
+    "meta-llama/codellama": [
+      {
+        "date": "2026-09-03",
+        "value": 16266
+      }
+    ],
+    "deepseek-ai/DeepSeek-Coder-V2": [
+      {
+        "date": "2026-09-03",
+        "value": 7005
+      }
+    ],
+    "QwenLM/Qwen3-Coder": [
+      {
+        "date": "2026-09-03",
+        "value": 16832
+      }
+    ],
+    "salesforce/CodeT5": [
+      {
+        "date": "2026-09-03",
+        "value": 3094
+      }
+    ],
+    "openai/human-eval": [
+      {
+        "date": "2026-09-03",
+        "value": 3362
+      }
+    ],
+    "SWE-bench/SWE-bench": [
+      {
+        "date": "2026-09-03",
+        "value": 5769
+      }
+    ],
+    "SWE-agent/SWE-agent": [
+      {
+        "date": "2026-09-03",
+        "value": 20209
+      }
+    ],
+    "OpenHands/OpenHands": [
+      {
+        "date": "2026-09-03",
+        "value": 86069
+      }
+    ],
+    "Aider-AI/aider": [
+      {
+        "date": "2026-09-03",
+        "value": 48698
+      }
+    ],
+    "continuedev/continue": [
+      {
+        "date": "2026-09-03",
+        "value": 35739
+      }
+    ],
+    "TabbyML/tabby": [
+      {
+        "date": "2026-09-03",
+        "value": 33860
+      }
     ]
   }
 }
