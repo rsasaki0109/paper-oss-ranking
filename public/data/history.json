@@ -222,13 +222,13 @@
         "value": 27
       }
     ],
-    "W4290803068": [
+    "10.48550/arxiv.2208.04726": [
       {
         "date": "2026-09-03",
         "value": 40
       }
     ],
-    "W4402698355": [
+    "10.1109/cvpr52733.2024.02018": [
       {
         "date": "2026-09-03",
         "value": 400
@@ -378,7 +378,7 @@
         "value": 4036
       }
     ],
-    "W2163605009": [
+    "10.1145/3065386": [
       {
         "date": "2026-09-03",
         "value": 75666
@@ -420,7 +420,7 @@
         "value": 90
       }
     ],
-    "W4402753851": [
+    "10.1109/cvpr52733.2024.02049": [
       {
         "date": "2026-09-03",
         "value": 68
@@ -456,19 +456,19 @@
         "value": 7
       }
     ],
-    "W4393248012": [
+    "10.1145/3641519.3657428": [
       {
         "date": "2026-09-03",
         "value": 572
       }
     ],
-    "W4402704609": [
+    "10.1109/cvpr52733.2024.00512": [
       {
         "date": "2026-09-03",
         "value": 432
       }
     ],
-    "W4402727915": [
+    "10.1109/cvpr52733.2024.01920": [
       {
         "date": "2026-09-03",
         "value": 648
@@ -576,7 +576,7 @@
         "value": 3387
       }
     ],
-    "W2949708697": [
+    "10.1109/cvpr.2019.00086": [
       {
         "date": "2026-09-03",
         "value": 3046
@@ -641,6 +641,504 @@
         "date": "2026-09-03",
         "value": 195
       }
+    ],
+    "10.1109/iccv.2017.421": [
+      {
+        "date": "2026-09-03",
+        "value": 387
+      }
+    ],
+    "10.1177/0278364914554813": [
+      {
+        "date": "2026-09-03",
+        "value": 1745
+      }
+    ],
+    "10.1109/lra.2021.3140129": [
+      {
+        "date": "2026-09-03",
+        "value": 163
+      }
+    ],
+    "10.48550/arxiv.2011.00359": [
+      {
+        "date": "2026-09-03",
+        "value": 6
+      }
+    ],
+    "10.1109/cvpr52733.2024.02039": [
+      {
+        "date": "2026-09-03",
+        "value": 192
+      }
+    ],
+    "10.1109/iccv51070.2023.00345": [
+      {
+        "date": "2026-09-03",
+        "value": 142
+      }
+    ],
+    "10.1109/iros55552.2023.10341922": [
+      {
+        "date": "2026-09-03",
+        "value": 276
+      }
+    ],
+    "10.1109/cvpr52688.2022.01245": [
+      {
+        "date": "2026-09-03",
+        "value": 792
+      }
+    ],
+    "10.1109/iccv48922.2021.00617": [
+      {
+        "date": "2026-09-03",
+        "value": 2
+      }
+    ],
+    "10.1109/iccv51070.2023.01690": [
+      {
+        "date": "2026-09-03",
+        "value": 210
+      }
+    ],
+    "10.1177/0278364916669237": [
+      {
+        "date": "2026-09-03",
+        "value": 712
+      }
+    ],
+    "10.48550/arxiv.1604.01093": [
+      {
+        "date": "2026-09-03",
+        "value": 92
+      }
+    ],
+    "10.1109/ismar.2011.6092378": [
+      {
+        "date": "2026-09-03",
+        "value": 3999
+      }
+    ],
+    "10.1109/iccv.2011.6126513": [
+      {
+        "date": "2026-09-03",
+        "value": 2070
+      }
+    ],
+    "10.1109/lra.2018.2860039": [
+      {
+        "date": "2026-09-03",
+        "value": 1241
+      }
+    ],
+    "10.1109/iros40897.2019.8967704": [
+      {
+        "date": "2026-09-03",
+        "value": 501
+      }
+    ],
+    "10.1109/iros.2018.8593953": [
+      {
+        "date": "2026-09-03",
+        "value": 900
+      }
+    ],
+    "W2182229738": [
+      {
+        "date": "2026-09-03",
+        "value": 536
+      }
+    ],
+    "10.48550/arxiv.2111.07418": [
+      {
+        "date": "2026-09-03",
+        "value": 10
+      }
+    ],
+    "10.1109/wacv56688.2023.00301": [
+      {
+        "date": "2026-09-03",
+        "value": 243
+      }
+    ],
+    "10.1109/cvpr46437.2021.01392": [
+      {
+        "date": "2026-09-03",
+        "value": 14
+      }
+    ],
+    "10.1109/cvpr52733.2024.00259": [
+      {
+        "date": "2026-09-03",
+        "value": 172
+      }
+    ],
+    "W2991115635": [
+      {
+        "date": "2026-09-03",
+        "value": 156
+      }
+    ],
+    "10.1109/cvpr.2019.00828": [
+      {
+        "date": "2026-09-03",
+        "value": 1172
+      }
+    ],
+    "10.1109/tro.2020.3033695": [
+      {
+        "date": "2026-09-03",
+        "value": 874
+      }
+    ],
+    "10.1109/iccv.2011.6126544": [
+      {
+        "date": "2026-09-03",
+        "value": 10587
+      }
+    ],
+    "10.1109/iros51168.2021.9636655": [
+      {
+        "date": "2026-09-03",
+        "value": 13
+      }
+    ],
+    "10.1109/cvpr.2019.01300": [
+      {
+        "date": "2026-09-03",
+        "value": 49
+      }
+    ],
+    "10.1109/cvpr.2009.5206848": [
+      {
+        "date": "2026-09-03",
+        "value": 63069
+      }
+    ],
+    "10.1007/978-3-319-10602-1_48": [
+      {
+        "date": "2026-09-03",
+        "value": 43359
+      }
+    ],
+    "10.1109/iccv.2017.324": [
+      {
+        "date": "2026-09-03",
+        "value": 27052
+      }
+    ],
+    "10.1109/cvpr.2017.106": [
+      {
+        "date": "2026-09-03",
+        "value": 29701
+      }
+    ],
+    "10.1109/tpami.2017.2699184": [
+      {
+        "date": "2026-09-03",
+        "value": 22622
+      }
+    ],
+    "10.1109/cvpr.2015.7298965": [
+      {
+        "date": "2026-09-03",
+        "value": 37499
+      }
+    ],
+    "10.1109/iccv48922.2021.00986": [
+      {
+        "date": "2026-09-03",
+        "value": 32304
+      }
+    ],
+    "W3116489684": [
+      {
+        "date": "2026-09-03",
+        "value": 1049
+      }
+    ],
+    "10.48550/arxiv.2201.12086": [
+      {
+        "date": "2026-09-03",
+        "value": 871
+      }
+    ],
+    "10.1109/cvpr52733.2024.02484": [
+      {
+        "date": "2026-09-03",
+        "value": 1380
+      }
+    ],
+    "10.48550/arxiv.2004.10934": [
+      {
+        "date": "2026-09-03",
+        "value": 10536
+      }
+    ],
+    "10.1109/cvpr52729.2023.00721": [
+      {
+        "date": "2026-09-03",
+        "value": 11600
+      }
+    ],
+    "10.48550/arxiv.2107.08430": [
+      {
+        "date": "2026-09-03",
+        "value": 3034
+      }
+    ],
+    "10.1007/978-3-030-58548-8_28": [
+      {
+        "date": "2026-09-03",
+        "value": 1307
+      }
+    ],
+    "10.1109/iccv.2019.00972": [
+      {
+        "date": "2026-09-03",
+        "value": 6300
+      }
+    ],
+    "10.48550/arxiv.2010.04159": [
+      {
+        "date": "2026-09-03",
+        "value": 1868
+      }
+    ],
+    "10.48550/arxiv.2105.15203": [
+      {
+        "date": "2026-09-03",
+        "value": 898
+      }
+    ],
+    "10.48550/arxiv.2112.01527": [
+      {
+        "date": "2026-09-03",
+        "value": 131
+      }
+    ],
+    "10.1109/cvpr52688.2022.01167": [
+      {
+        "date": "2026-09-03",
+        "value": 7846
+      }
+    ],
+    "10.1109/cvpr.2018.00745": [
+      {
+        "date": "2026-09-03",
+        "value": 29932
+      }
+    ],
+    "10.1007/978-3-030-01234-2_1": [
+      {
+        "date": "2026-09-03",
+        "value": 23416
+      }
+    ],
+    "W2095705004": [
+      {
+        "date": "2026-09-03",
+        "value": 34236
+      }
+    ],
+    "10.1109/iccv.2017.74": [
+      {
+        "date": "2026-09-03",
+        "value": 22766
+      }
+    ],
+    "10.1109/cvpr.2017.243": [
+      {
+        "date": "2026-09-03",
+        "value": 45691
+      }
+    ],
+    "10.48550/arxiv.1704.04861": [
+      {
+        "date": "2026-09-03",
+        "value": 9885
+      }
+    ],
+    "10.48550/arxiv.1905.11946": [
+      {
+        "date": "2026-09-03",
+        "value": 5011
+      }
+    ],
+    "10.1109/cvpr.2019.00453": [
+      {
+        "date": "2026-09-03",
+        "value": 763
+      }
+    ],
+    "10.48550/arxiv.1710.10196": [
+      {
+        "date": "2026-09-03",
+        "value": 1556
+      }
+    ],
+    "10.1109/iccv.2017.244": [
+      {
+        "date": "2026-09-03",
+        "value": 22319
+      }
+    ],
+    "10.1109/cvpr.2016.265": [
+      {
+        "date": "2026-09-03",
+        "value": 6117
+      }
+    ],
+    "10.1007/978-3-030-11021-5_5": [
+      {
+        "date": "2026-09-03",
+        "value": 3998
+      }
+    ],
+    "10.1109/iccvw54120.2021.00210": [
+      {
+        "date": "2026-09-03",
+        "value": 4544
+      }
+    ],
+    "10.1007/978-3-030-58536-5_24": [
+      {
+        "date": "2026-09-03",
+        "value": 2515
+      }
+    ],
+    "10.1109/cvpr.2018.00931": [
+      {
+        "date": "2026-09-03",
+        "value": 2745
+      }
+    ],
+    "10.1109/iccv.2015.316": [
+      {
+        "date": "2026-09-03",
+        "value": 4272
+      }
+    ],
+    "10.48550/arxiv.1804.02767": [
+      {
+        "date": "2026-09-03",
+        "value": 5888
+      }
+    ],
+    "W3106250896": [
+      {
+        "date": "2026-09-03",
+        "value": 30521
+      }
+    ],
+    "10.1109/cvpr.2014.81": [
+      {
+        "date": "2026-09-03",
+        "value": 32147
+      }
+    ],
+    "10.1109/iccv.2015.169": [
+      {
+        "date": "2026-09-03",
+        "value": 28398
+      }
+    ],
+    "10.1109/cvpr.2018.00984": [
+      {
+        "date": "2026-09-03",
+        "value": 1987
+      }
+    ],
+    "10.1109/cvpr42600.2020.00975": [
+      {
+        "date": "2026-09-03",
+        "value": 12512
+      }
+    ],
+    "10.48550/arxiv.2002.05709": [
+      {
+        "date": "2026-09-03",
+        "value": 7341
+      }
+    ],
+    "10.48550/arxiv.2006.07733": [
+      {
+        "date": "2026-09-03",
+        "value": 3447
+      }
+    ],
+    "10.1109/cvpr.2016.350": [
+      {
+        "date": "2026-09-03",
+        "value": 12205
+      }
+    ],
+    "10.1109/tpami.2020.3014297": [
+      {
+        "date": "2026-09-03",
+        "value": 548
+      }
+    ],
+    "10.1109/tpami.2020.2983686": [
+      {
+        "date": "2026-09-03",
+        "value": 4787
+      }
+    ],
+    "10.1007/978-3-030-01231-1_29": [
+      {
+        "date": "2026-09-03",
+        "value": 2220
+      }
+    ],
+    "10.1007/978-3-319-46484-8_29": [
+      {
+        "date": "2026-09-03",
+        "value": 5258
+      }
+    ],
+    "10.1109/iccv.2017.256": [
+      {
+        "date": "2026-09-03",
+        "value": 1951
+      }
+    ],
+    "10.48550/arxiv.1906.08172": [
+      {
+        "date": "2026-09-03",
+        "value": 219
+      }
+    ],
+    "10.1145/3596711.3596800": [
+      {
+        "date": "2026-09-03",
+        "value": 760
+      }
+    ],
+    "10.48550/arxiv.2203.12602": [
+      {
+        "date": "2026-09-03",
+        "value": 2220
+      }
+    ],
+    "10.1109/iccv48922.2021.00581": [
+      {
+        "date": "2026-09-03",
+        "value": 1529
+      }
+    ],
+    "10.1109/cvpr52733.2024.00907": [
+      {
+        "date": "2026-09-03",
+        "value": 476
+      }
+    ],
+    "nerf++: analyzing and improving neural radiance fields": [
+      {
+        "date": "2026-09-03",
+        "value": 1250
+      }
     ]
   },
   "repos": {
@@ -689,19 +1187,19 @@
     "graphdeco-inria/gaussian-splatting": [
       {
         "date": "2026-09-03",
-        "value": 23716
+        "value": 23720
       }
     ],
     "facebookresearch/segment-anything": [
       {
         "date": "2026-09-03",
-        "value": 54790
+        "value": 54791
       }
     ],
     "ultralytics/ultralytics": [
       {
         "date": "2026-09-03",
-        "value": 61241
+        "value": 61243
       }
     ],
     "facebookresearch/vggt": [
@@ -731,7 +1229,7 @@
     "openai/CLIP": [
       {
         "date": "2026-09-03",
-        "value": 34254
+        "value": 34255
       }
     ],
     "facebookresearch/detr": [
@@ -749,7 +1247,7 @@
     "openvla/openvla": [
       {
         "date": "2026-09-03",
-        "value": 6940
+        "value": 6941
       }
     ],
     "danijar/dreamer": [
@@ -1043,7 +1541,7 @@
     "google-ai-edge/mediapipe": [
       {
         "date": "2026-09-03",
-        "value": 36826
+        "value": 36825
       }
     ],
     "cdcseacave/openMVS": [
@@ -1103,7 +1601,7 @@
     "isl-org/Open3D": [
       {
         "date": "2026-09-03",
-        "value": 13936
+        "value": 13937
       }
     ],
     "cvg/Hierarchical-Localization": [
@@ -1127,7 +1625,7 @@
     "nerfstudio-project/gsplat": [
       {
         "date": "2026-09-03",
-        "value": 5624
+        "value": 5626
       }
     ],
     "hbb1/2d-gaussian-splatting": [
@@ -1163,13 +1661,13 @@
     "Physical-Intelligence/openpi": [
       {
         "date": "2026-09-03",
-        "value": 13613
+        "value": 13615
       }
     ],
     "huggingface/lerobot": [
       {
         "date": "2026-09-03",
-        "value": 27180
+        "value": 27183
       }
     ],
     "danijar/dreamerv2": [
@@ -1229,7 +1727,7 @@
     "carla-simulator/carla": [
       {
         "date": "2026-09-03",
-        "value": 14357
+        "value": 14358
       }
     ],
     "mit-han-lab/bevfusion": [
@@ -1283,7 +1781,7 @@
     "google-deepmind/mujoco": [
       {
         "date": "2026-09-03",
-        "value": 14901
+        "value": 14902
       }
     ],
     "facebookresearch/habitat-lab": [
@@ -1368,6 +1866,1074 @@
       {
         "date": "2026-09-03",
         "value": 1817
+      }
+    ],
+    "tum-vision/tandem": [
+      {
+        "date": "2026-09-03",
+        "value": 955
+      }
+    ],
+    "BertaBescos/DynaSLAM": [
+      {
+        "date": "2026-09-03",
+        "value": 945
+      }
+    ],
+    "PRBonn/semantic_suma": [
+      {
+        "date": "2026-09-03",
+        "value": 1016
+      }
+    ],
+    "HKUST-Aerial-Robotics/A-LOAM": [
+      {
+        "date": "2026-09-03",
+        "value": 2440
+      }
+    ],
+    "youmi-zym/GO-SLAM": [
+      {
+        "date": "2026-09-03",
+        "value": 443
+      }
+    ],
+    "ToniRV/NeRF-SLAM": [
+      {
+        "date": "2026-09-03",
+        "value": 1267
+      }
+    ],
+    "cvg/nice-slam": [
+      {
+        "date": "2026-09-03",
+        "value": 1596
+      }
+    ],
+    "mp3guy/ElasticFusion": [
+      {
+        "date": "2026-09-03",
+        "value": 1927
+      }
+    ],
+    "niessner/BundleFusion": [
+      {
+        "date": "2026-09-03",
+        "value": 1589
+      }
+    ],
+    "HuajianUP/Photo-SLAM": [
+      {
+        "date": "2026-09-03",
+        "value": 763
+      }
+    ],
+    "strasdat/Sophus": [
+      {
+        "date": "2026-09-03",
+        "value": 2450
+      }
+    ],
+    "stevenlovegrove/Pangolin": [
+      {
+        "date": "2026-09-03",
+        "value": 2740
+      }
+    ],
+    "MIT-SPARK/TEASER-plusplus": [
+      {
+        "date": "2026-09-03",
+        "value": 2341
+      }
+    ],
+    "amaralibey/MixVPR": [
+      {
+        "date": "2026-09-03",
+        "value": 332
+      }
+    ],
+    "QVPR/Patch-NetVLAD": [
+      {
+        "date": "2026-09-03",
+        "value": 596
+      }
+    ],
+    "gmberton/CosPlace": [
+      {
+        "date": "2026-09-03",
+        "value": 400
+      }
+    ],
+    "verlab/accelerated_features": [
+      {
+        "date": "2026-09-03",
+        "value": 1722
+      }
+    ],
+    "naver/r2d2": [
+      {
+        "date": "2026-09-03",
+        "value": 523
+      }
+    ],
+    "mihaidusmanu/d2-net": [
+      {
+        "date": "2026-09-03",
+        "value": 847
+      }
+    ],
+    "salesforce/BLIP": [
+      {
+        "date": "2026-09-03",
+        "value": 5713
+      }
+    ],
+    "salesforce/LAVIS": [
+      {
+        "date": "2026-09-03",
+        "value": 11262
+      }
+    ],
+    "haotian-liu/LLaVA": [
+      {
+        "date": "2026-09-03",
+        "value": 25011
+      }
+    ],
+    "AlexeyAB/darknet": [
+      {
+        "date": "2026-09-03",
+        "value": 22150
+      }
+    ],
+    "WongKinYiu/yolov7": [
+      {
+        "date": "2026-09-03",
+        "value": 14141
+      }
+    ],
+    "Megvii-BaseDetection/YOLOX": [
+      {
+        "date": "2026-09-03",
+        "value": 10603
+      }
+    ],
+    "google/automl": [
+      {
+        "date": "2026-09-03",
+        "value": 6475
+      }
+    ],
+    "xingyizhou/CenterNet": [
+      {
+        "date": "2026-09-03",
+        "value": 7575
+      }
+    ],
+    "tianzhi0549/FCOS": [
+      {
+        "date": "2026-09-03",
+        "value": 3345
+      }
+    ],
+    "fundamentalvision/Deformable-DETR": [
+      {
+        "date": "2026-09-03",
+        "value": 4018
+      }
+    ],
+    "NVlabs/SegFormer": [
+      {
+        "date": "2026-09-03",
+        "value": 3635
+      }
+    ],
+    "facebookresearch/Mask2Former": [
+      {
+        "date": "2026-09-03",
+        "value": 3416
+      }
+    ],
+    "facebookresearch/ConvNeXt": [
+      {
+        "date": "2026-09-03",
+        "value": 6414
+      }
+    ],
+    "hujie-frank/SENet": [
+      {
+        "date": "2026-09-03",
+        "value": 3647
+      }
+    ],
+    "Jongchan/attention-module": [
+      {
+        "date": "2026-09-03",
+        "value": 2229
+      }
+    ],
+    "ramprs/grad-cam": [
+      {
+        "date": "2026-09-03",
+        "value": 1670
+      }
+    ],
+    "lukemelas/EfficientNet-PyTorch": [
+      {
+        "date": "2026-09-03",
+        "value": 8220
+      }
+    ],
+    "NVlabs/stylegan": [
+      {
+        "date": "2026-09-03",
+        "value": 14413
+      }
+    ],
+    "tkarras/progressive_growing_of_gans": [
+      {
+        "date": "2026-09-03",
+        "value": 6178
+      }
+    ],
+    "junyanz/pytorch-CycleGAN-and-pix2pix": [
+      {
+        "date": "2026-09-03",
+        "value": 25237
+      }
+    ],
+    "xinntao/ESRGAN": [
+      {
+        "date": "2026-09-03",
+        "value": 6569
+      }
+    ],
+    "xinntao/Real-ESRGAN": [
+      {
+        "date": "2026-09-03",
+        "value": 36675
+      }
+    ],
+    "JingyunLiang/SwinIR": [
+      {
+        "date": "2026-09-03",
+        "value": 5586
+      }
+    ],
+    "princeton-vl/RAFT": [
+      {
+        "date": "2026-09-03",
+        "value": 4091
+      }
+    ],
+    "NVlabs/PWC-Net": [
+      {
+        "date": "2026-09-03",
+        "value": 1737
+      }
+    ],
+    "lmb-freiburg/flownet2": [
+      {
+        "date": "2026-09-03",
+        "value": 1024
+      }
+    ],
+    "amdegroot/ssd.pytorch": [
+      {
+        "date": "2026-09-03",
+        "value": 5222
+      }
+    ],
+    "rbgirshick/fast-rcnn": [
+      {
+        "date": "2026-09-03",
+        "value": 3460
+      }
+    ],
+    "DmitryUlyanov/deep-image-prior": [
+      {
+        "date": "2026-09-03",
+        "value": 8089
+      }
+    ],
+    "facebookresearch/moco": [
+      {
+        "date": "2026-09-03",
+        "value": 5136
+      }
+    ],
+    "google-research/simclr": [
+      {
+        "date": "2026-09-03",
+        "value": 4502
+      }
+    ],
+    "facebookresearch/barlowtwins": [
+      {
+        "date": "2026-09-03",
+        "value": 1016
+      }
+    ],
+    "mcordts/cityscapesScripts": [
+      {
+        "date": "2026-09-03",
+        "value": 2346
+      }
+    ],
+    "dbolya/yolact": [
+      {
+        "date": "2026-09-03",
+        "value": 5241
+      }
+    ],
+    "leoxiaobin/deep-high-resolution-net.pytorch": [
+      {
+        "date": "2026-09-03",
+        "value": 4480
+      }
+    ],
+    "microsoft/human-pose-estimation.pytorch": [
+      {
+        "date": "2026-09-03",
+        "value": 3008
+      }
+    ],
+    "MVIG-SJTU/AlphaPose": [
+      {
+        "date": "2026-09-03",
+        "value": 8600
+      }
+    ],
+    "davidsandberg/facenet": [
+      {
+        "date": "2026-09-03",
+        "value": 14348
+      }
+    ],
+    "deepinsight/insightface": [
+      {
+        "date": "2026-09-03",
+        "value": 29634
+      }
+    ],
+    "davisking/dlib": [
+      {
+        "date": "2026-09-03",
+        "value": 14436
+      }
+    ],
+    "ageitgey/face_recognition": [
+      {
+        "date": "2026-09-03",
+        "value": 56709
+      }
+    ],
+    "nwojke/deep_sort": [
+      {
+        "date": "2026-09-03",
+        "value": 6172
+      }
+    ],
+    "abewley/sort": [
+      {
+        "date": "2026-09-03",
+        "value": 4375
+      }
+    ],
+    "ifzhang/ByteTrack": [
+      {
+        "date": "2026-09-03",
+        "value": 6663
+      }
+    ],
+    "noahcao/OC_SORT": [
+      {
+        "date": "2026-09-03",
+        "value": 1136
+      }
+    ],
+    "ifzhang/FairMOT": [
+      {
+        "date": "2026-09-03",
+        "value": 4245
+      }
+    ],
+    "xingyizhou/CenterTrack": [
+      {
+        "date": "2026-09-03",
+        "value": 2477
+      }
+    ],
+    "STVIR/pysot": [
+      {
+        "date": "2026-09-03",
+        "value": 4599
+      }
+    ],
+    "foolwood/SiamMask": [
+      {
+        "date": "2026-09-03",
+        "value": 3550
+      }
+    ],
+    "visionml/pytracking": [
+      {
+        "date": "2026-09-03",
+        "value": 3513
+      }
+    ],
+    "researchmm/Stark": [
+      {
+        "date": "2026-09-03",
+        "value": 713
+      }
+    ],
+    "facebookresearch/TimeSformer": [
+      {
+        "date": "2026-09-03",
+        "value": 1863
+      }
+    ],
+    "facebookresearch/SlowFast": [
+      {
+        "date": "2026-09-03",
+        "value": 7415
+      }
+    ],
+    "deepmind/kinetics-i3d": [
+      {
+        "date": "2026-09-03",
+        "value": 1838
+      }
+    ],
+    "MCG-NJU/VideoMAE": [
+      {
+        "date": "2026-09-03",
+        "value": 1788
+      }
+    ],
+    "OpenGVLab/InternVideo": [
+      {
+        "date": "2026-09-03",
+        "value": 2375
+      }
+    ],
+    "facebookresearch/ImageBind": [
+      {
+        "date": "2026-09-03",
+        "value": 9066
+      }
+    ],
+    "baaivision/EVA": [
+      {
+        "date": "2026-09-03",
+        "value": 2695
+      }
+    ],
+    "facebookresearch/MaskFormer": [
+      {
+        "date": "2026-09-03",
+        "value": 1460
+      }
+    ],
+    "AILab-CVC/YOLO-World": [
+      {
+        "date": "2026-09-03",
+        "value": 6542
+      }
+    ],
+    "microsoft/GLIP": [
+      {
+        "date": "2026-09-03",
+        "value": 2607
+      }
+    ],
+    "SysCV/sam-hq": [
+      {
+        "date": "2026-09-03",
+        "value": 4257
+      }
+    ],
+    "Casia-IVA-Lab/FastSAM": [
+      {
+        "date": "2026-09-03",
+        "value": 8408
+      }
+    ],
+    "PeizeSun/SparseR-CNN": [
+      {
+        "date": "2026-09-03",
+        "value": 1343
+      }
+    ],
+    "microsoft/unilm": [
+      {
+        "date": "2026-09-03",
+        "value": 22204
+      }
+    ],
+    "sunset1995/DirectVoxGO": [
+      {
+        "date": "2026-09-03",
+        "value": 1075
+      }
+    ],
+    "creiser/kiloneRF": [
+      {
+        "date": "2026-09-03",
+        "value": 491
+      }
+    ],
+    "google/nerfies": [
+      {
+        "date": "2026-09-03",
+        "value": 1973
+      }
+    ],
+    "albertpumarola/D-NeRF": [
+      {
+        "date": "2026-09-03",
+        "value": 592
+      }
+    ],
+    "NVlabs/eg3d": [
+      {
+        "date": "2026-09-03",
+        "value": 3337
+      }
+    ],
+    "ashawkey/stable-dreamfusion": [
+      {
+        "date": "2026-09-03",
+        "value": 8854
+      }
+    ],
+    "cvlab-columbia/zero123": [
+      {
+        "date": "2026-09-03",
+        "value": 3058
+      }
+    ],
+    "One-2-3-45/One-2-3-45": [
+      {
+        "date": "2026-09-03",
+        "value": 1718
+      }
+    ],
+    "LiheYoung/Depth-Anything": [
+      {
+        "date": "2026-09-03",
+        "value": 8201
+      }
+    ],
+    "DepthAnything/Depth-Anything-V2": [
+      {
+        "date": "2026-09-03",
+        "value": 8756
+      }
+    ],
+    "isl-org/MiDaS": [
+      {
+        "date": "2026-09-03",
+        "value": 5420
+      }
+    ],
+    "isl-org/DPT": [
+      {
+        "date": "2026-09-03",
+        "value": 2333
+      }
+    ],
+    "isl-org/ZoeDepth": [
+      {
+        "date": "2026-09-03",
+        "value": 2840
+      }
+    ],
+    "prs-eth/Marigold": [
+      {
+        "date": "2026-09-03",
+        "value": 3203
+      }
+    ],
+    "YvanYin/Metric3D": [
+      {
+        "date": "2026-09-03",
+        "value": 2307
+      }
+    ],
+    "szymanowiczs/splatter-image": [
+      {
+        "date": "2026-09-03",
+        "value": 1105
+      }
+    ],
+    "Totoro97/NeuS": [
+      {
+        "date": "2026-09-03",
+        "value": 1776
+      }
+    ],
+    "vsitzmann/siren": [
+      {
+        "date": "2026-09-03",
+        "value": 1994
+      }
+    ],
+    "Kai-46/nerfplusplus": [
+      {
+        "date": "2026-09-03",
+        "value": 942
+      }
+    ],
+    "ScanNet/ScanNet": [
+      {
+        "date": "2026-09-03",
+        "value": 2333
+      }
+    ],
+    "alicevision/Meshroom": [
+      {
+        "date": "2026-09-03",
+        "value": 12939
+      }
+    ],
+    "alicevision/AliceVision": [
+      {
+        "date": "2026-09-03",
+        "value": 3488
+      }
+    ],
+    "colmap/pycolmap": [
+      {
+        "date": "2026-09-03",
+        "value": 998
+      }
+    ],
+    "mikedh/trimesh": [
+      {
+        "date": "2026-09-03",
+        "value": 3665
+      }
+    ],
+    "AcademySoftwareFoundation/openvdb": [
+      {
+        "date": "2026-09-03",
+        "value": 3397
+      }
+    ],
+    "facebookresearch/pytorch3d": [
+      {
+        "date": "2026-09-03",
+        "value": 9964
+      }
+    ],
+    "NVIDIAGameWorks/kaolin": [
+      {
+        "date": "2026-09-03",
+        "value": 5164
+      }
+    ],
+    "NVlabs/tiny-cuda-nn": [
+      {
+        "date": "2026-09-03",
+        "value": 4530
+      }
+    ],
+    "NVlabs/nvdiffrec": [
+      {
+        "date": "2026-09-03",
+        "value": 2296
+      }
+    ],
+    "NVlabs/nvdiffrast": [
+      {
+        "date": "2026-09-03",
+        "value": 1912
+      }
+    ],
+    "blender/blender": [
+      {
+        "date": "2026-09-03",
+        "value": 19966
+      }
+    ],
+    "assimp/assimp": [
+      {
+        "date": "2026-09-03",
+        "value": 13175
+      }
+    ],
+    "dcharatan/pixelsplat": [
+      {
+        "date": "2026-09-03",
+        "value": 1273
+      }
+    ],
+    "donydchen/mvsplat": [
+      {
+        "date": "2026-09-03",
+        "value": 1296
+      }
+    ],
+    "3DTopia/LGM": [
+      {
+        "date": "2026-09-03",
+        "value": 2115
+      }
+    ],
+    "cliport/cliport": [
+      {
+        "date": "2026-09-03",
+        "value": 549
+      }
+    ],
+    "google-research/ravens": [
+      {
+        "date": "2026-09-03",
+        "value": 631
+      }
+    ],
+    "peract/peract": [
+      {
+        "date": "2026-09-03",
+        "value": 497
+      }
+    ],
+    "NVlabs/RVT": [
+      {
+        "date": "2026-09-03",
+        "value": 409
+      }
+    ],
+    "YanjieZe/3D-Diffusion-Policy": [
+      {
+        "date": "2026-09-03",
+        "value": 1437
+      }
+    ],
+    "real-stanford/universal_manipulation_interface": [
+      {
+        "date": "2026-09-03",
+        "value": 1573
+      }
+    ],
+    "mees/calvin": [
+      {
+        "date": "2026-09-03",
+        "value": 982
+      }
+    ],
+    "stepjam/RLBench": [
+      {
+        "date": "2026-09-03",
+        "value": 1812
+      }
+    ],
+    "Farama-Foundation/Metaworld": [
+      {
+        "date": "2026-09-03",
+        "value": 1878
+      }
+    ],
+    "ARISE-Initiative/robosuite": [
+      {
+        "date": "2026-09-03",
+        "value": 2588
+      }
+    ],
+    "haosulab/ManiSkill": [
+      {
+        "date": "2026-09-03",
+        "value": 3282
+      }
+    ],
+    "danijar/daydreamer": [
+      {
+        "date": "2026-09-03",
+        "value": 458
+      }
+    ],
+    "StanfordVL/iGibson": [
+      {
+        "date": "2026-09-03",
+        "value": 810
+      }
+    ],
+    "haosulab/SAPIEN": [
+      {
+        "date": "2026-09-03",
+        "value": 830
+      }
+    ],
+    "allenai/ai2thor": [
+      {
+        "date": "2026-09-03",
+        "value": 1791
+      }
+    ],
+    "threedworld-mit/tdw": [
+      {
+        "date": "2026-09-03",
+        "value": 608
+      }
+    ],
+    "leggedrobotics/legged_gym": [
+      {
+        "date": "2026-09-03",
+        "value": 3112
+      }
+    ],
+    "leggedrobotics/rsl_rl": [
+      {
+        "date": "2026-09-03",
+        "value": 2944
+      }
+    ],
+    "DLR-RM/stable-baselines3": [
+      {
+        "date": "2026-09-03",
+        "value": 13765
+      }
+    ],
+    "vwxyzjn/cleanrl": [
+      {
+        "date": "2026-09-03",
+        "value": 10359
+      }
+    ],
+    "Farama-Foundation/Gymnasium": [
+      {
+        "date": "2026-09-03",
+        "value": 12454
+      }
+    ],
+    "openai/gym": [
+      {
+        "date": "2026-09-03",
+        "value": 37244
+      }
+    ],
+    "google-deepmind/dm_control": [
+      {
+        "date": "2026-09-03",
+        "value": 4681
+      }
+    ],
+    "google/brax": [
+      {
+        "date": "2026-09-03",
+        "value": 3228
+      }
+    ],
+    "Genesis-Embodied-AI/Genesis": [
+      {
+        "date": "2026-09-03",
+        "value": 29868
+      }
+    ],
+    "cyberbotics/webots": [
+      {
+        "date": "2026-09-03",
+        "value": 4595
+      }
+    ],
+    "ros-navigation/navigation2": [
+      {
+        "date": "2026-09-03",
+        "value": 4656
+      }
+    ],
+    "casadi/casadi": [
+      {
+        "date": "2026-09-03",
+        "value": 2284
+      }
+    ],
+    "acados/acados": [
+      {
+        "date": "2026-09-03",
+        "value": 1455
+      }
+    ],
+    "leggedrobotics/ocs2": [
+      {
+        "date": "2026-09-03",
+        "value": 1508
+      }
+    ],
+    "loco-3d/crocoddyl": [
+      {
+        "date": "2026-09-03",
+        "value": 1296
+      }
+    ],
+    "facontidavide/PlotJuggler": [
+      {
+        "date": "2026-09-03",
+        "value": 6143
+      }
+    ],
+    "foxglove/studio": [
+      {
+        "date": "2026-09-03",
+        "value": 92
+      }
+    ],
+    "BehaviorTree/BehaviorTree.CPP": [
+      {
+        "date": "2026-09-03",
+        "value": 4181
+      }
+    ],
+    "mavlink/mavros": [
+      {
+        "date": "2026-09-03",
+        "value": 1218
+      }
+    ],
+    "mavlink/mavlink": [
+      {
+        "date": "2026-09-03",
+        "value": 2416
+      }
+    ],
+    "PX4/PX4-Autopilot": [
+      {
+        "date": "2026-09-03",
+        "value": 12538
+      }
+    ],
+    "ArduPilot/ardupilot": [
+      {
+        "date": "2026-09-03",
+        "value": 15797
+      }
+    ],
+    "betaflight/betaflight": [
+      {
+        "date": "2026-09-03",
+        "value": 11492
+      }
+    ],
+    "bitcraze/crazyflie-firmware": [
+      {
+        "date": "2026-09-03",
+        "value": 1537
+      }
+    ],
+    "mavlink/qgroundcontrol": [
+      {
+        "date": "2026-09-03",
+        "value": 4892
+      }
+    ],
+    "eclipse-sumo/sumo": [
+      {
+        "date": "2026-09-03",
+        "value": 4162
+      }
+    ],
+    "argoverse/argoverse-api": [
+      {
+        "date": "2026-09-03",
+        "value": 934
+      }
+    ],
+    "argoverse/av2-api": [
+      {
+        "date": "2026-09-03",
+        "value": 414
+      }
+    ],
+    "lyft/l5kit": [
+      {
+        "date": "2026-09-03",
+        "value": 881
+      }
+    ],
+    "motional/nuplan-devkit": [
+      {
+        "date": "2026-09-03",
+        "value": 1032
+      }
+    ],
+    "OpenDriveLab/UniAD": [
+      {
+        "date": "2026-09-03",
+        "value": 4747
+      }
+    ],
+    "hustvl/VAD": [
+      {
+        "date": "2026-09-03",
+        "value": 1365
+      }
+    ],
+    "OpenPerceptionX/ST-P3": [
+      {
+        "date": "2026-09-03",
+        "value": 13
+      }
+    ],
+    "weiyithu/SurroundOcc": [
+      {
+        "date": "2026-09-03",
+        "value": 1080
+      }
+    ],
+    "microsoft/AirSim": [
+      {
+        "date": "2026-09-03",
+        "value": 18437
+      }
+    ],
+    "CommonRoad/commonroad-io": [
+      {
+        "date": "2026-09-03",
+        "value": 21
+      }
+    ],
+    "sxyu/svox2": [
+      {
+        "date": "2026-09-03",
+        "value": 2888
+      }
+    ],
+    "Xharlie/pointnerf": [
+      {
+        "date": "2026-09-03",
+        "value": 1154
+      }
+    ],
+    "Lifelong-Robot-Learning/LIBERO": [
+      {
+        "date": "2026-09-03",
+        "value": 2269
+      }
+    ],
+    "MarkFzp/mobile-aloha": [
+      {
+        "date": "2026-09-03",
+        "value": 4468
+      }
+    ],
+    "eriksandstroem/Point-SLAM": [
+      {
+        "date": "2026-09-03",
+        "value": 486
+      }
+    ],
+    "lucidrains/byol-pytorch": [
+      {
+        "date": "2026-09-03",
+        "value": 1902
+      }
+    ],
+    "SHI-Labs/OneFormer": [
+      {
+        "date": "2026-09-03",
+        "value": 1735
       }
     ]
   }
