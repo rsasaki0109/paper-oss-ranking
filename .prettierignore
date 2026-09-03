@@ -6,3 +6,4 @@ data/snapshots/
 data/meta.json
 data/papers.json
 data/repos.json
+docs/*.svg

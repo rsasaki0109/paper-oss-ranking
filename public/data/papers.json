@@ -486,5 +486,1620 @@
     "url": "https://doi.org/10.1109/cvpr.2016.90",
     "category": "Computer Vision",
     "title_hint": "Deep Residual Learning for Image Recognition"
+  },
+  {
+    "key": "10.1109/tpami.2017.2658577",
+    "openalex_id": "W2474281075",
+    "doi": "10.1109/tpami.2017.2658577",
+    "title": "Direct Sparse Odometry",
+    "authors": [
+      "Jakob Engel",
+      "Vladlen Koltun",
+      "Daniel Cremers"
+    ],
+    "year": 2017,
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "cited_by_count": 2990,
+    "url": "https://doi.org/10.1109/tpami.2017.2658577",
+    "category": "SLAM",
+    "title_hint": "Direct Sparse Odometry"
+  },
+  {
+    "key": "10.1007/978-3-319-10605-2_54",
+    "openalex_id": "W612478963",
+    "doi": "10.1007/978-3-319-10605-2_54",
+    "title": "LSD-SLAM: Large-Scale Direct Monocular SLAM",
+    "authors": [
+      "Jakob Engel",
+      "Thomas Schöps",
+      "Daniel Cremers"
+    ],
+    "year": 2014,
+    "venue": "Lecture notes in computer science",
+    "cited_by_count": 3796,
+    "url": "https://doi.org/10.1007/978-3-319-10605-2_54",
+    "category": "SLAM",
+    "title_hint": "LSD-SLAM: Large-Scale Direct Monocular SLAM"
+  },
+  {
+    "key": "10.1109/icra.2014.6906584",
+    "openalex_id": "W1970504153",
+    "doi": "10.1109/icra.2014.6906584",
+    "title": "SVO: Fast semi-direct monocular visual odometry",
+    "authors": [
+      "Christian Förster",
+      "Matia Pizzoli",
+      "Davide Scaramuzza"
+    ],
+    "year": 2014,
+    "venue": null,
+    "cited_by_count": 2132,
+    "url": "https://doi.org/10.1109/icra.2014.6906584",
+    "category": "SLAM",
+    "title_hint": "SVO: Fast Semi-Direct Monocular Visual Odometry"
+  },
+  {
+    "key": "10.1109/tro.2018.2853729",
+    "openalex_id": "W2745859992",
+    "doi": "10.1109/tro.2018.2853729",
+    "title": "VINS-Mono: A Robust and Versatile Monocular Visual-Inertial State Estimator",
+    "authors": [
+      "Tong Qin",
+      "Peiliang Li",
+      "Shaojie Shen"
+    ],
+    "year": 2018,
+    "venue": "IEEE Transactions on Robotics",
+    "cited_by_count": 4650,
+    "url": "https://doi.org/10.1109/tro.2018.2853729",
+    "category": "SLAM",
+    "title_hint": "VINS-Mono"
+  },
+  {
+    "key": "10.15607/rss.2014.x.007",
+    "openalex_id": "W2296228853",
+    "doi": "10.15607/rss.2014.x.007",
+    "title": "LOAM: Lidar Odometry and Mapping in Real-time",
+    "authors": [
+      "Ji Zhang",
+      "Sanjiv Singh"
+    ],
+    "year": 2014,
+    "venue": null,
+    "cited_by_count": 3225,
+    "url": "https://doi.org/10.15607/rss.2014.x.007",
+    "category": "SLAM",
+    "title_hint": "LOAM: Lidar Odometry and Mapping in Real-time"
+  },
+  {
+    "key": "10.1109/icra48506.2021.9561996",
+    "openalex_id": "W3206845495",
+    "doi": "10.1109/icra48506.2021.9561996",
+    "title": "LVI-SAM: Tightly-coupled Lidar-Visual-Inertial Odometry via Smoothing and Mapping",
+    "authors": [
+      "Tixiao Shan",
+      "Brendan Englot",
+      "Carlo Ratti",
+      "Daniela Rus"
+    ],
+    "year": 2021,
+    "venue": null,
+    "cited_by_count": 560,
+    "url": "https://doi.org/10.1109/icra48506.2021.9561996",
+    "category": "SLAM",
+    "title_hint": "LVI-SAM"
+  },
+  {
+    "key": "10.1109/lra.2023.3236571",
+    "openalex_id": "W4315778466",
+    "doi": "10.1109/lra.2023.3236571",
+    "title": "KISS-ICP: In Defense of Point-to-Point ICP – Simple, Accurate, and Robust Registration If Done the Right Way",
+    "authors": [
+      "Ignacio Vizzo",
+      "Tiziano Guadagnino",
+      "Benedikt Mersch",
+      "Louis Wiesmann",
+      "Jens Behley",
+      "Cyrill Stachniss"
+    ],
+    "year": 2023,
+    "venue": "IEEE Robotics and Automation Letters",
+    "cited_by_count": 500,
+    "url": "https://doi.org/10.1109/lra.2023.3236571",
+    "category": "SLAM",
+    "title_hint": "KISS-ICP"
+  },
+  {
+    "key": "10.1109/icra.2011.5979949",
+    "openalex_id": "W2153054365",
+    "doi": "10.1109/icra.2011.5979949",
+    "title": "G2o: A general framework for graph optimization",
+    "authors": [
+      "Rainer Kümmerle",
+      "Giorgio Grisetti",
+      "Hauke Strasdat",
+      "Kurt Konolige",
+      "Wolfram Burgard"
+    ],
+    "year": 2011,
+    "venue": null,
+    "cited_by_count": 2009,
+    "url": "https://doi.org/10.1109/icra.2011.5979949",
+    "category": "SLAM",
+    "title_hint": "g2o: A general framework for graph optimization"
+  },
+  {
+    "key": "10.1002/rob.21831",
+    "openalex_id": "W2898231767",
+    "doi": "10.1002/rob.21831",
+    "title": "RTAB‐Map as an open‐source lidar and visual simultaneous localization and mapping library for large‐scale and long‐term online operation",
+    "authors": [
+      "Mathieu Labbé",
+      "François Michaud"
+    ],
+    "year": 2018,
+    "venue": "Journal of Field Robotics",
+    "cited_by_count": 976,
+    "url": "https://doi.org/10.1002/rob.21831",
+    "category": "SLAM",
+    "title_hint": "RTAB-Map"
+  },
+  {
+    "key": "10.1007/s10514-012-9321-0",
+    "openalex_id": "W2133844819",
+    "doi": "10.1007/s10514-012-9321-0",
+    "title": "OctoMap: an efficient probabilistic 3D mapping framework based on octrees",
+    "authors": [
+      "Armin Hornung",
+      "Kai M. Wurm",
+      "Maren Bennewitz",
+      "Cyrill Stachniss",
+      "Wolfram Burgard"
+    ],
+    "year": 2013,
+    "venue": "Autonomous Robots",
+    "cited_by_count": 2886,
+    "url": "https://doi.org/10.1007/s10514-012-9321-0",
+    "category": "SLAM",
+    "title_hint": "OctoMap"
+  },
+  {
+    "key": "10.1109/iros.2017.8202315",
+    "openalex_id": "W2607968634",
+    "doi": "10.1109/iros.2017.8202315",
+    "title": "Voxblox: Incremental 3D Euclidean Signed Distance Fields for on-board MAV planning",
+    "authors": [
+      "Helen Oleynikova",
+      "Zachary Taylor",
+      "Marius Fehr",
+      "Roland Siegwart",
+      "Juan Nieto"
+    ],
+    "year": 2017,
+    "venue": null,
+    "cited_by_count": 625,
+    "url": "https://doi.org/10.1109/iros.2017.8202315",
+    "category": "SLAM",
+    "title_hint": "Voxblox: Incremental 3D Euclidean Signed Distance Fields for On-Board MAV Planning"
+  },
+  {
+    "key": "10.1109/icra40945.2020.9196885",
+    "openalex_id": "W2978413979",
+    "doi": "10.1109/icra40945.2020.9196885",
+    "title": "Kimera: an Open-Source Library for Real-Time Metric-Semantic Localization and Mapping",
+    "authors": [
+      "Antoni Rosinol",
+      "Marcus Abate",
+      "Yun Chang",
+      "Luca Carlone"
+    ],
+    "year": 2020,
+    "venue": null,
+    "cited_by_count": 27,
+    "url": "https://doi.org/10.1109/icra40945.2020.9196885",
+    "category": "SLAM",
+    "title_hint": "Kimera"
+  },
+  {
+    "key": "deep patch visual odometry",
+    "openalex_id": "W4290803068",
+    "doi": null,
+    "title": "Deep Patch Visual Odometry",
+    "authors": [
+      "Zachary Teed",
+      "Lahav Lipson",
+      "Jia Deng"
+    ],
+    "year": 2022,
+    "venue": "arXiv (Cornell University)",
+    "cited_by_count": 40,
+    "url": "http://arxiv.org/abs/2208.04726",
+    "category": "SLAM",
+    "title_hint": "Deep Patch Visual Odometry"
+  },
+  {
+    "key": "splatam: splat, track and map 3d gaussians for dense rgb-d slam",
+    "openalex_id": "W4402698355",
+    "doi": null,
+    "title": "SplaTAM: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM",
+    "authors": [
+      "Nikhil Keetha",
+      "Jay Karhade",
+      "Krishna Murthy Jatavallabhula",
+      "Gengshan Yang",
+      "Sebastian Scherer",
+      "Deva Ramanan",
+      "Jonathon Luiten"
+    ],
+    "year": 2024,
+    "venue": null,
+    "cited_by_count": 400,
+    "url": "https://doi.org/10.1109/cvpr52733.2024.02018",
+    "category": "SLAM",
+    "title_hint": "SplaTAM: Splat, Track and Map 3D Gaussians for Dense RGB-D SLAM"
+  },
+  {
+    "key": "10.1109/icra.2011.5980567",
+    "openalex_id": "W2152864241",
+    "doi": "10.1109/icra.2011.5980567",
+    "title": "3D is here: Point Cloud Library (PCL)",
+    "authors": [
+      "Radu Bogdan Rusu",
+      "Steve Cousins"
+    ],
+    "year": 2011,
+    "venue": null,
+    "cited_by_count": 4921,
+    "url": "https://doi.org/10.1109/icra.2011.5980567",
+    "category": "SLAM",
+    "title_hint": "3D is here: Point Cloud Library"
+  },
+  {
+    "key": "10.1109/iros.2015.7353389",
+    "openalex_id": "W4246614213",
+    "doi": "10.1109/iros.2015.7353389",
+    "title": "Robust visual inertial odometry using a direct EKF-based approach",
+    "authors": [
+      "Michael Bloesch",
+      "Sammy Omari",
+      "Marco Hutter",
+      "Roland Siegwart"
+    ],
+    "year": 2015,
+    "venue": null,
+    "cited_by_count": 804,
+    "url": "https://doi.org/10.1109/iros.2015.7353389",
+    "category": "Localization",
+    "title_hint": "Robust Visual Inertial Odometry Using a Direct EKF-Based Approach"
+  },
+  {
+    "key": "10.1109/lra.2019.2961227",
+    "openalex_id": "W2997495511",
+    "doi": "10.1109/lra.2019.2961227",
+    "title": "Visual-Inertial Mapping With Non-Linear Factor Recovery",
+    "authors": [
+      "Vladyslav Usenko",
+      "Nikolaus Demmel",
+      "David Schubert",
+      "Jorg Stuckler",
+      "Daniel Cremers"
+    ],
+    "year": 2019,
+    "venue": "IEEE Robotics and Automation Letters",
+    "cited_by_count": 209,
+    "url": "https://doi.org/10.1109/lra.2019.2961227",
+    "category": "Localization",
+    "title_hint": "Visual-Inertial Mapping with Non-Linear Factor Recovery"
+  },
+  {
+    "key": "10.48550/arxiv.1901.03642",
+    "openalex_id": "W4394659040",
+    "doi": "10.48550/arxiv.1901.03642",
+    "title": "A General Optimization-based Framework for Global Pose Estimation with Multiple Sensors",
+    "authors": [
+      "Tong Qin",
+      "Shaozu Cao",
+      "Jie Pan",
+      "Shaojie Shen"
+    ],
+    "year": 2019,
+    "venue": "arXiv (Cornell University)",
+    "cited_by_count": 205,
+    "url": "http://arxiv.org/abs/1901.03642",
+    "category": "Localization",
+    "title_hint": "A General Optimization-based Framework for Global Pose Estimation with Multiple Sensors"
+  },
+  {
+    "key": "10.1109/cvpr.2016.572",
+    "openalex_id": "W2179042386",
+    "doi": "10.1109/cvpr.2016.572",
+    "title": "NetVLAD: CNN Architecture for Weakly Supervised Place Recognition",
+    "authors": [
+      "Relja Arandjelović",
+      "Petr Gronát",
+      "Akihiko Torii",
+      "Tomáš Pajdla",
+      "Josef Šivic"
+    ],
+    "year": 2016,
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "cited_by_count": 649,
+    "url": "https://doi.org/10.1109/tpami.2017.2711011",
+    "category": "Localization",
+    "title_hint": "NetVLAD: CNN architecture for weakly supervised place recognition"
+  },
+  {
+    "key": "10.1109/cvprw.2018.00060",
+    "openalex_id": "W2775929773",
+    "doi": "10.1109/cvprw.2018.00060",
+    "title": "SuperPoint: Self-Supervised Interest Point Detection and Description",
+    "authors": [
+      "Daniel DeTone",
+      "Tomasz Malisiewicz",
+      "Andrew Rabinovich"
+    ],
+    "year": 2018,
+    "venue": null,
+    "cited_by_count": 132,
+    "url": "https://doi.org/10.1109/cvprw.2018.00060",
+    "category": "Localization",
+    "title_hint": "SuperPoint: Self-Supervised Interest Point Detection and Description in the Wild"
+  },
+  {
+    "key": "10.1109/iccv51070.2023.01616",
+    "openalex_id": "W4390872507",
+    "doi": "10.1109/iccv51070.2023.01616",
+    "title": "LightGlue: Local Feature Matching at Light Speed",
+    "authors": [
+      "Philipp Lindenberger",
+      "Paul-Edouard Sarlin",
+      "Marc Pollefeys"
+    ],
+    "year": 2023,
+    "venue": null,
+    "cited_by_count": 865,
+    "url": "https://doi.org/10.1109/iccv51070.2023.01616",
+    "category": "Localization",
+    "title_hint": "LightGlue: Local Feature Matching at Light Speed"
+  },
+  {
+    "key": "10.1109/cvpr46437.2021.00881",
+    "openalex_id": "W3166285241",
+    "doi": "10.1109/cvpr46437.2021.00881",
+    "title": "LoFTR: Detector-Free Local Feature Matching with Transformers",
+    "authors": [
+      "Jiaming Sun",
+      "Zehong Shen",
+      "Yuang Wang",
+      "Hujun Bao",
+      "Xiaowei Zhou"
+    ],
+    "year": 2021,
+    "venue": null,
+    "cited_by_count": 1640,
+    "url": "https://doi.org/10.1109/cvpr46437.2021.00881",
+    "category": "Localization",
+    "title_hint": "LoFTR: Detector-Free Local Feature Matching with Transformers"
+  },
+  {
+    "key": "10.1109/robot.2007.364024",
+    "openalex_id": "W2118223742",
+    "doi": "10.1109/robot.2007.364024",
+    "title": "A Multi-State Constraint Kalman Filter for Vision-aided Inertial Navigation",
+    "authors": [
+      "Anastasios I. Mourikis",
+      "Stergios I. Roumeliotis"
+    ],
+    "year": 2007,
+    "venue": "Proceedings - IEEE International Conference on Robotics and Automation/Proceedings",
+    "cited_by_count": 1886,
+    "url": "https://doi.org/10.1109/robot.2007.364024",
+    "category": "Localization",
+    "title_hint": "A Multi-State Constraint Kalman Filter for Vision-aided Inertial Navigation"
+  },
+  {
+    "key": "10.1109/tpami.2016.2577031",
+    "openalex_id": "W639708223",
+    "doi": "10.1109/tpami.2016.2577031",
+    "title": "Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks",
+    "authors": [
+      "Shaoqing Ren",
+      "Kaiming He",
+      "Ross Girshick",
+      "Jian Sun"
+    ],
+    "year": 2016,
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "cited_by_count": 55643,
+    "url": "https://doi.org/10.1109/tpami.2016.2577031",
+    "category": "Computer Vision",
+    "title_hint": "Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks"
+  },
+  {
+    "key": "10.1109/iccv.2017.322",
+    "openalex_id": "W2963150697",
+    "doi": "10.1109/iccv.2017.322",
+    "title": "Mask R-CNN",
+    "authors": [
+      "Kaiming He",
+      "Georgia Gkioxari",
+      "Piotr Dollár",
+      "Ross Girshick"
+    ],
+    "year": 2017,
+    "venue": null,
+    "cited_by_count": 29522,
+    "url": "https://doi.org/10.1109/iccv.2017.322",
+    "category": "Computer Vision",
+    "title_hint": "Mask R-CNN"
+  },
+  {
+    "key": "10.1007/978-3-319-24574-4_28",
+    "openalex_id": "W1901129140",
+    "doi": "10.1007/978-3-319-24574-4_28",
+    "title": "U-Net: Convolutional Networks for Biomedical Image Segmentation",
+    "authors": [
+      "Olaf Ronneberger",
+      "Philipp Fischer",
+      "Thomas Brox"
+    ],
+    "year": 2015,
+    "venue": "Lecture notes in computer science",
+    "cited_by_count": 91937,
+    "url": "https://doi.org/10.1007/978-3-319-24574-4_28",
+    "category": "Computer Vision",
+    "title_hint": "U-Net: Convolutional Networks for Biomedical Image Segmentation"
+  },
+  {
+    "key": "10.48550/arxiv.1409.1556",
+    "openalex_id": "W1686810756",
+    "doi": "10.48550/arxiv.1409.1556",
+    "title": "Very Deep Convolutional Networks for Large-Scale Image Recognition",
+    "authors": [
+      "Karen Simonyan",
+      "Andrew Zisserman"
+    ],
+    "year": 2014,
+    "venue": "arXiv (Cornell University)",
+    "cited_by_count": 75486,
+    "url": "http://arxiv.org/abs/1409.1556",
+    "category": "Computer Vision",
+    "title_hint": "Very Deep Convolutional Networks for Large-Scale Image Recognition"
+  },
+  {
+    "key": "10.48550/arxiv.1502.03167",
+    "openalex_id": "W1836465849",
+    "doi": "10.48550/arxiv.1502.03167",
+    "title": "Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift",
+    "authors": [
+      "Sergey Ioffe",
+      "Christian Szegedy"
+    ],
+    "year": 2015,
+    "venue": "arXiv (Cornell University)",
+    "cited_by_count": 24404,
+    "url": "http://arxiv.org/abs/1502.03167",
+    "category": "Computer Vision",
+    "title_hint": "Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift"
+  },
+  {
+    "key": "10.48550/arxiv.1412.6980",
+    "openalex_id": "W1522301498",
+    "doi": "10.48550/arxiv.1412.6980",
+    "title": "Adam: A Method for Stochastic Optimization",
+    "authors": [
+      "Diederik P. Kingma",
+      "Jimmy Ba"
+    ],
+    "year": 2014,
+    "venue": "UvA-DARE (University of Amsterdam)",
+    "cited_by_count": 84699,
+    "url": "https://handle.uba.uva.nl/personal/pure/en/publications/adam-a-method-for-stochastic-optimization(a20791d3-1aff-464a-8544-268383c33a75).html",
+    "category": "Computer Vision",
+    "title_hint": "Adam: A Method for Stochastic Optimization"
+  },
+  {
+    "key": "10.1109/iccv48922.2021.00951",
+    "openalex_id": "W3159481202",
+    "doi": "10.1109/iccv48922.2021.00951",
+    "title": "Emerging Properties in Self-Supervised Vision Transformers",
+    "authors": [
+      "Mathilde Caron",
+      "Hugo Touvron",
+      "Ishan Misra",
+      "Hervé Jeǵou",
+      "Julien Mairal",
+      "Piotr Bojanowski",
+      "Armand Joulin"
+    ],
+    "year": 2021,
+    "venue": "2021 IEEE/CVF International Conference on Computer Vision (ICCV)",
+    "cited_by_count": 5391,
+    "url": "https://doi.org/10.1109/iccv48922.2021.00951",
+    "category": "Computer Vision",
+    "title_hint": "Emerging Properties in Self-Supervised Vision Transformers"
+  },
+  {
+    "key": "10.48550/arxiv.2304.07193",
+    "openalex_id": "W4366208220",
+    "doi": "10.48550/arxiv.2304.07193",
+    "title": "DINOv2: Learning Robust Visual Features without Supervision",
+    "authors": [
+      "Maxime Oquab",
+      "Timothée Darcet",
+      "Théo Moutakanni",
+      "Huy Vo",
+      "Marc Szafraniec",
+      "Vasil Khalidov",
+      "Pierre Fernandez",
+      "Daniel Haziza",
+      "Francisco Massa",
+      "Alaaeldin El-Nouby",
+      "Mahmoud Assran",
+      "Nicolas Ballas"
+    ],
+    "year": 2023,
+    "venue": "arXiv (Cornell University)",
+    "cited_by_count": 1071,
+    "url": "http://arxiv.org/abs/2304.07193",
+    "category": "Computer Vision",
+    "title_hint": "DINOv2: Learning Robust Visual Features without Supervision"
+  },
+  {
+    "key": "10.48550/arxiv.2111.06377",
+    "openalex_id": "W3211983881",
+    "doi": "10.48550/arxiv.2111.06377",
+    "title": "Masked Autoencoders Are Scalable Vision Learners",
+    "authors": [
+      "Kaiming He",
+      "Xinlei Chen",
+      "Saining Xie",
+      "Yanghao Li",
+      "Piotr Dollár",
+      "Ross Girshick"
+    ],
+    "year": 2021,
+    "venue": "arXiv (Cornell University)",
+    "cited_by_count": 201,
+    "url": "http://arxiv.org/abs/2111.06377",
+    "category": "Computer Vision",
+    "title_hint": "Masked Autoencoders Are Scalable Vision Learners"
+  },
+  {
+    "key": "10.48550/arxiv.2408.00714",
+    "openalex_id": "W4401307635",
+    "doi": "10.48550/arxiv.2408.00714",
+    "title": "SAM 2: Segment Anything in Images and Videos",
+    "authors": [
+      "Nikhila Ravi",
+      "Valentin Gabeur",
+      "Yuan-Ting Hu",
+      "Ronghang Hu",
+      "Chaitanya K. Ryali",
+      "Tengyu Ma",
+      "Haitham Khedr",
+      "Roman Rädle",
+      "Chloe Rolland",
+      "Laura Gustafson",
+      "Eric Mintun",
+      "Junting Pan"
+    ],
+    "year": 2024,
+    "venue": "arXiv (Cornell University)",
+    "cited_by_count": 265,
+    "url": "http://arxiv.org/abs/2408.00714",
+    "category": "Computer Vision",
+    "title_hint": "SAM 2: Segment Anything in Images and Videos"
+  },
+  {
+    "key": "10.1109/tpami.2019.2929257",
+    "openalex_id": "W2962730651",
+    "doi": "10.1109/tpami.2019.2929257",
+    "title": "OpenPose: Realtime Multi-Person 2D Pose Estimation Using Part Affinity Fields",
+    "authors": [
+      "Zhe Cao",
+      "Gines Hidalgo",
+      "Tomas Simon",
+      "Shih-En Wei",
+      "Yaser Sheikh"
+    ],
+    "year": 2019,
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "cited_by_count": 5184,
+    "url": "https://doi.org/10.1109/tpami.2019.2929257",
+    "category": "Computer Vision",
+    "title_hint": "OpenPose: Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields"
+  },
+  {
+    "key": "10.48550/arxiv.1906.07155",
+    "openalex_id": "W2950141105",
+    "doi": "10.48550/arxiv.1906.07155",
+    "title": "MMDetection: Open MMLab Detection Toolbox and Benchmark",
+    "authors": [
+      "Kai Chen",
+      "Jiaqi Wang",
+      "Jiangmiao Pang",
+      "Yuhang Cao",
+      "Yu Xiong",
+      "Xiaoxiao Li",
+      "Shuyang Sun",
+      "Wansen Feng",
+      "Ziwei Liu",
+      "Jiarui Xu",
+      "Zheng Zhang",
+      "Dazhi Cheng"
+    ],
+    "year": 2019,
+    "venue": "arXiv (Cornell University)",
+    "cited_by_count": 794,
+    "url": "http://arxiv.org/abs/1906.07155",
+    "category": "Computer Vision",
+    "title_hint": "MMDetection: Open MMLab Detection Toolbox and Benchmark"
+  },
+  {
+    "key": "10.1109/cvpr52688.2022.01042",
+    "openalex_id": "W4312933868",
+    "doi": "10.1109/cvpr52688.2022.01042",
+    "title": "High-Resolution Image Synthesis with Latent Diffusion Models",
+    "authors": [
+      "Robin Rombach",
+      "Andreas Blattmann",
+      "Dominik Lorenz",
+      "Patrick Esser",
+      "Björn Ommer"
+    ],
+    "year": 2022,
+    "venue": "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "cited_by_count": 15123,
+    "url": "https://doi.org/10.1109/cvpr52688.2022.01042",
+    "category": "Computer Vision",
+    "title_hint": "High-Resolution Image Synthesis with Latent Diffusion Models"
+  },
+  {
+    "key": "10.48550/arxiv.2006.11239",
+    "openalex_id": "W3036167779",
+    "doi": "10.48550/arxiv.2006.11239",
+    "title": "Denoising Diffusion Probabilistic Models",
+    "authors": [
+      "Ho, Jonathan",
+      "Ajay N. Jain",
+      "Pieter Abbeel"
+    ],
+    "year": 2020,
+    "venue": "arXiv (Cornell University)",
+    "cited_by_count": 5678,
+    "url": "http://arxiv.org/abs/2006.11239",
+    "category": "Computer Vision",
+    "title_hint": "Denoising Diffusion Probabilistic Models"
+  },
+  {
+    "key": "10.1109/iccv51070.2023.00355",
+    "openalex_id": "W4390873054",
+    "doi": "10.1109/iccv51070.2023.00355",
+    "title": "Adding Conditional Control to Text-to-Image Diffusion Models",
+    "authors": [
+      "Lvmin Zhang",
+      "Anyi Rao",
+      "Maneesh Agrawala"
+    ],
+    "year": 2023,
+    "venue": null,
+    "cited_by_count": 4036,
+    "url": "https://doi.org/10.1109/iccv51070.2023.00355",
+    "category": "Computer Vision",
+    "title_hint": "Adding Conditional Control to Text-to-Image Diffusion Models"
+  },
+  {
+    "key": "imagenet classification with deep convolutional neural networks",
+    "openalex_id": "W2163605009",
+    "doi": null,
+    "title": "ImageNet classification with deep convolutional neural networks",
+    "authors": [
+      "Alex Krizhevsky",
+      "Ilya Sutskever",
+      "Geoffrey E. Hinton"
+    ],
+    "year": 2017,
+    "venue": "Communications of the ACM",
+    "cited_by_count": 75666,
+    "url": "https://doi.org/10.1145/3065386",
+    "category": "Computer Vision",
+    "title_hint": "ImageNet Classification with Deep Convolutional Neural Networks"
+  },
+  {
+    "key": "10.1007/978-3-031-72970-6_3",
+    "openalex_id": "W4404612908",
+    "doi": "10.1007/978-3-031-72970-6_3",
+    "title": "Grounding DINO: Marrying DINO with Grounded Pre-training for Open-Set Object Detection",
+    "authors": [
+      "Shilong Liu",
+      "Zhaoyang Zeng",
+      "Tianhe Ren",
+      "Feng Li",
+      "Hao Zhang",
+      "Jie Yang",
+      "Qing Jiang",
+      "Chunyuan Li",
+      "Jianwei Yang",
+      "Hang Su",
+      "Jun Zhu",
+      "Lei Zhang"
+    ],
+    "year": 2024,
+    "venue": "Lecture notes in computer science",
+    "cited_by_count": 1595,
+    "url": "https://doi.org/10.1007/978-3-031-72970-6_3",
+    "category": "Computer Vision",
+    "title_hint": "Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection"
+  },
+  {
+    "key": "10.48550/arxiv.2304.08069",
+    "openalex_id": "W4366400469",
+    "doi": "10.48550/arxiv.2304.08069",
+    "title": "DETRs Beat YOLOs on Real-time Object Detection",
+    "authors": [
+      "Zhao, Yian",
+      "Lv, Wenyu",
+      "Shangliang Xu",
+      "Jinman Wei",
+      "Guanzhong Wang",
+      "Qingqing Dang",
+      "Yi Liu",
+      "Chen, Jie"
+    ],
+    "year": 2023,
+    "venue": "arXiv (Cornell University)",
+    "cited_by_count": 246,
+    "url": "http://arxiv.org/abs/2304.08069",
+    "category": "Computer Vision",
+    "title_hint": "DETRs Beat YOLOs on Real-time Object Detection"
+  },
+  {
+    "key": "10.48550/arxiv.2312.14132",
+    "openalex_id": "W4390137225",
+    "doi": "10.48550/arxiv.2312.14132",
+    "title": "DUSt3R: Geometric 3D Vision Made Easy",
+    "authors": [
+      "Shuzhe Wang",
+      "Vincent Leroy",
+      "Yohann Cabon",
+      "Boris Chidlovskii",
+      "Jérôme Revaud"
+    ],
+    "year": 2023,
+    "venue": "arXiv (Cornell University)",
+    "cited_by_count": 3,
+    "url": "http://arxiv.org/abs/2312.14132",
+    "category": "3D Vision",
+    "title_hint": "DUSt3R: Geometric 3D Vision Made Easy"
+  },
+  {
+    "key": "10.48550/arxiv.2406.09756",
+    "openalex_id": "W4399759054",
+    "doi": "10.48550/arxiv.2406.09756",
+    "title": "Grounding Image Matching in 3D with MASt3R",
+    "authors": [
+      "Vincent Leroy",
+      "Yohann Cabon",
+      "Jérôme Revaud"
+    ],
+    "year": 2024,
+    "venue": "arXiv (Cornell University)",
+    "cited_by_count": 1,
+    "url": "http://arxiv.org/abs/2406.09756",
+    "category": "3D Vision",
+    "title_hint": "Grounding Image Matching in 3D with MASt3R"
+  },
+  {
+    "key": "10.1145/3528223.3530127",
+    "openalex_id": "W4221151978",
+    "doi": "10.1145/3528223.3530127",
+    "title": "Instant neural graphics primitives with a multiresolution hash encoding",
+    "authors": [
+      "Thomas Müller",
+      "Alex Evans",
+      "Christoph Schied",
+      "Alexander Keller"
+    ],
+    "year": 2022,
+    "venue": "ACM Transactions on Graphics",
+    "cited_by_count": 3957,
+    "url": "https://doi.org/10.1145/3528223.3530127",
+    "category": "3D Vision",
+    "title_hint": "Instant Neural Graphics Primitives with a Multiresolution Hash Encoding"
+  },
+  {
+    "key": "10.1109/iccv48922.2021.00580",
+    "openalex_id": "W3136327392",
+    "doi": "10.1109/iccv48922.2021.00580",
+    "title": "Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields",
+    "authors": [
+      "Jonathan T. Barron",
+      "Ben Mildenhall",
+      "Matthew Tancik",
+      "Peter Hedman",
+      "Ricardo Martin-Brualla",
+      "Pratul P. Srinivasan"
+    ],
+    "year": 2021,
+    "venue": "2021 IEEE/CVF International Conference on Computer Vision (ICCV)",
+    "cited_by_count": 90,
+    "url": "https://doi.org/10.1109/iccv48922.2021.00580",
+    "category": "NeRF",
+    "title_hint": "Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields"
+  },
+  {
+    "key": "vggsfm: visual geometry grounded deep structure from motion",
+    "openalex_id": "W4402753851",
+    "doi": null,
+    "title": "VGGSfM: Visual Geometry Grounded Deep Structure from Motion",
+    "authors": [
+      "Jianyuan Wang",
+      "Nikita Karaev",
+      "Christian Rupprecht",
+      "David Novotný"
+    ],
+    "year": 2024,
+    "venue": null,
+    "cited_by_count": 68,
+    "url": "https://doi.org/10.1109/cvpr52733.2024.02049",
+    "category": "3D Vision",
+    "title_hint": "VGGSfM: Visual Geometry Grounded Deep Structure From Motion"
+  },
+  {
+    "key": "10.48550/arxiv.2307.07635",
+    "openalex_id": "W4384652331",
+    "doi": "10.48550/arxiv.2307.07635",
+    "title": "CoTracker: It is Better to Track Together",
+    "authors": [
+      "Nikita Karaev",
+      "Ignacio Rocco",
+      "Benjamin A.T. Graham",
+      "Natalia Neverova",
+      "Andrea Vedaldi",
+      "Christian Rupprecht"
+    ],
+    "year": 2023,
+    "venue": "arXiv (Cornell University)",
+    "cited_by_count": 17,
+    "url": "http://arxiv.org/abs/2307.07635",
+    "category": "3D Vision",
+    "title_hint": "CoTracker: It is Better to Track Together"
+  },
+  {
+    "key": "10.48550/arxiv.1801.09847",
+    "openalex_id": "W2786036844",
+    "doi": "10.48550/arxiv.1801.09847",
+    "title": "Open3D: A Modern Library for 3D Data Processing",
+    "authors": [
+      "Qian-Yi Zhou",
+      "Jaesik Park",
+      "Vladlen Koltun"
+    ],
+    "year": 2018,
+    "venue": "arXiv (Cornell University)",
+    "cited_by_count": 1213,
+    "url": "http://arxiv.org/abs/1801.09847",
+    "category": "3D Vision",
+    "title_hint": "Open3D: A Modern Library for 3D Data Processing"
+  },
+  {
+    "key": "10.1109/cvpr52688.2022.00539",
+    "openalex_id": "W3215769467",
+    "doi": "10.1109/cvpr52688.2022.00539",
+    "title": "Mip-NeRF 360: Unbounded Anti-Aliased Neural Radiance Fields",
+    "authors": [
+      "Jonathan T. Barron",
+      "Ben Mildenhall",
+      "Dor Verbin",
+      "Pratul P. Srinivasan",
+      "Peter Hedman"
+    ],
+    "year": 2022,
+    "venue": "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "cited_by_count": 1810,
+    "url": "https://doi.org/10.1109/cvpr52688.2022.00539",
+    "category": "NeRF",
+    "title_hint": "Mip-NeRF 360: Unbounded Anti-Aliased Neural Radiance Fields"
+  },
+  {
+    "key": "10.1007/978-3-031-19824-3_20",
+    "openalex_id": "W4312234520",
+    "doi": "10.1007/978-3-031-19824-3_20",
+    "title": "TensoRF: Tensorial Radiance Fields",
+    "authors": [
+      "Anpei Chen",
+      "Zexiang Xu",
+      "Andreas Geiger",
+      "Jingyi Yu",
+      "Hao Su"
+    ],
+    "year": 2022,
+    "venue": "Lecture notes in computer science",
+    "cited_by_count": 1136,
+    "url": "https://doi.org/10.1007/978-3-031-19824-3_20",
+    "category": "NeRF",
+    "title_hint": "TensoRF: Tensorial Radiance Fields"
+  },
+  {
+    "key": "10.48550/arxiv.2409.06765",
+    "openalex_id": "W4403620462",
+    "doi": "10.48550/arxiv.2409.06765",
+    "title": "gsplat: An Open-Source Library for Gaussian Splatting",
+    "authors": [
+      "Vickie Ye",
+      "Ruilong Li",
+      "Justin Kerr",
+      "Matias Turkulainen",
+      "Brent Yi",
+      "Pan, Zhuoyang",
+      "Otto Seiskari",
+      "Jianbo Ye",
+      "J. Hu",
+      "Matthew Tancik",
+      "Angjoo Kanazawa"
+    ],
+    "year": 2024,
+    "venue": "arXiv (Cornell University)",
+    "cited_by_count": 7,
+    "url": "http://arxiv.org/abs/2409.06765",
+    "category": "Gaussian Splatting",
+    "title_hint": "gsplat: An Open-Source Library for Gaussian Splatting"
+  },
+  {
+    "key": "2d gaussian splatting for geometrically accurate radiance fields",
+    "openalex_id": "W4393248012",
+    "doi": null,
+    "title": "2D Gaussian Splatting for Geometrically Accurate Radiance Fields",
+    "authors": [
+      "Binbin Huang",
+      "Zehao Yu",
+      "Anpei Chen",
+      "Andreas Geiger",
+      "Shenghua Gao"
+    ],
+    "year": 2024,
+    "venue": null,
+    "cited_by_count": 572,
+    "url": "https://doi.org/10.1145/3641519.3657428",
+    "category": "Gaussian Splatting",
+    "title_hint": "2D Gaussian Splatting for Geometrically Accurate Radiance Fields"
+  },
+  {
+    "key": "sugar: surface-aligned gaussian splatting for efficient 3d mesh reconstruction and high-quality mesh rendering",
+    "openalex_id": "W4402704609",
+    "doi": null,
+    "title": "SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering",
+    "authors": [
+      "Antoine Guédon",
+      "Vincent Lepetit"
+    ],
+    "year": 2024,
+    "venue": null,
+    "cited_by_count": 432,
+    "url": "https://doi.org/10.1109/cvpr52733.2024.00512",
+    "category": "Gaussian Splatting",
+    "title_hint": "SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering"
+  },
+  {
+    "key": "4d gaussian splatting for real-time dynamic scene rendering",
+    "openalex_id": "W4402727915",
+    "doi": null,
+    "title": "4D Gaussian Splatting for Real-Time Dynamic Scene Rendering",
+    "authors": [
+      "Guanjun Wu",
+      "Taoran Yi",
+      "Jiemin Fang",
+      "Lingxi Xie",
+      "Xiaopeng Zhang",
+      "Wei Wei",
+      "Wenyu Liu",
+      "Qi Tian",
+      "Xinggang Wang"
+    ],
+    "year": 2024,
+    "venue": null,
+    "cited_by_count": 648,
+    "url": "https://doi.org/10.1109/cvpr52733.2024.01920",
+    "category": "Gaussian Splatting",
+    "title_hint": "4D Gaussian Splatting for Real-Time Dynamic Scene Rendering"
+  },
+  {
+    "key": "10.48550/arxiv.2307.15818",
+    "openalex_id": "W4385473486",
+    "doi": "10.48550/arxiv.2307.15818",
+    "title": "RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control",
+    "authors": [
+      "Anthony Brohan",
+      "Noah Brown",
+      "Justice Carbajal",
+      "Yevgen Chebotar",
+      "Xi Chen",
+      "Krzysztof Choromański",
+      "Tianli Ding",
+      "Danny Driess",
+      "Avinava Dubey",
+      "Chelsea Finn",
+      "Pete Florence",
+      "Chuyuan Fu"
+    ],
+    "year": 2023,
+    "venue": "arXiv (Cornell University)",
+    "cited_by_count": 273,
+    "url": "http://arxiv.org/abs/2307.15818",
+    "category": "VLA",
+    "title_hint": "RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control"
+  },
+  {
+    "key": "10.48550/arxiv.2303.03378",
+    "openalex_id": "W4323572061",
+    "doi": "10.48550/arxiv.2303.03378",
+    "title": "PaLM-E: An Embodied Multimodal Language Model",
+    "authors": [
+      "Danny Driess",
+      "Fei Xia",
+      "Mehdi S. M. Sajjadi",
+      "Corey Lynch",
+      "Aakanksha Chowdhery",
+      "Brian Ichter",
+      "Ayzaan Wahid",
+      "Jonathan Tompson",
+      "Quan Vuong",
+      "Tianhe Yu",
+      "Wenlong Huang",
+      "Yevgen Chebotar"
+    ],
+    "year": 2023,
+    "venue": "arXiv (Cornell University)",
+    "cited_by_count": 355,
+    "url": "http://arxiv.org/abs/2303.03378",
+    "category": "VLA",
+    "title_hint": "PaLM-E: An Embodied Multimodal Language Model"
+  },
+  {
+    "key": "10.48550/arxiv.2310.08864",
+    "openalex_id": "W4387764390",
+    "doi": "10.48550/arxiv.2310.08864",
+    "title": "Open X-Embodiment: Robotic Learning Datasets and RT-X Models",
+    "authors": [
+      "Embodiment Collaboration",
+      "O'Neill, Abby",
+      "Rehman, Abdul",
+      "Gupta, Abhinav",
+      "Maddukuri, Abhiram",
+      "Gupta, Abhishek",
+      "Abhishek Padalkar",
+      "Lee, Abraham",
+      "Acorn Pooley",
+      "Gupta, Agrim",
+      "Mandlekar, Ajay",
+      "Ajinkya Jain"
+    ],
+    "year": 2023,
+    "venue": "arXiv (Cornell University)",
+    "cited_by_count": 103,
+    "url": "http://arxiv.org/abs/2310.08864",
+    "category": "VLA",
+    "title_hint": "Open X-Embodiment: Robotic Learning Datasets and RT-X Models"
+  },
+  {
+    "key": "10.48550/arxiv.2405.12213",
+    "openalex_id": "W4398192846",
+    "doi": "10.48550/arxiv.2405.12213",
+    "title": "Octo: An Open-Source Generalist Robot Policy",
+    "authors": [
+      "Octo Model Team",
+      "Dibya Ghosh",
+      "Homer Walke",
+      "Karl Pertsch",
+      "Kevin Black",
+      "Oier Mees",
+      "Sudeep Dasari",
+      "Joey Hejna",
+      "Tobias Kreiman",
+      "Charles Xu",
+      "Jianlan Luo",
+      "You Liang Tan"
+    ],
+    "year": 2024,
+    "venue": "arXiv (Cornell University)",
+    "cited_by_count": 8,
+    "url": "http://arxiv.org/abs/2405.12213",
+    "category": "VLA",
+    "title_hint": "Octo: An Open-Source Generalist Robot Policy"
+  },
+  {
+    "key": "10.48550/arxiv.2303.04137",
+    "openalex_id": "W4323651335",
+    "doi": "10.48550/arxiv.2303.04137",
+    "title": "Diffusion Policy: Visuomotor Policy Learning via Action Diffusion",
+    "authors": [
+      "Cheng Chi",
+      "Zhenjia Xu",
+      "Siyuan Feng",
+      "Eric Cousineau",
+      "Yilun Du",
+      "Benjamin Burchfiel",
+      "Tedrake, Russ",
+      "Shuran Song"
+    ],
+    "year": 2023,
+    "venue": "arXiv (Cornell University)",
+    "cited_by_count": 13,
+    "url": "http://arxiv.org/abs/2303.04137",
+    "category": "VLA",
+    "title_hint": "Diffusion Policy: Visuomotor Policy Learning via Action Diffusion"
+  },
+  {
+    "key": "10.48550/arxiv.2304.13705",
+    "openalex_id": "W4367191050",
+    "doi": "10.48550/arxiv.2304.13705",
+    "title": "Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware",
+    "authors": [
+      "Tony Z. Zhao",
+      "Vikas Kumar",
+      "Sergey Levine",
+      "Chelsea Finn"
+    ],
+    "year": 2023,
+    "venue": "arXiv (Cornell University)",
+    "cited_by_count": 12,
+    "url": "http://arxiv.org/abs/2304.13705",
+    "category": "VLA",
+    "title_hint": "Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware"
+  },
+  {
+    "key": "10.48550/arxiv.2410.24164",
+    "openalex_id": "W4404350116",
+    "doi": "10.48550/arxiv.2410.24164",
+    "title": "$π_0$: A Vision-Language-Action Flow Model for General Robot Control",
+    "authors": [
+      "Black, Kevin",
+      "Noah Brown",
+      "Danny Driess",
+      "A. Esmail",
+      "Michael Equi",
+      "Chelsea Finn",
+      "Niccolo Fusai",
+      "Groom, Lachy",
+      "Karol Hausman",
+      "Brian Ichter",
+      "Szymon Jakubczak",
+      "Tim Jones"
+    ],
+    "year": 2024,
+    "venue": "arXiv (Cornell University)",
+    "cited_by_count": 11,
+    "url": "http://arxiv.org/abs/2410.24164",
+    "category": "VLA",
+    "title_hint": "A Vision-Language-Action Flow Model for General Robot Control"
+  },
+  {
+    "key": "10.48550/arxiv.2010.02193",
+    "openalex_id": "W3091507139",
+    "doi": "10.48550/arxiv.2010.02193",
+    "title": "Mastering Atari with Discrete World Models",
+    "authors": [
+      "Danijar Hafner",
+      "Timothy Lillicrap",
+      "Mohammad Norouzi",
+      "Jimmy Ba"
+    ],
+    "year": 2020,
+    "venue": "arXiv (Cornell University)",
+    "cited_by_count": 23,
+    "url": "http://arxiv.org/abs/2010.02193",
+    "category": "World Models",
+    "title_hint": "Mastering Atari with Discrete World Models"
+  },
+  {
+    "key": "10.48550/arxiv.2301.04104",
+    "openalex_id": "W4315706776",
+    "doi": "10.48550/arxiv.2301.04104",
+    "title": "Mastering Diverse Domains through World Models",
+    "authors": [
+      "Danijar Hafner",
+      "Jurgis Pašukonis",
+      "Jimmy Ba",
+      "Timothy Lillicrap"
+    ],
+    "year": 2023,
+    "venue": "arXiv (Cornell University)",
+    "cited_by_count": 94,
+    "url": "http://arxiv.org/abs/2301.04104",
+    "category": "World Models",
+    "title_hint": "Mastering Diverse Domains through World Models"
+  },
+  {
+    "key": "10.48550/arxiv.2203.04955",
+    "openalex_id": "W4221164079",
+    "doi": "10.48550/arxiv.2203.04955",
+    "title": "Temporal Difference Learning for Model Predictive Control",
+    "authors": [
+      "Nicklas Hansen",
+      "Xiaolong Wang",
+      "Hao Su"
+    ],
+    "year": 2022,
+    "venue": "arXiv (Cornell University)",
+    "cited_by_count": 27,
+    "url": "http://arxiv.org/abs/2203.04955",
+    "category": "World Models",
+    "title_hint": "Temporal Difference Learning for Model Predictive Control"
+  },
+  {
+    "key": "10.48550/arxiv.2310.16828",
+    "openalex_id": "W4387964172",
+    "doi": "10.48550/arxiv.2310.16828",
+    "title": "TD-MPC2: Scalable, Robust World Models for Continuous Control",
+    "authors": [
+      "Nicklas Hansen",
+      "Hao Su",
+      "Xiaolong Wang"
+    ],
+    "year": 2023,
+    "venue": "arXiv (Cornell University)",
+    "cited_by_count": 8,
+    "url": "http://arxiv.org/abs/2310.16828",
+    "category": "World Models",
+    "title_hint": "TD-MPC2: Scalable, Robust World Models for Continuous Control"
+  },
+  {
+    "key": "10.1038/s41586-020-03051-4",
+    "openalex_id": "W2989847975",
+    "doi": "10.1038/s41586-020-03051-4",
+    "title": "Mastering Atari, Go, chess and shogi by planning with a learned model",
+    "authors": [
+      "Julian Schrittwieser",
+      "Ioannis Antonoglou",
+      "Thomas Hubert",
+      "Karen Simonyan",
+      "Laurent Sifre",
+      "Simon Schmitt",
+      "Arthur Guez",
+      "Edward Lockhart",
+      "Demis Hassabis",
+      "Thore Graepel",
+      "Timothy Lillicrap",
+      "David Silver"
+    ],
+    "year": 2020,
+    "venue": "Nature",
+    "cited_by_count": 1140,
+    "url": "https://doi.org/10.1038/s41586-020-03051-4",
+    "category": "World Models",
+    "title_hint": "Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model"
+  },
+  {
+    "key": "10.48550/arxiv.2404.08471",
+    "openalex_id": "W4394861491",
+    "doi": "10.48550/arxiv.2404.08471",
+    "title": "Revisiting Feature Prediction for Learning Visual Representations from Video",
+    "authors": [
+      "Adrien Bardes",
+      "Quentin Garrido",
+      "Jean Ponce",
+      "Xinlei Chen",
+      "Michael Rabbat",
+      "Yann LeCun",
+      "Mahmoud Assran",
+      "Nicolas Ballas"
+    ],
+    "year": 2024,
+    "venue": "arXiv (Cornell University)",
+    "cited_by_count": 11,
+    "url": "http://arxiv.org/abs/2404.08471",
+    "category": "World Models",
+    "title_hint": "Revisiting Feature Prediction for Learning Visual Representations from Video"
+  },
+  {
+    "key": "10.48550/arxiv.2501.03575",
+    "openalex_id": "W4406191642",
+    "doi": "10.48550/arxiv.2501.03575",
+    "title": "Cosmos World Foundation Model Platform for Physical AI",
+    "authors": [
+      "NVIDIA",
+      ":",
+      "Niket Agarwal",
+      "Arslan Ali",
+      "Bala, Maciej",
+      "Yogesh Balaji",
+      "E. N. Barker",
+      "Tiffany Cai",
+      "Prithvijit Chattopadhyay",
+      "Yongxin Chen",
+      "Yin Cui",
+      "Yifan Ding"
+    ],
+    "year": 2025,
+    "venue": "arXiv (Cornell University)",
+    "cited_by_count": 10,
+    "url": "http://arxiv.org/abs/2501.03575",
+    "category": "World Models",
+    "title_hint": "Cosmos World Foundation Model Platform for Physical AI"
+  },
+  {
+    "key": "10.48550/arxiv.2203.17270",
+    "openalex_id": "W4226521892",
+    "doi": "10.48550/arxiv.2203.17270",
+    "title": "BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers",
+    "authors": [
+      "Zhiqi Li",
+      "Wenhai Wang",
+      "Hongyang Li",
+      "Enze Xie",
+      "Chonghao Sima",
+      "Tong Lu",
+      "Yu Qiao",
+      "Jifeng Dai"
+    ],
+    "year": 2022,
+    "venue": "arXiv (Cornell University)",
+    "cited_by_count": 38,
+    "url": "http://arxiv.org/abs/2203.17270",
+    "category": "Autonomous Driving",
+    "title_hint": "BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers"
+  },
+  {
+    "key": "10.1109/cvpr.2019.01298",
+    "openalex_id": "W2905076052",
+    "doi": "10.1109/cvpr.2019.01298",
+    "title": "PointPillars: Fast Encoders for Object Detection From Point Clouds",
+    "authors": [
+      "Alex Lang",
+      "Sourabh Vora",
+      "Holger Caesar",
+      "Lubing Zhou",
+      "Jiong Yang",
+      "Oscar Beijbom"
+    ],
+    "year": 2019,
+    "venue": null,
+    "cited_by_count": 241,
+    "url": "https://doi.org/10.1109/cvpr.2019.01298",
+    "category": "Autonomous Driving",
+    "title_hint": "PointPillars: Fast Encoders for Object Detection from Point Clouds"
+  },
+  {
+    "key": "10.3390/s18093337",
+    "openalex_id": "W2897529137",
+    "doi": "10.3390/s18093337",
+    "title": "SECOND: Sparsely Embedded Convolutional Detection",
+    "authors": [
+      "Yan Yan",
+      "Yuxing Mao",
+      "Bo Li"
+    ],
+    "year": 2018,
+    "venue": "Sensors",
+    "cited_by_count": 3387,
+    "url": "https://doi.org/10.3390/s18103337",
+    "category": "Autonomous Driving",
+    "title_hint": "SECOND: Sparsely Embedded Convolutional Detection"
+  },
+  {
+    "key": "pointrcnn: 3d object proposal generation and detection from point cloud",
+    "openalex_id": "W2949708697",
+    "doi": null,
+    "title": "PointRCNN: 3D Object Proposal Generation and Detection From Point Cloud",
+    "authors": [
+      "Shaoshuai Shi",
+      "Xiaogang Wang",
+      "Hongsheng Li"
+    ],
+    "year": 2019,
+    "venue": null,
+    "cited_by_count": 3046,
+    "url": "https://doi.org/10.1109/cvpr.2019.00086",
+    "category": "Autonomous Driving",
+    "title_hint": "PointRCNN: 3D Object Proposal Generation and Detection from Point Cloud"
+  },
+  {
+    "key": "10.1109/cvpr46437.2021.01161",
+    "openalex_id": "W3167095230",
+    "doi": "10.1109/cvpr46437.2021.01161",
+    "title": "Center-based 3D Object Detection and Tracking",
+    "authors": [
+      "Tianwei Yin",
+      "Xingyi Zhou",
+      "Philipp Krähenbühl"
+    ],
+    "year": 2021,
+    "venue": null,
+    "cited_by_count": 2000,
+    "url": "https://doi.org/10.1109/cvpr46437.2021.01161",
+    "category": "Autonomous Driving",
+    "title_hint": "Center-based 3D Object Detection and Tracking"
+  },
+  {
+    "key": "10.1109/cvpr42600.2020.01164",
+    "openalex_id": "W2925148167",
+    "doi": "10.1109/cvpr42600.2020.01164",
+    "title": "nuScenes: A Multimodal Dataset for Autonomous Driving",
+    "authors": [
+      "Holger Caesar",
+      "Varun Bankiti",
+      "Alex Lang",
+      "Sourabh Vora",
+      "Venice Erin Liong",
+      "Qiang Xu",
+      "Anush Krishnan",
+      "Yu Pan",
+      "Giancarlo Baldan",
+      "Oscar Beijbom"
+    ],
+    "year": 2020,
+    "venue": null,
+    "cited_by_count": 378,
+    "url": "https://doi.org/10.1109/cvpr42600.2020.01164",
+    "category": "Autonomous Driving",
+    "title_hint": "nuScenes: A multimodal dataset for autonomous driving"
+  },
+  {
+    "key": "10.1109/cvpr42600.2020.00252",
+    "openalex_id": "W3035172746",
+    "doi": "10.1109/cvpr42600.2020.00252",
+    "title": "Scalability in Perception for Autonomous Driving: Waymo Open Dataset",
+    "authors": [
+      "Pei Sun",
+      "Henrik Kretzschmar",
+      "Xerxes Dotiwalla",
+      "Aurélien Chouard",
+      "Vijaysai Patnaik",
+      "Paul Tsui",
+      "James C. Y. Guo",
+      "Yin Zhou",
+      "Yuning Chai",
+      "Benjamin Caine",
+      "Vijay Vasudevan",
+      "Wei Han"
+    ],
+    "year": 2020,
+    "venue": null,
+    "cited_by_count": 3177,
+    "url": "https://doi.org/10.1109/cvpr42600.2020.00252",
+    "category": "Autonomous Driving",
+    "title_hint": "Scalability in Perception for Autonomous Driving: Waymo Open Dataset"
+  },
+  {
+    "key": "10.48550/arxiv.1711.03938",
+    "openalex_id": "W2767621168",
+    "doi": "10.48550/arxiv.1711.03938",
+    "title": "CARLA: An Open Urban Driving Simulator",
+    "authors": [
+      "Alexey Dosovitskiy",
+      "Germán Ros",
+      "Felipe Codevilla",
+      "Antonio M. López",
+      "Vladlen Koltun"
+    ],
+    "year": 2017,
+    "venue": "arXiv (Cornell University)",
+    "cited_by_count": 289,
+    "url": "http://arxiv.org/abs/1711.03938",
+    "category": "Autonomous Driving",
+    "title_hint": "CARLA: An Open Urban Driving Simulator"
+  },
+  {
+    "key": "10.1109/icra48891.2023.10160968",
+    "openalex_id": "W4383066393",
+    "doi": "10.1109/icra48891.2023.10160968",
+    "title": "BEVFusion: Multi-Task Multi-Sensor Fusion with Unified Bird's-Eye View Representation",
+    "authors": [
+      "Zhijian Liu",
+      "Haotian Tang",
+      "Alexander Amini",
+      "Xinyu Yang",
+      "Huizi Mao",
+      "Daniela Rus",
+      "Song Han"
+    ],
+    "year": 2023,
+    "venue": null,
+    "cited_by_count": 1150,
+    "url": "https://doi.org/10.1109/icra48891.2023.10160968",
+    "category": "Autonomous Driving",
+    "title_hint": "BEVFusion: Multi-Task Multi-Sensor Fusion with Unified Bird's-Eye View Representation"
+  },
+  {
+    "key": "10.1007/978-3-030-58568-6_12",
+    "openalex_id": "W3048770793",
+    "doi": "10.1007/978-3-030-58568-6_12",
+    "title": "Lift, Splat, Shoot: Encoding Images from Arbitrary Camera Rigs by Implicitly Unprojecting to 3D",
+    "authors": [
+      "Jonah Philion",
+      "Sanja Fidler"
+    ],
+    "year": 2020,
+    "venue": "Lecture notes in computer science",
+    "cited_by_count": 41,
+    "url": "https://doi.org/10.1007/978-3-030-58568-6_12",
+    "category": "Autonomous Driving",
+    "title_hint": "Lift, Splat, Shoot: Encoding Images from Arbitrary Camera Rigs by Implicitly Unprojecting to 3D"
+  },
+  {
+    "key": "10.48550/arxiv.2309.17080",
+    "openalex_id": "W4387294122",
+    "doi": "10.48550/arxiv.2309.17080",
+    "title": "GAIA-1: A Generative World Model for Autonomous Driving",
+    "authors": [
+      "Anthony Hu",
+      "Lloyd Russell",
+      "Hudson Yeo",
+      "Zak Murez",
+      "G. A. Fedoseev",
+      "Alex Kendall",
+      "Jamie Shotton",
+      "Gianluca Corrado"
+    ],
+    "year": 2023,
+    "venue": "arXiv (Cornell University)",
+    "cited_by_count": 27,
+    "url": "http://arxiv.org/abs/2309.17080",
+    "category": "Autonomous Driving",
+    "title_hint": "GAIA-1: A Generative World Model for Autonomous Driving"
+  },
+  {
+    "key": "10.48550/arxiv.2110.06922",
+    "openalex_id": "W3206020460",
+    "doi": "10.48550/arxiv.2110.06922",
+    "title": "DETR3D: 3D Object Detection from Multi-view Images via 3D-to-2D Queries",
+    "authors": [
+      "Yue Wang",
+      "Vitor Campagnolo Guizilini",
+      "Tianyuan Zhang",
+      "Yilun Wang",
+      "Hang Zhao",
+      "Justin Solomon"
+    ],
+    "year": 2021,
+    "venue": "arXiv (Cornell University)",
+    "cited_by_count": 74,
+    "url": "http://arxiv.org/abs/2110.06922",
+    "category": "Autonomous Driving",
+    "title_hint": "DETR3D: 3D Object Detection from Multi-view Images via 3D-to-2D Queries"
+  },
+  {
+    "key": "10.1109/iros.2012.6386109",
+    "openalex_id": "W2158782408",
+    "doi": "10.1109/iros.2012.6386109",
+    "title": "MuJoCo: A physics engine for model-based control",
+    "authors": [
+      "Emanuel Todorov",
+      "Tom Erez",
+      "Yuval Tassa"
+    ],
+    "year": 2012,
+    "venue": null,
+    "cited_by_count": 4582,
+    "url": "https://doi.org/10.1109/iros.2012.6386109",
+    "category": "Robotics",
+    "title_hint": "MuJoCo: A physics engine for model-based control"
+  },
+  {
+    "key": "10.1109/iccv.2019.00943",
+    "openalex_id": "W2929928372",
+    "doi": "10.1109/iccv.2019.00943",
+    "title": "Habitat: A Platform for Embodied AI Research",
+    "authors": [
+      "Manolis Savva",
+      "Abhishek Kadian",
+      "Oleksandr Maksymets",
+      "Yili Zhao",
+      "Erik Wijmans",
+      "Bhavana Jain",
+      "Julian Straub",
+      "Jia Liu",
+      "Vladlen Koltun",
+      "Jitendra Malik",
+      "Devi Parikh",
+      "Dhruv Batra"
+    ],
+    "year": 2019,
+    "venue": null,
+    "cited_by_count": 195,
+    "url": "https://doi.org/10.1109/iccv.2019.00943",
+    "category": "Robotics",
+    "title_hint": "Habitat: A Platform for Embodied AI Research"
   }
 ]

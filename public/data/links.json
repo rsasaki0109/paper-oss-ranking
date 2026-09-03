@@ -105,5 +105,384 @@
     "paper": "10.1109/iros.2018.8594299",
     "repo": "RobustFieldAutonomyLab/LeGO-LOAM",
     "relation": "official"
+  },
+  {
+    "paper": "10.1109/tpami.2017.2658577",
+    "repo": "jakobengel/dso",
+    "relation": "official"
+  },
+  {
+    "paper": "10.1007/978-3-319-10605-2_54",
+    "repo": "tum-vision/lsd_slam",
+    "relation": "official"
+  },
+  {
+    "paper": "10.1109/icra.2014.6906584",
+    "repo": "uzh-rpg/rpg_svo",
+    "relation": "official"
+  },
+  {
+    "paper": "10.1109/tro.2018.2853729",
+    "repo": "HKUST-Aerial-Robotics/VINS-Mono",
+    "relation": "official"
+  },
+  {
+    "paper": "10.15607/rss.2014.x.007",
+    "repo": "laboshinl/loam_velodyne",
+    "relation": "community",
+    "note": "Widely-used velodyne port of LOAM"
+  },
+  {
+    "paper": "10.1109/icra48506.2021.9561996",
+    "repo": "TixiaoShan/LVI-SAM",
+    "relation": "official"
+  },
+  {
+    "paper": "10.1109/lra.2023.3236571",
+    "repo": "PRBonn/kiss-icp",
+    "relation": "official"
+  },
+  {
+    "paper": "10.1109/icra.2011.5979949",
+    "repo": "RainerKuemmerle/g2o",
+    "relation": "official"
+  },
+  {
+    "paper": "10.1002/rob.21831",
+    "repo": "introlab/rtabmap",
+    "relation": "official"
+  },
+  {
+    "paper": "10.1007/s10514-012-9321-0",
+    "repo": "OctoMap/octomap",
+    "relation": "official"
+  },
+  {
+    "paper": "10.1109/iros.2017.8202315",
+    "repo": "ethz-asl/voxblox",
+    "relation": "official"
+  },
+  {
+    "paper": "10.1109/icra40945.2020.9196885",
+    "repo": "MIT-SPARK/Kimera",
+    "relation": "official"
+  },
+  {
+    "paper": "deep patch visual odometry",
+    "repo": "princeton-vl/DPVO",
+    "relation": "official"
+  },
+  {
+    "paper": "splatam: splat, track and map 3d gaussians for dense rgb-d slam",
+    "repo": "spla-tam/SplaTAM",
+    "relation": "official"
+  },
+  {
+    "paper": "10.1109/icra.2011.5980567",
+    "repo": "PointCloudLibrary/pcl",
+    "relation": "official"
+  },
+  {
+    "paper": "10.1109/tro.2015.2463671",
+    "repo": "raulmur/ORB_SLAM",
+    "relation": "official"
+  },
+  {
+    "paper": "10.1109/iros.2015.7353389",
+    "repo": "ethz-asl/rovio",
+    "relation": "official"
+  },
+  {
+    "paper": "10.1109/lra.2019.2961227",
+    "repo": "VladyslavUsenko/basalt",
+    "relation": "official"
+  },
+  {
+    "paper": "10.48550/arxiv.1901.03642",
+    "repo": "HKUST-Aerial-Robotics/VINS-Fusion",
+    "relation": "official"
+  },
+  {
+    "paper": "10.1109/cvpr.2016.572",
+    "repo": "Relja/netvlad",
+    "relation": "official"
+  },
+  {
+    "paper": "10.1109/cvprw.2018.00060",
+    "repo": "magicleap/SuperPointPretrainedNetwork",
+    "relation": "official"
+  },
+  {
+    "paper": "10.1109/iccv51070.2023.01616",
+    "repo": "cvg/LightGlue",
+    "relation": "official"
+  },
+  {
+    "paper": "10.1109/cvpr46437.2021.00881",
+    "repo": "zju3dv/LoFTR",
+    "relation": "official"
+  },
+  {
+    "paper": "10.1109/tpami.2016.2577031",
+    "repo": "facebookresearch/detectron2",
+    "relation": "community",
+    "note": "Detectron2 hosts Faster R-CNN models"
+  },
+  {
+    "paper": "10.1109/iccv.2017.322",
+    "repo": "matterport/Mask_RCNN",
+    "relation": "community",
+    "note": "Popular third-party implementation"
+  },
+  {
+    "paper": "10.1007/978-3-319-24574-4_28",
+    "repo": "milesial/Pytorch-UNet",
+    "relation": "community",
+    "note": "Popular third-party implementation"
+  },
+  {
+    "paper": "10.48550/arxiv.1409.1556",
+    "repo": "pytorch/vision",
+    "relation": "community",
+    "note": "Canonical pretrained-weights hub"
+  },
+  {
+    "paper": "10.1109/iccv48922.2021.00951",
+    "repo": "facebookresearch/dino",
+    "relation": "official"
+  },
+  {
+    "paper": "10.48550/arxiv.2304.07193",
+    "repo": "facebookresearch/dinov2",
+    "relation": "official"
+  },
+  {
+    "paper": "10.48550/arxiv.2111.06377",
+    "repo": "facebookresearch/mae",
+    "relation": "official"
+  },
+  {
+    "paper": "10.48550/arxiv.2408.00714",
+    "repo": "facebookresearch/segment-anything",
+    "relation": "official"
+  },
+  {
+    "paper": "10.1109/tpami.2019.2929257",
+    "repo": "CMU-Perceptual-Computing-Lab/openpose",
+    "relation": "official"
+  },
+  {
+    "paper": "10.48550/arxiv.1906.07155",
+    "repo": "open-mmlab/mmdetection",
+    "relation": "official"
+  },
+  {
+    "paper": "10.1109/cvpr52688.2022.01042",
+    "repo": "CompVis/stable-diffusion",
+    "relation": "official"
+  },
+  {
+    "paper": "10.48550/arxiv.2006.11239",
+    "repo": "hojonathanho/diffusion",
+    "relation": "official"
+  },
+  {
+    "paper": "10.1109/iccv51070.2023.00355",
+    "repo": "lllyasviel/ControlNet",
+    "relation": "official"
+  },
+  {
+    "paper": "10.1007/978-3-031-72970-6_3",
+    "repo": "IDEA-Research/GroundingDINO",
+    "relation": "official"
+  },
+  {
+    "paper": "10.48550/arxiv.2304.08069",
+    "repo": "lyuwenyu/RT-DETR",
+    "relation": "official"
+  },
+  {
+    "paper": "10.1109/cvpr.2016.91",
+    "repo": "ultralytics/yolov5",
+    "relation": "community",
+    "note": "YOLO-family ecosystem implementation"
+  },
+  {
+    "paper": "10.48550/arxiv.2312.14132",
+    "repo": "naver/dust3r",
+    "relation": "official"
+  },
+  {
+    "paper": "10.48550/arxiv.2406.09756",
+    "repo": "naver/mast3r",
+    "relation": "official"
+  },
+  {
+    "paper": "10.1145/3528223.3530127",
+    "repo": "NVlabs/instant-ngp",
+    "relation": "official"
+  },
+  {
+    "paper": "10.1109/iccv48922.2021.00580",
+    "repo": "google/mipnerf",
+    "relation": "official"
+  },
+  {
+    "paper": "vggsfm: visual geometry grounded deep structure from motion",
+    "repo": "facebookresearch/vggsfm",
+    "relation": "official"
+  },
+  {
+    "paper": "10.48550/arxiv.2307.07635",
+    "repo": "facebookresearch/co-tracker",
+    "relation": "official"
+  },
+  {
+    "paper": "10.48550/arxiv.1801.09847",
+    "repo": "isl-org/Open3D",
+    "relation": "official"
+  },
+  {
+    "paper": "10.1109/cvpr52688.2022.00539",
+    "repo": "google-research/multinerf",
+    "relation": "official",
+    "note": "Code release for Mip-NeRF 360"
+  },
+  {
+    "paper": "10.1007/978-3-031-19824-3_20",
+    "repo": "apchenstu/TensoRF",
+    "relation": "official"
+  },
+  {
+    "paper": "10.48550/arxiv.2409.06765",
+    "repo": "nerfstudio-project/gsplat",
+    "relation": "official"
+  },
+  {
+    "paper": "2d gaussian splatting for geometrically accurate radiance fields",
+    "repo": "hbb1/2d-gaussian-splatting",
+    "relation": "official"
+  },
+  {
+    "paper": "sugar: surface-aligned gaussian splatting for efficient 3d mesh reconstruction and high-quality mesh rendering",
+    "repo": "Anttwo/SuGaR",
+    "relation": "official"
+  },
+  {
+    "paper": "4d gaussian splatting for real-time dynamic scene rendering",
+    "repo": "hustvl/4DGaussians",
+    "relation": "official"
+  },
+  {
+    "paper": "10.48550/arxiv.2405.12213",
+    "repo": "octo-models/octo",
+    "relation": "official"
+  },
+  {
+    "paper": "10.48550/arxiv.2303.04137",
+    "repo": "real-stanford/diffusion_policy",
+    "relation": "official"
+  },
+  {
+    "paper": "10.48550/arxiv.2304.13705",
+    "repo": "tonyzhaozh/aloha",
+    "relation": "official"
+  },
+  {
+    "paper": "10.48550/arxiv.2410.24164",
+    "repo": "Physical-Intelligence/openpi",
+    "relation": "official"
+  },
+  {
+    "paper": "10.48550/arxiv.2010.02193",
+    "repo": "danijar/dreamerv2",
+    "relation": "official"
+  },
+  {
+    "paper": "10.48550/arxiv.2301.04104",
+    "repo": "danijar/dreamerv3",
+    "relation": "official"
+  },
+  {
+    "paper": "10.48550/arxiv.2203.04955",
+    "repo": "nicklashansen/tdmpc",
+    "relation": "official"
+  },
+  {
+    "paper": "10.48550/arxiv.2310.16828",
+    "repo": "nicklashansen/tdmpc2",
+    "relation": "official"
+  },
+  {
+    "paper": "10.48550/arxiv.2404.08471",
+    "repo": "facebookresearch/vjepa2",
+    "relation": "official",
+    "note": "Official V-JEPA family codebase (v2)"
+  },
+  {
+    "paper": "10.48550/arxiv.2203.17270",
+    "repo": "fundamentalvision/BEVFormer",
+    "relation": "official"
+  },
+  {
+    "paper": "10.3390/s18093337",
+    "repo": "traveller59/second.pytorch",
+    "relation": "official"
+  },
+  {
+    "paper": "10.1109/cvpr.2019.01298",
+    "repo": "open-mmlab/OpenPCDet",
+    "relation": "community",
+    "note": "Community re-implementation hub"
+  },
+  {
+    "paper": "pointrcnn: 3d object proposal generation and detection from point cloud",
+    "repo": "sshaoshuai/PointRCNN",
+    "relation": "official"
+  },
+  {
+    "paper": "10.1109/cvpr46437.2021.01161",
+    "repo": "tianweiy/CenterPoint",
+    "relation": "official"
+  },
+  {
+    "paper": "10.1109/cvpr42600.2020.00252",
+    "repo": "waymo-research/waymo-open-dataset",
+    "relation": "official"
+  },
+  {
+    "paper": "10.1109/cvpr42600.2020.01164",
+    "repo": "nutonomy/nuscenes-devkit",
+    "relation": "official"
+  },
+  {
+    "paper": "10.48550/arxiv.1711.03938",
+    "repo": "carla-simulator/carla",
+    "relation": "official"
+  },
+  {
+    "paper": "10.1109/icra48891.2023.10160968",
+    "repo": "mit-han-lab/bevfusion",
+    "relation": "official"
+  },
+  {
+    "paper": "10.1007/978-3-030-58568-6_12",
+    "repo": "nv-tlabs/lift-splat-shoot",
+    "relation": "official"
+  },
+  {
+    "paper": "10.48550/arxiv.2110.06922",
+    "repo": "WangYueFt/detr3d",
+    "relation": "official"
+  },
+  {
+    "paper": "10.1109/iros.2012.6386109",
+    "repo": "google-deepmind/mujoco",
+    "relation": "official"
+  },
+  {
+    "paper": "10.1109/iccv.2019.00943",
+    "repo": "facebookresearch/habitat-lab",
+    "relation": "official"
   }
 ]
