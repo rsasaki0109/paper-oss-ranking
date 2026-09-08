@@ -62,7 +62,7 @@
     ],
     "year": 2016,
     "venue": null,
-    "cited_by_count": 6147,
+    "cited_by_count": 6148,
     "url": "https://doi.org/10.1109/cvpr.2016.445",
     "category": "3D Vision",
     "title_hint": "Structure-from-Motion Revisited"
@@ -82,7 +82,7 @@
     ],
     "year": 2020,
     "venue": "Lecture notes in computer science",
-    "cited_by_count": 5037,
+    "cited_by_count": 5038,
     "url": "https://doi.org/10.1007/978-3-030-58452-8_24",
     "category": "NeRF",
     "title_hint": "NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis"
@@ -100,7 +100,7 @@
     ],
     "year": 2023,
     "venue": "ACM Transactions on Graphics",
-    "cited_by_count": 5252,
+    "cited_by_count": 5255,
     "url": "https://doi.org/10.1145/3592433",
     "category": "Gaussian Splatting",
     "title_hint": "3D Gaussian Splatting for Real-Time Radiance Field Rendering"
@@ -126,7 +126,7 @@
     ],
     "year": 2023,
     "venue": null,
-    "cited_by_count": 10307,
+    "cited_by_count": 10313,
     "url": "https://doi.org/10.1109/iccv51070.2023.00371",
     "category": "Computer Vision",
     "title_hint": "Segment Anything"
@@ -289,7 +289,7 @@
     ],
     "year": 2020,
     "venue": "arXiv (Cornell University)",
-    "cited_by_count": 22043,
+    "cited_by_count": 22045,
     "url": "http://arxiv.org/abs/2010.11929",
     "category": "Computer Vision",
     "title_hint": "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale"
@@ -482,7 +482,7 @@
     ],
     "year": 2016,
     "venue": null,
-    "cited_by_count": 228281,
+    "cited_by_count": 228308,
     "url": "https://doi.org/10.1109/cvpr.2016.90",
     "category": "Computer Vision",
     "title_hint": "Deep Residual Learning for Image Recognition"
@@ -550,7 +550,7 @@
     ],
     "year": 2018,
     "venue": "IEEE Transactions on Robotics",
-    "cited_by_count": 4669,
+    "cited_by_count": 4670,
     "url": "https://doi.org/10.1109/tro.2018.2853729",
     "category": "SLAM",
     "title_hint": "VINS-Mono"
@@ -876,7 +876,7 @@
     ],
     "year": 2021,
     "venue": null,
-    "cited_by_count": 1648,
+    "cited_by_count": 1649,
     "url": "https://doi.org/10.1109/cvpr46437.2021.00881",
     "category": "Localization",
     "title_hint": "LoFTR: Detector-Free Local Feature Matching with Transformers"
@@ -910,7 +910,7 @@
     ],
     "year": 2016,
     "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
-    "cited_by_count": 55709,
+    "cited_by_count": 55713,
     "url": "https://doi.org/10.1109/tpami.2016.2577031",
     "category": "Computer Vision",
     "title_hint": "Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks"
@@ -928,7 +928,7 @@
     ],
     "year": 2017,
     "venue": null,
-    "cited_by_count": 29549,
+    "cited_by_count": 29552,
     "url": "https://doi.org/10.1109/iccv.2017.322",
     "category": "Computer Vision",
     "title_hint": "Mask R-CNN"
@@ -945,7 +945,7 @@
     ],
     "year": 2015,
     "venue": "Lecture notes in computer science",
-    "cited_by_count": 92078,
+    "cited_by_count": 92086,
     "url": "https://doi.org/10.1007/978-3-319-24574-4_28",
     "category": "Computer Vision",
     "title_hint": "U-Net: Convolutional Networks for Biomedical Image Segmentation"
@@ -1014,7 +1014,7 @@
     ],
     "year": 2021,
     "venue": "2021 IEEE/CVF International Conference on Computer Vision (ICCV)",
-    "cited_by_count": 5408,
+    "cited_by_count": 5413,
     "url": "https://doi.org/10.1109/iccv48922.2021.00951",
     "category": "Computer Vision",
     "title_hint": "Emerging Properties in Self-Supervised Vision Transformers"
@@ -1105,7 +1105,7 @@
     ],
     "year": 2019,
     "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
-    "cited_by_count": 5194,
+    "cited_by_count": 5195,
     "url": "https://doi.org/10.1109/tpami.2019.2929257",
     "category": "Computer Vision",
     "title_hint": "OpenPose: Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields"
@@ -1150,7 +1150,7 @@
     ],
     "year": 2022,
     "venue": "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
-    "cited_by_count": 15173,
+    "cited_by_count": 15177,
     "url": "https://doi.org/10.1109/cvpr52688.2022.01042",
     "category": "Image Generation",
     "title_hint": "High-Resolution Image Synthesis with Latent Diffusion Models"
@@ -1167,7 +1167,7 @@
     ],
     "year": 2020,
     "venue": "arXiv (Cornell University)",
-    "cited_by_count": 5680,
+    "cited_by_count": 5681,
     "url": "http://arxiv.org/abs/2006.11239",
     "category": "Image Generation",
     "title_hint": "Denoising Diffusion Probabilistic Models"
@@ -1227,7 +1227,7 @@
     ],
     "year": 2024,
     "venue": "Lecture notes in computer science",
-    "cited_by_count": 1607,
+    "cited_by_count": 1608,
     "url": "https://doi.org/10.1007/978-3-031-72970-6_3",
     "category": "Computer Vision",
     "title_hint": "Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection"
@@ -1303,7 +1303,7 @@
     ],
     "year": 2022,
     "venue": "ACM Transactions on Graphics",
-    "cited_by_count": 3967,
+    "cited_by_count": 3968,
     "url": "https://doi.org/10.1145/3528223.3530127",
     "category": "3D Vision",
     "title_hint": "Instant Neural Graphics Primitives with a Multiresolution Hash Encoding"
@@ -1397,7 +1397,7 @@
     ],
     "year": 2022,
     "venue": "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
-    "cited_by_count": 1817,
+    "cited_by_count": 1818,
     "url": "https://doi.org/10.1109/cvpr52688.2022.00539",
     "category": "NeRF",
     "title_hint": "Mip-NeRF 360: Unbounded Anti-Aliased Neural Radiance Fields"
@@ -1416,7 +1416,7 @@
     ],
     "year": 2022,
     "venue": "Lecture notes in computer science",
-    "cited_by_count": 1140,
+    "cited_by_count": 1141,
     "url": "https://doi.org/10.1007/978-3-031-19824-3_20",
     "category": "NeRF",
     "title_hint": "TensoRF: Tensorial Radiance Fields"
@@ -1499,7 +1499,7 @@
     ],
     "year": 2024,
     "venue": null,
-    "cited_by_count": 649,
+    "cited_by_count": 650,
     "url": "https://doi.org/10.1109/cvpr52733.2024.01920",
     "category": "Gaussian Splatting",
     "title_hint": "4D Gaussian Splatting for Real-Time Dynamic Scene Rendering"
@@ -1906,7 +1906,7 @@
     ],
     "year": 2021,
     "venue": null,
-    "cited_by_count": 2007,
+    "cited_by_count": 2008,
     "url": "https://doi.org/10.1109/cvpr46437.2021.01161",
     "category": "Autonomous Driving",
     "title_hint": "Center-based 3D Object Detection and Tracking"
@@ -1956,7 +1956,7 @@
     ],
     "year": 2020,
     "venue": null,
-    "cited_by_count": 3182,
+    "cited_by_count": 3183,
     "url": "https://doi.org/10.1109/cvpr42600.2020.00252",
     "category": "Autonomous Driving",
     "title_hint": "Scalability in Perception for Autonomous Driving: Waymo Open Dataset"
@@ -2071,7 +2071,7 @@
     ],
     "year": 2012,
     "venue": null,
-    "cited_by_count": 4590,
+    "cited_by_count": 4593,
     "url": "https://doi.org/10.1109/iros.2012.6386109",
     "category": "Robotics",
     "title_hint": "MuJoCo: A physics engine for model-based control"
@@ -2654,7 +2654,7 @@
     ],
     "year": 2009,
     "venue": "2009 IEEE Conference on Computer Vision and Pattern Recognition",
-    "cited_by_count": 63135,
+    "cited_by_count": 63140,
     "url": "https://doi.org/10.1109/cvpr.2009.5206848",
     "category": "Computer Vision",
     "title_hint": "ImageNet: A Large-Scale Hierarchical Image Database"
@@ -2676,7 +2676,7 @@
     ],
     "year": 2014,
     "venue": "Lecture notes in computer science",
-    "cited_by_count": 43427,
+    "cited_by_count": 43433,
     "url": "https://doi.org/10.1007/978-3-319-10602-1_48",
     "category": "Computer Vision",
     "title_hint": "Microsoft COCO: Common Objects in Context"
@@ -2695,7 +2695,7 @@
     ],
     "year": 2017,
     "venue": null,
-    "cited_by_count": 27119,
+    "cited_by_count": 27121,
     "url": "https://doi.org/10.1109/iccv.2017.324",
     "category": "Computer Vision",
     "title_hint": "Focal Loss for Dense Object Detection"
@@ -2715,7 +2715,7 @@
     ],
     "year": 2017,
     "venue": null,
-    "cited_by_count": 29757,
+    "cited_by_count": 29760,
     "url": "https://doi.org/10.1109/cvpr.2017.106",
     "category": "Computer Vision",
     "title_hint": "Feature Pyramid Networks for Object Detection"
@@ -2751,7 +2751,7 @@
     ],
     "year": 2015,
     "venue": null,
-    "cited_by_count": 37532,
+    "cited_by_count": 37537,
     "url": "https://doi.org/10.1109/cvpr.2015.7298965",
     "category": "Computer Vision",
     "title_hint": "Fully Convolutional Networks for Semantic Segmentation"
@@ -2773,7 +2773,7 @@
     ],
     "year": 2021,
     "venue": "2021 IEEE/CVF International Conference on Computer Vision (ICCV)",
-    "cited_by_count": 32412,
+    "cited_by_count": 32421,
     "url": "https://doi.org/10.1109/iccv48922.2021.00986",
     "category": "Computer Vision",
     "title_hint": "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows"
@@ -2846,7 +2846,7 @@
     ],
     "year": 2020,
     "venue": "arXiv (Cornell University)",
-    "cited_by_count": 10542,
+    "cited_by_count": 10543,
     "url": "http://arxiv.org/abs/2004.10934",
     "category": "Computer Vision",
     "title_hint": "YOLOv4: Optimal Speed and Accuracy of Object Detection"
@@ -2863,7 +2863,7 @@
     ],
     "year": 2023,
     "venue": null,
-    "cited_by_count": 11618,
+    "cited_by_count": 11620,
     "url": "https://doi.org/10.1109/cvpr52729.2023.00721",
     "category": "Computer Vision",
     "title_hint": "YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors"
@@ -2882,7 +2882,7 @@
     ],
     "year": 2021,
     "venue": "arXiv (Cornell University)",
-    "cited_by_count": 3035,
+    "cited_by_count": 3036,
     "url": "http://arxiv.org/abs/2107.08430",
     "category": "Computer Vision",
     "title_hint": "YOLOX: Exceeding YOLO Series in 2021"
@@ -3013,7 +3013,7 @@
     ],
     "year": 2018,
     "venue": null,
-    "cited_by_count": 30001,
+    "cited_by_count": 30006,
     "url": "https://doi.org/10.1109/cvpr.2018.00745",
     "category": "Computer Vision",
     "title_hint": "Squeeze-and-Excitation Networks"
@@ -3031,7 +3031,7 @@
     ],
     "year": 2018,
     "venue": "Lecture notes in computer science",
-    "cited_by_count": 23458,
+    "cited_by_count": 23462,
     "url": "https://doi.org/10.1007/978-3-030-01234-2_1",
     "category": "Computer Vision",
     "title_hint": "CBAM: Convolutional Block Attention Module"
@@ -3070,7 +3070,7 @@
     ],
     "year": 2017,
     "venue": null,
-    "cited_by_count": 22812,
+    "cited_by_count": 22816,
     "url": "https://doi.org/10.1109/iccv.2017.74",
     "category": "Computer Vision",
     "title_hint": "Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization"
@@ -3088,7 +3088,7 @@
     ],
     "year": 2017,
     "venue": null,
-    "cited_by_count": 45734,
+    "cited_by_count": 45736,
     "url": "https://doi.org/10.1109/cvpr.2017.243",
     "category": "Computer Vision",
     "title_hint": "Densely Connected Convolutional Networks"
@@ -3179,7 +3179,7 @@
     ],
     "year": 2017,
     "venue": null,
-    "cited_by_count": 22350,
+    "cited_by_count": 22351,
     "url": "https://doi.org/10.1109/iccv.2017.244",
     "category": "Image Generation",
     "title_hint": "Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks"
@@ -3196,7 +3196,7 @@
     ],
     "year": 2016,
     "venue": null,
-    "cited_by_count": 6125,
+    "cited_by_count": 6127,
     "url": "https://doi.org/10.1109/cvpr.2016.265",
     "category": "Image Generation",
     "title_hint": "Image Style Transfer Using Convolutional Neural Networks"
@@ -3218,7 +3218,7 @@
     ],
     "year": 2019,
     "venue": "Lecture notes in computer science",
-    "cited_by_count": 4001,
+    "cited_by_count": 4002,
     "url": "https://doi.org/10.1007/978-3-030-11021-5_5",
     "category": "Image Generation",
     "title_hint": "ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks"
@@ -3254,7 +3254,7 @@
     ],
     "year": 2020,
     "venue": "Lecture notes in computer science",
-    "cited_by_count": 2523,
+    "cited_by_count": 2524,
     "url": "https://doi.org/10.1007/978-3-030-58536-5_24",
     "category": "Computer Vision",
     "title_hint": "RAFT: Recurrent All-Pairs Field Transforms for Optical Flow"
@@ -3399,7 +3399,7 @@
     ],
     "year": 2020,
     "venue": null,
-    "cited_by_count": 12535,
+    "cited_by_count": 12538,
     "url": "https://doi.org/10.1109/cvpr42600.2020.00975",
     "category": "Computer Vision",
     "title_hint": "Momentum Contrast for Unsupervised Visual Representation Learning"
@@ -3466,7 +3466,7 @@
     ],
     "year": 2016,
     "venue": null,
-    "cited_by_count": 12217,
+    "cited_by_count": 12218,
     "url": "https://doi.org/10.1109/cvpr.2016.350",
     "category": "Computer Vision",
     "title_hint": "The Cityscapes Dataset for Semantic Urban Scene Understanding"
@@ -3510,7 +3510,7 @@
     ],
     "year": 2020,
     "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
-    "cited_by_count": 4800,
+    "cited_by_count": 4801,
     "url": "https://doi.org/10.1109/tpami.2020.2983686",
     "category": "Computer Vision",
     "title_hint": "Deep High-Resolution Representation Learning for Visual Recognition"
@@ -3527,7 +3527,7 @@
     ],
     "year": 2018,
     "venue": "Lecture notes in computer science",
-    "cited_by_count": 2222,
+    "cited_by_count": 2223,
     "url": "https://doi.org/10.1007/978-3-030-01231-1_29",
     "category": "Computer Vision",
     "title_hint": "Simple Baselines for Human Pose Estimation and Tracking"
@@ -3544,7 +3544,7 @@
     ],
     "year": 2016,
     "venue": "Lecture notes in computer science",
-    "cited_by_count": 5263,
+    "cited_by_count": 5264,
     "url": "https://doi.org/10.1007/978-3-319-46484-8_29",
     "category": "Computer Vision",
     "title_hint": "Stacked Hourglass Networks for Human Pose Estimation"
@@ -3644,7 +3644,7 @@
     ],
     "year": 2015,
     "venue": null,
-    "cited_by_count": 11505,
+    "cited_by_count": 11506,
     "url": "https://doi.org/10.1109/cvpr.2015.7298682",
     "category": "Computer Vision",
     "title_hint": "FaceNet: A Unified Embedding for Face Recognition and Clustering"
@@ -3681,7 +3681,7 @@
     ],
     "year": 2017,
     "venue": null,
-    "cited_by_count": 4927,
+    "cited_by_count": 4928,
     "url": "https://doi.org/10.1109/icip.2017.8296962",
     "category": "Computer Vision",
     "title_hint": "Simple Online and Realtime Tracking with a Deep Association Metric"
@@ -3698,7 +3698,7 @@
     ],
     "year": 2017,
     "venue": null,
-    "cited_by_count": 4927,
+    "cited_by_count": 4928,
     "url": "https://doi.org/10.1109/icip.2017.8296962",
     "category": "Computer Vision",
     "title_hint": "Simple Online and Realtime Tracking"
@@ -3864,7 +3864,7 @@
     ],
     "year": 2022,
     "venue": "arXiv (Cornell University)",
-    "cited_by_count": 439,
+    "cited_by_count": 440,
     "url": "http://arxiv.org/abs/2203.12602",
     "category": "Computer Vision",
     "title_hint": "VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training"
@@ -4161,9 +4161,9 @@
   },
   {
     "key": "d-nerf: neural radiance fields for dynamic scenes",
-    "openalex_id": "W3153220274",
+    "openalex_id": "W3109476562",
     "doi": "10.1109/cvpr46437.2021.01018",
-    "title": "D-NeRF: neural radiance fields for dynamic scenes",
+    "title": "D-NeRF: Neural Radiance Fields for Dynamic Scenes",
     "authors": [
       "Albert Pumarola",
       "Enric Corona",
@@ -4172,8 +4172,8 @@
     ],
     "year": 2021,
     "venue": "UPCommons institutional repository (Universitat Politècnica de Catalunya)",
-    "cited_by_count": 1308,
-    "url": "http://hdl.handle.net/2117/365218",
+    "cited_by_count": 23,
+    "url": "https://doi.org/10.1109/cvpr46437.2021.01018",
     "category": "3D Vision",
     "title_hint": "D-NeRF: Neural Radiance Fields for Dynamic Scenes"
   },
@@ -4194,7 +4194,7 @@
     ],
     "year": 2022,
     "venue": "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
-    "cited_by_count": 751,
+    "cited_by_count": 752,
     "url": "https://doi.org/10.1109/cvpr52688.2022.00807",
     "category": "3D Vision",
     "title_hint": "Block-NeRF: Scalable Large Scene Neural View Synthesis"
@@ -4308,7 +4308,7 @@
     ],
     "year": 2020,
     "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
-    "cited_by_count": 1536,
+    "cited_by_count": 1537,
     "url": "https://doi.org/10.1109/tpami.2020.3019967",
     "category": "3D Vision",
     "title_hint": "Towards Robust Monocular Depth Estimation: Mixing Datasets for Zero-Shot Cross-Dataset Transfer"
@@ -4476,7 +4476,7 @@
     ],
     "year": 2017,
     "venue": null,
-    "cited_by_count": 4171,
+    "cited_by_count": 4172,
     "url": "https://doi.org/10.1109/cvpr.2017.261",
     "category": "3D Vision",
     "title_hint": "ScanNet: Richly-annotated 3D Reconstructions of Indoor Scenes"
@@ -4803,7 +4803,7 @@
     ],
     "year": 2024,
     "venue": null,
-    "cited_by_count": 180,
+    "cited_by_count": 181,
     "url": "https://doi.org/10.15607/rss.2024.xx.067",
     "category": "VLA",
     "title_hint": "3D Diffusion Policy: Generalizable Visuomotor Policy Learning via Simple 3D Representations"
@@ -5634,7 +5634,7 @@
     ],
     "year": 2022,
     "venue": "arXiv (Cornell University)",
-    "cited_by_count": 195,
+    "cited_by_count": 196,
     "url": "http://arxiv.org/abs/2209.06794",
     "category": "VLM",
     "title_hint": "PaLI: A Jointly-Scaled Multilingual Language-Image Model"
@@ -6028,7 +6028,7 @@
     ],
     "year": 2021,
     "venue": "arXiv (Cornell University)",
-    "cited_by_count": 1462,
+    "cited_by_count": 1463,
     "url": "http://arxiv.org/abs/2107.03374",
     "category": "Coding AI",
     "title_hint": "Evaluating Large Language Models Trained on Code"
@@ -6106,7 +6106,7 @@
     ],
     "year": 2023,
     "venue": "arXiv (Cornell University)",
-    "cited_by_count": 419,
+    "cited_by_count": 420,
     "url": "http://arxiv.org/abs/2308.12950",
     "category": "Coding AI",
     "title_hint": "Code Llama: Open Foundation Models for Code"
