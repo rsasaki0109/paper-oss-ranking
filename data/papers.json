@@ -11,7 +11,7 @@
     ],
     "year": 2015,
     "venue": "IEEE Transactions on Robotics",
-    "cited_by_count": 6632,
+    "cited_by_count": 6638,
     "url": "https://doi.org/10.1109/tro.2015.2463671",
     "category": "SLAM",
     "title_hint": "ORB-SLAM: A Versatile and Accurate Monocular SLAM System"
@@ -46,7 +46,7 @@
     ],
     "year": 2021,
     "venue": "IEEE Transactions on Robotics",
-    "cited_by_count": 4145,
+    "cited_by_count": 4150,
     "url": "https://doi.org/10.1109/tro.2021.3075644",
     "category": "SLAM",
     "title_hint": "ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial, and Multimap SLAM"
@@ -62,7 +62,7 @@
     ],
     "year": 2016,
     "venue": null,
-    "cited_by_count": 6154,
+    "cited_by_count": 6165,
     "url": "https://doi.org/10.1109/cvpr.2016.445",
     "category": "3D Vision",
     "title_hint": "Structure-from-Motion Revisited"
@@ -82,7 +82,7 @@
     ],
     "year": 2020,
     "venue": "Lecture notes in computer science",
-    "cited_by_count": 5048,
+    "cited_by_count": 5060,
     "url": "https://doi.org/10.1007/978-3-030-58452-8_24",
     "category": "NeRF",
     "title_hint": "NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis"
@@ -100,7 +100,7 @@
     ],
     "year": 2023,
     "venue": "ACM Transactions on Graphics",
-    "cited_by_count": 5283,
+    "cited_by_count": 5319,
     "url": "https://doi.org/10.1145/3592433",
     "category": "Gaussian Splatting",
     "title_hint": "3D Gaussian Splatting for Real-Time Radiance Field Rendering"
@@ -126,7 +126,7 @@
     ],
     "year": 2023,
     "venue": null,
-    "cited_by_count": 10334,
+    "cited_by_count": 10348,
     "url": "https://doi.org/10.1109/iccv51070.2023.00371",
     "category": "Computer Vision",
     "title_hint": "Segment Anything"
@@ -178,7 +178,7 @@
     ],
     "year": 2021,
     "venue": "IEEE Robotics and Automation Letters",
-    "cited_by_count": 1096,
+    "cited_by_count": 1099,
     "url": "https://doi.org/10.1109/lra.2021.3064227",
     "category": "Localization",
     "title_hint": "FAST-LIO: A Fast, Robust LiDAR-Inertial Odometry Package"
@@ -197,7 +197,7 @@
     ],
     "year": 2022,
     "venue": "IEEE Transactions on Robotics",
-    "cited_by_count": 1686,
+    "cited_by_count": 1693,
     "url": "https://doi.org/10.1109/tro.2022.3141876",
     "category": "Localization",
     "title_hint": "FAST-LIO2: Fast Direct LiDAR-Inertial Odometry"
@@ -217,7 +217,7 @@
     ],
     "year": 2020,
     "venue": null,
-    "cited_by_count": 2124,
+    "cited_by_count": 2126,
     "url": "https://doi.org/10.1109/iros45743.2020.9341176",
     "category": "SLAM",
     "title_hint": "LIO-SAM: Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping"
@@ -341,7 +341,7 @@
     ],
     "year": 2023,
     "venue": null,
-    "cited_by_count": 606,
+    "cited_by_count": 608,
     "url": "https://doi.org/10.15607/rss.2023.xix.025",
     "category": "VLA",
     "title_hint": "RT-1: Robotics Transformer for Real-World Control at Scale"
@@ -411,7 +411,7 @@
     ],
     "year": 2025,
     "venue": null,
-    "cited_by_count": 258,
+    "cited_by_count": 297,
     "url": "https://doi.org/10.1109/cvpr52734.2025.00499",
     "category": "3D Vision",
     "title_hint": "VGGT: Visual Geometry Grounded Transformer"
@@ -464,7 +464,7 @@
     ],
     "year": 2018,
     "venue": null,
-    "cited_by_count": 2200,
+    "cited_by_count": 2201,
     "url": "https://doi.org/10.1109/iros.2018.8594299",
     "category": "SLAM",
     "title_hint": "LeGO-LOAM: Lightweight and Ground-Optimized Lidar Odometry and Mapping"
@@ -482,7 +482,7 @@
     ],
     "year": 2016,
     "venue": null,
-    "cited_by_count": 228429,
+    "cited_by_count": 228507,
     "url": "https://doi.org/10.1109/cvpr.2016.90",
     "category": "Computer Vision",
     "title_hint": "Deep Residual Learning for Image Recognition"
@@ -499,7 +499,7 @@
     ],
     "year": 2017,
     "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
-    "cited_by_count": 2994,
+    "cited_by_count": 2998,
     "url": "https://doi.org/10.1109/tpami.2017.2658577",
     "category": "SLAM",
     "title_hint": "Direct Sparse Odometry"
@@ -516,7 +516,7 @@
     ],
     "year": 2014,
     "venue": "Lecture notes in computer science",
-    "cited_by_count": 3796,
+    "cited_by_count": 3798,
     "url": "https://doi.org/10.1007/978-3-319-10605-2_54",
     "category": "SLAM",
     "title_hint": "LSD-SLAM: Large-Scale Direct Monocular SLAM"
@@ -533,7 +533,7 @@
     ],
     "year": 2014,
     "venue": null,
-    "cited_by_count": 2133,
+    "cited_by_count": 2135,
     "url": "https://doi.org/10.1109/icra.2014.6906584",
     "category": "SLAM",
     "title_hint": "SVO: Fast Semi-Direct Monocular Visual Odometry"
@@ -550,7 +550,7 @@
     ],
     "year": 2018,
     "venue": "IEEE Transactions on Robotics",
-    "cited_by_count": 4672,
+    "cited_by_count": 4679,
     "url": "https://doi.org/10.1109/tro.2018.2853729",
     "category": "SLAM",
     "title_hint": "VINS-Mono"
@@ -566,7 +566,7 @@
     ],
     "year": 2014,
     "venue": null,
-    "cited_by_count": 3231,
+    "cited_by_count": 3232,
     "url": "https://doi.org/10.15607/rss.2014.x.007",
     "category": "SLAM",
     "title_hint": "LOAM: Lidar Odometry and Mapping in Real-time"
@@ -584,7 +584,7 @@
     ],
     "year": 2021,
     "venue": null,
-    "cited_by_count": 562,
+    "cited_by_count": 564,
     "url": "https://doi.org/10.1109/icra48506.2021.9561996",
     "category": "SLAM",
     "title_hint": "LVI-SAM"
@@ -623,7 +623,7 @@
     ],
     "year": 2011,
     "venue": null,
-    "cited_by_count": 2011,
+    "cited_by_count": 2012,
     "url": "https://doi.org/10.1109/icra.2011.5979949",
     "category": "SLAM",
     "title_hint": "g2o: A general framework for graph optimization"
@@ -677,7 +677,7 @@
     ],
     "year": 2017,
     "venue": null,
-    "cited_by_count": 626,
+    "cited_by_count": 627,
     "url": "https://doi.org/10.1109/iros.2017.8202315",
     "category": "SLAM",
     "title_hint": "Voxblox: Incremental 3D Euclidean Signed Distance Fields for On-Board MAV Planning"
@@ -733,7 +733,7 @@
     ],
     "year": 2024,
     "venue": null,
-    "cited_by_count": 403,
+    "cited_by_count": 410,
     "url": "https://doi.org/10.1109/cvpr52733.2024.02018",
     "category": "SLAM",
     "title_hint": "SplaTAM: Splat, Track and Map 3D Gaussians for Dense RGB-D SLAM"
@@ -749,7 +749,7 @@
     ],
     "year": 2011,
     "venue": null,
-    "cited_by_count": 4926,
+    "cited_by_count": 4925,
     "url": "https://doi.org/10.1109/icra.2011.5980567",
     "category": "SLAM",
     "title_hint": "3D is here: Point Cloud Library"
@@ -767,7 +767,7 @@
     ],
     "year": 2015,
     "venue": null,
-    "cited_by_count": 806,
+    "cited_by_count": 810,
     "url": "https://doi.org/10.1109/iros.2015.7353389",
     "category": "Localization",
     "title_hint": "Robust Visual Inertial Odometry Using a Direct EKF-Based Approach"
@@ -804,7 +804,7 @@
     ],
     "year": 2019,
     "venue": "arXiv (Cornell University)",
-    "cited_by_count": 205,
+    "cited_by_count": 206,
     "url": "http://arxiv.org/abs/1901.03642",
     "category": "Localization",
     "title_hint": "A General Optimization-based Framework for Global Pose Estimation with Multiple Sensors"
@@ -857,7 +857,7 @@
     ],
     "year": 2023,
     "venue": null,
-    "cited_by_count": 874,
+    "cited_by_count": 878,
     "url": "https://doi.org/10.1109/iccv51070.2023.01616",
     "category": "Localization",
     "title_hint": "LightGlue: Local Feature Matching at Light Speed"
@@ -876,7 +876,7 @@
     ],
     "year": 2021,
     "venue": null,
-    "cited_by_count": 1653,
+    "cited_by_count": 1656,
     "url": "https://doi.org/10.1109/cvpr46437.2021.00881",
     "category": "Localization",
     "title_hint": "LoFTR: Detector-Free Local Feature Matching with Transformers"
@@ -892,7 +892,7 @@
     ],
     "year": 2007,
     "venue": "Proceedings - IEEE International Conference on Robotics and Automation/Proceedings",
-    "cited_by_count": 1891,
+    "cited_by_count": 1894,
     "url": "https://doi.org/10.1109/robot.2007.364024",
     "category": "Localization",
     "title_hint": "A Multi-State Constraint Kalman Filter for Vision-aided Inertial Navigation"
@@ -910,7 +910,7 @@
     ],
     "year": 2016,
     "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
-    "cited_by_count": 55753,
+    "cited_by_count": 55772,
     "url": "https://doi.org/10.1109/tpami.2016.2577031",
     "category": "Computer Vision",
     "title_hint": "Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks"
@@ -928,7 +928,7 @@
     ],
     "year": 2017,
     "venue": null,
-    "cited_by_count": 29565,
+    "cited_by_count": 29585,
     "url": "https://doi.org/10.1109/iccv.2017.322",
     "category": "Computer Vision",
     "title_hint": "Mask R-CNN"
@@ -945,7 +945,7 @@
     ],
     "year": 2015,
     "venue": "Lecture notes in computer science",
-    "cited_by_count": 92136,
+    "cited_by_count": 92193,
     "url": "https://doi.org/10.1007/978-3-319-24574-4_28",
     "category": "Computer Vision",
     "title_hint": "U-Net: Convolutional Networks for Biomedical Image Segmentation"
@@ -961,7 +961,7 @@
     ],
     "year": 2014,
     "venue": "arXiv (Cornell University)",
-    "cited_by_count": 75490,
+    "cited_by_count": 75494,
     "url": "http://arxiv.org/abs/1409.1556",
     "category": "Computer Vision",
     "title_hint": "Very Deep Convolutional Networks for Large-Scale Image Recognition"
@@ -977,7 +977,7 @@
     ],
     "year": 2015,
     "venue": "arXiv (Cornell University)",
-    "cited_by_count": 24406,
+    "cited_by_count": 24409,
     "url": "http://arxiv.org/abs/1502.03167",
     "category": "Computer Vision",
     "title_hint": "Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift"
@@ -993,7 +993,7 @@
     ],
     "year": 2014,
     "venue": "UvA-DARE (University of Amsterdam)",
-    "cited_by_count": 84695,
+    "cited_by_count": 84704,
     "url": "https://handle.uba.uva.nl/personal/pure/en/publications/adam-a-method-for-stochastic-optimization(a20791d3-1aff-464a-8544-268383c33a75).html",
     "category": "Computer Vision",
     "title_hint": "Adam: A Method for Stochastic Optimization"
@@ -1014,7 +1014,7 @@
     ],
     "year": 2021,
     "venue": "2021 IEEE/CVF International Conference on Computer Vision (ICCV)",
-    "cited_by_count": 5423,
+    "cited_by_count": 5443,
     "url": "https://doi.org/10.1109/iccv48922.2021.00951",
     "category": "Computer Vision",
     "title_hint": "Emerging Properties in Self-Supervised Vision Transformers"
@@ -1150,7 +1150,7 @@
     ],
     "year": 2022,
     "venue": "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
-    "cited_by_count": 15217,
+    "cited_by_count": 15292,
     "url": "https://doi.org/10.1109/cvpr52688.2022.01042",
     "category": "Image Generation",
     "title_hint": "High-Resolution Image Synthesis with Latent Diffusion Models"
@@ -1167,7 +1167,7 @@
     ],
     "year": 2020,
     "venue": "arXiv (Cornell University)",
-    "cited_by_count": 5682,
+    "cited_by_count": 5684,
     "url": "http://arxiv.org/abs/2006.11239",
     "category": "Image Generation",
     "title_hint": "Denoising Diffusion Probabilistic Models"
@@ -1184,7 +1184,7 @@
     ],
     "year": 2023,
     "venue": null,
-    "cited_by_count": 4066,
+    "cited_by_count": 4090,
     "url": "https://doi.org/10.1109/iccv51070.2023.00355",
     "category": "Image Generation",
     "title_hint": "Adding Conditional Control to Text-to-Image Diffusion Models"
@@ -1201,7 +1201,7 @@
     ],
     "year": 2017,
     "venue": "Communications of the ACM",
-    "cited_by_count": 75667,
+    "cited_by_count": 75672,
     "url": "https://doi.org/10.1145/3065386",
     "category": "Computer Vision",
     "title_hint": "ImageNet Classification with Deep Convolutional Neural Networks"
@@ -1227,7 +1227,7 @@
     ],
     "year": 2024,
     "venue": "Lecture notes in computer science",
-    "cited_by_count": 1615,
+    "cited_by_count": 1635,
     "url": "https://doi.org/10.1007/978-3-031-72970-6_3",
     "category": "Computer Vision",
     "title_hint": "Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection"
@@ -1303,7 +1303,7 @@
     ],
     "year": 2022,
     "venue": "ACM Transactions on Graphics",
-    "cited_by_count": 3978,
+    "cited_by_count": 3984,
     "url": "https://doi.org/10.1145/3528223.3530127",
     "category": "3D Vision",
     "title_hint": "Instant Neural Graphics Primitives with a Multiresolution Hash Encoding"
@@ -1341,7 +1341,7 @@
     ],
     "year": 2024,
     "venue": null,
-    "cited_by_count": 71,
+    "cited_by_count": 73,
     "url": "https://doi.org/10.1109/cvpr52733.2024.02049",
     "category": "3D Vision",
     "title_hint": "VGGSfM: Visual Geometry Grounded Deep Structure From Motion"
@@ -1397,7 +1397,7 @@
     ],
     "year": 2022,
     "venue": "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
-    "cited_by_count": 1825,
+    "cited_by_count": 1833,
     "url": "https://doi.org/10.1109/cvpr52688.2022.00539",
     "category": "NeRF",
     "title_hint": "Mip-NeRF 360: Unbounded Anti-Aliased Neural Radiance Fields"
@@ -1416,7 +1416,7 @@
     ],
     "year": 2022,
     "venue": "Lecture notes in computer science",
-    "cited_by_count": 1143,
+    "cited_by_count": 1147,
     "url": "https://doi.org/10.1007/978-3-031-19824-3_20",
     "category": "NeRF",
     "title_hint": "TensoRF: Tensorial Radiance Fields"
@@ -1460,7 +1460,7 @@
     ],
     "year": 2024,
     "venue": null,
-    "cited_by_count": 580,
+    "cited_by_count": 584,
     "url": "https://doi.org/10.1145/3641519.3657428",
     "category": "Gaussian Splatting",
     "title_hint": "2D Gaussian Splatting for Geometrically Accurate Radiance Fields"
@@ -1476,7 +1476,7 @@
     ],
     "year": 2024,
     "venue": null,
-    "cited_by_count": 441,
+    "cited_by_count": 444,
     "url": "https://doi.org/10.1109/cvpr52733.2024.00512",
     "category": "Gaussian Splatting",
     "title_hint": "SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering"
@@ -1499,7 +1499,7 @@
     ],
     "year": 2024,
     "venue": null,
-    "cited_by_count": 659,
+    "cited_by_count": 670,
     "url": "https://doi.org/10.1109/cvpr52733.2024.01920",
     "category": "Gaussian Splatting",
     "title_hint": "4D Gaussian Splatting for Real-Time Dynamic Scene Rendering"
@@ -1765,7 +1765,7 @@
     ],
     "year": 2020,
     "venue": "Nature",
-    "cited_by_count": 1147,
+    "cited_by_count": 1151,
     "url": "https://doi.org/10.1038/s41586-020-03051-4",
     "category": "World Models",
     "title_hint": "Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model"
@@ -1872,7 +1872,7 @@
     ],
     "year": 2018,
     "venue": "Sensors",
-    "cited_by_count": 3398,
+    "cited_by_count": 3400,
     "url": "https://doi.org/10.3390/s18103337",
     "category": "Autonomous Driving",
     "title_hint": "SECOND: Sparsely Embedded Convolutional Detection"
@@ -1906,7 +1906,7 @@
     ],
     "year": 2021,
     "venue": null,
-    "cited_by_count": 2012,
+    "cited_by_count": 2014,
     "url": "https://doi.org/10.1109/cvpr46437.2021.01161",
     "category": "Autonomous Driving",
     "title_hint": "Center-based 3D Object Detection and Tracking"
@@ -1956,7 +1956,7 @@
     ],
     "year": 2020,
     "venue": null,
-    "cited_by_count": 3187,
+    "cited_by_count": 3194,
     "url": "https://doi.org/10.1109/cvpr42600.2020.00252",
     "category": "Autonomous Driving",
     "title_hint": "Scalability in Perception for Autonomous Driving: Waymo Open Dataset"
@@ -1996,7 +1996,7 @@
     ],
     "year": 2023,
     "venue": null,
-    "cited_by_count": 1156,
+    "cited_by_count": 1158,
     "url": "https://doi.org/10.1109/icra48891.2023.10160968",
     "category": "Autonomous Driving",
     "title_hint": "BEVFusion: Multi-Task Multi-Sensor Fusion with Unified Bird's-Eye View Representation"
@@ -2071,7 +2071,7 @@
     ],
     "year": 2012,
     "venue": null,
-    "cited_by_count": 4596,
+    "cited_by_count": 4601,
     "url": "https://doi.org/10.1109/iros.2012.6386109",
     "category": "Robotics",
     "title_hint": "MuJoCo: A physics engine for model-based control"
@@ -2133,7 +2133,7 @@
     ],
     "year": 2014,
     "venue": "The International Journal of Robotics Research",
-    "cited_by_count": 1748,
+    "cited_by_count": 1751,
     "url": "https://doi.org/10.1177/0278364914554813",
     "category": "SLAM",
     "title_hint": "Keyframe-based visual-inertial odometry using nonlinear optimization"
@@ -2197,7 +2197,7 @@
     ],
     "year": 2024,
     "venue": null,
-    "cited_by_count": 194,
+    "cited_by_count": 196,
     "url": "https://doi.org/10.1109/cvpr52733.2024.02039",
     "category": "SLAM",
     "title_hint": "Photo-SLAM: Real-time Simultaneous Localization and Photorealistic Mapping for Monocular, Stereo, and RGB-D Cameras"
@@ -2254,7 +2254,7 @@
     ],
     "year": 2022,
     "venue": "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
-    "cited_by_count": 794,
+    "cited_by_count": 795,
     "url": "https://doi.org/10.1109/cvpr52688.2022.01245",
     "category": "SLAM",
     "title_hint": "NICE-SLAM: Neural Implicit Scalable Encoding for SLAM"
@@ -2290,7 +2290,7 @@
     ],
     "year": 2023,
     "venue": null,
-    "cited_by_count": 211,
+    "cited_by_count": 212,
     "url": "https://doi.org/10.1109/iccv51070.2023.01690",
     "category": "SLAM",
     "title_hint": "Point-SLAM: Dense Neural Point Cloud-based SLAM"
@@ -2309,7 +2309,7 @@
     ],
     "year": 2016,
     "venue": "The International Journal of Robotics Research",
-    "cited_by_count": 713,
+    "cited_by_count": 714,
     "url": "https://doi.org/10.1177/0278364916669237",
     "category": "SLAM",
     "title_hint": "ElasticFusion: Real-time dense SLAM and light source estimation"
@@ -2352,7 +2352,7 @@
     ],
     "year": 2011,
     "venue": null,
-    "cited_by_count": 4000,
+    "cited_by_count": 4002,
     "url": "https://doi.org/10.1109/ismar.2011.6092378",
     "category": "SLAM",
     "title_hint": "KinectFusion: Real-time dense surface mapping and tracking"
@@ -2369,7 +2369,7 @@
     ],
     "year": 2011,
     "venue": null,
-    "cited_by_count": 2072,
+    "cited_by_count": 2073,
     "url": "https://doi.org/10.1109/iccv.2011.6126513",
     "category": "SLAM",
     "title_hint": "DTAM: Dense tracking and mapping in real-time"
@@ -2387,7 +2387,7 @@
     ],
     "year": 2018,
     "venue": "IEEE Robotics and Automation Letters",
-    "cited_by_count": 1243,
+    "cited_by_count": 1244,
     "url": "https://doi.org/10.1109/lra.2018.2860039",
     "category": "SLAM",
     "title_hint": "DynaSLAM: Tracking, Mapping and Inpainting in Dynamic Scenes"
@@ -2407,7 +2407,7 @@
     ],
     "year": 2019,
     "venue": null,
-    "cited_by_count": 502,
+    "cited_by_count": 504,
     "url": "https://doi.org/10.1109/iros40897.2019.8967704",
     "category": "SLAM",
     "title_hint": "SuMa++: Efficient LiDAR-based Semantic SLAM"
@@ -2423,7 +2423,7 @@
     ],
     "year": 2018,
     "venue": null,
-    "cited_by_count": 902,
+    "cited_by_count": 903,
     "url": "https://doi.org/10.1109/iros.2018.8593953",
     "category": "SLAM",
     "title_hint": "Scan Context: Egocentric Spatial Descriptor for Place Recognition within 3D Point Cloud Map"
@@ -2598,7 +2598,7 @@
     ],
     "year": 2011,
     "venue": null,
-    "cited_by_count": 10596,
+    "cited_by_count": 10605,
     "url": "https://doi.org/10.1109/iccv.2011.6126544",
     "category": "Localization",
     "title_hint": "ORB: An efficient alternative to SIFT or SURF"
@@ -2654,7 +2654,7 @@
     ],
     "year": 2009,
     "venue": "2009 IEEE Conference on Computer Vision and Pattern Recognition",
-    "cited_by_count": 63157,
+    "cited_by_count": 63199,
     "url": "https://doi.org/10.1109/cvpr.2009.5206848",
     "category": "Computer Vision",
     "title_hint": "ImageNet: A Large-Scale Hierarchical Image Database"
@@ -2676,7 +2676,7 @@
     ],
     "year": 2014,
     "venue": "Lecture notes in computer science",
-    "cited_by_count": 43465,
+    "cited_by_count": 43506,
     "url": "https://doi.org/10.1007/978-3-319-10602-1_48",
     "category": "Computer Vision",
     "title_hint": "Microsoft COCO: Common Objects in Context"
@@ -2695,7 +2695,7 @@
     ],
     "year": 2017,
     "venue": null,
-    "cited_by_count": 27143,
+    "cited_by_count": 27161,
     "url": "https://doi.org/10.1109/iccv.2017.324",
     "category": "Computer Vision",
     "title_hint": "Focal Loss for Dense Object Detection"
@@ -2715,7 +2715,7 @@
     ],
     "year": 2017,
     "venue": null,
-    "cited_by_count": 29776,
+    "cited_by_count": 29788,
     "url": "https://doi.org/10.1109/cvpr.2017.106",
     "category": "Computer Vision",
     "title_hint": "Feature Pyramid Networks for Object Detection"
@@ -2734,7 +2734,7 @@
     ],
     "year": 2017,
     "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
-    "cited_by_count": 22651,
+    "cited_by_count": 22653,
     "url": "https://doi.org/10.1109/tpami.2017.2699184",
     "category": "Computer Vision",
     "title_hint": "DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs"
@@ -2751,7 +2751,7 @@
     ],
     "year": 2015,
     "venue": null,
-    "cited_by_count": 37544,
+    "cited_by_count": 37548,
     "url": "https://doi.org/10.1109/cvpr.2015.7298965",
     "category": "Computer Vision",
     "title_hint": "Fully Convolutional Networks for Semantic Segmentation"
@@ -2773,7 +2773,7 @@
     ],
     "year": 2021,
     "venue": "2021 IEEE/CVF International Conference on Computer Vision (ICCV)",
-    "cited_by_count": 32460,
+    "cited_by_count": 32501,
     "url": "https://doi.org/10.1109/iccv48922.2021.00986",
     "category": "Computer Vision",
     "title_hint": "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows"
@@ -2829,7 +2829,7 @@
     ],
     "year": 2024,
     "venue": null,
-    "cited_by_count": 1388,
+    "cited_by_count": 1402,
     "url": "https://doi.org/10.1109/cvpr52733.2024.02484",
     "category": "VLM",
     "title_hint": "Visual Instruction Tuning"
@@ -2863,7 +2863,7 @@
     ],
     "year": 2023,
     "venue": null,
-    "cited_by_count": 11630,
+    "cited_by_count": 11638,
     "url": "https://doi.org/10.1109/cvpr52729.2023.00721",
     "category": "Computer Vision",
     "title_hint": "YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors"
@@ -2899,7 +2899,7 @@
     ],
     "year": 2020,
     "venue": "Lecture notes in computer science",
-    "cited_by_count": 1310,
+    "cited_by_count": 1313,
     "url": "https://doi.org/10.1007/978-3-030-58548-8_28",
     "category": "Computer Vision",
     "title_hint": "Objects as Points"
@@ -2917,7 +2917,7 @@
     ],
     "year": 2019,
     "venue": null,
-    "cited_by_count": 6315,
+    "cited_by_count": 6320,
     "url": "https://doi.org/10.1109/iccv.2019.00972",
     "category": "Computer Vision",
     "title_hint": "FCOS: Fully Convolutional One-Stage Object Detection"
@@ -2996,7 +2996,7 @@
     ],
     "year": 2022,
     "venue": "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
-    "cited_by_count": 7904,
+    "cited_by_count": 7916,
     "url": "https://doi.org/10.1109/cvpr52688.2022.01167",
     "category": "Computer Vision",
     "title_hint": "A ConvNet for the 2020s"
@@ -3013,7 +3013,7 @@
     ],
     "year": 2018,
     "venue": null,
-    "cited_by_count": 30046,
+    "cited_by_count": 30060,
     "url": "https://doi.org/10.1109/cvpr.2018.00745",
     "category": "Computer Vision",
     "title_hint": "Squeeze-and-Excitation Networks"
@@ -3031,7 +3031,7 @@
     ],
     "year": 2018,
     "venue": "Lecture notes in computer science",
-    "cited_by_count": 23496,
+    "cited_by_count": 23511,
     "url": "https://doi.org/10.1007/978-3-030-01234-2_1",
     "category": "Computer Vision",
     "title_hint": "CBAM: Convolutional Block Attention Module"
@@ -3050,7 +3050,7 @@
     ],
     "year": 2014,
     "venue": null,
-    "cited_by_count": 34236,
+    "cited_by_count": 34237,
     "url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.669.8604",
     "category": "Computer Vision",
     "title_hint": "Dropout: A Simple Way to Prevent Neural Networks from Overfitting"
@@ -3070,7 +3070,7 @@
     ],
     "year": 2017,
     "venue": null,
-    "cited_by_count": 22844,
+    "cited_by_count": 22863,
     "url": "https://doi.org/10.1109/iccv.2017.74",
     "category": "Computer Vision",
     "title_hint": "Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization"
@@ -3088,7 +3088,7 @@
     ],
     "year": 2017,
     "venue": null,
-    "cited_by_count": 45756,
+    "cited_by_count": 45764,
     "url": "https://doi.org/10.1109/cvpr.2017.243",
     "category": "Computer Vision",
     "title_hint": "Densely Connected Convolutional Networks"
@@ -3179,7 +3179,7 @@
     ],
     "year": 2017,
     "venue": null,
-    "cited_by_count": 22357,
+    "cited_by_count": 22362,
     "url": "https://doi.org/10.1109/iccv.2017.244",
     "category": "Image Generation",
     "title_hint": "Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks"
@@ -3196,7 +3196,7 @@
     ],
     "year": 2016,
     "venue": null,
-    "cited_by_count": 6131,
+    "cited_by_count": 6136,
     "url": "https://doi.org/10.1109/cvpr.2016.265",
     "category": "Image Generation",
     "title_hint": "Image Style Transfer Using Convolutional Neural Networks"
@@ -3218,7 +3218,7 @@
     ],
     "year": 2019,
     "venue": "Lecture notes in computer science",
-    "cited_by_count": 4006,
+    "cited_by_count": 4009,
     "url": "https://doi.org/10.1007/978-3-030-11021-5_5",
     "category": "Image Generation",
     "title_hint": "ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks"
@@ -3238,7 +3238,7 @@
     ],
     "year": 2021,
     "venue": null,
-    "cited_by_count": 4564,
+    "cited_by_count": 4573,
     "url": "https://doi.org/10.1109/iccvw54120.2021.00210",
     "category": "Computer Vision",
     "title_hint": "SwinIR: Image Restoration Using Swin Transformer"
@@ -3254,7 +3254,7 @@
     ],
     "year": 2020,
     "venue": "Lecture notes in computer science",
-    "cited_by_count": 2534,
+    "cited_by_count": 2544,
     "url": "https://doi.org/10.1007/978-3-030-58536-5_24",
     "category": "Computer Vision",
     "title_hint": "RAFT: Recurrent All-Pairs Field Transforms for Optical Flow"
@@ -3272,7 +3272,7 @@
     ],
     "year": 2018,
     "venue": null,
-    "cited_by_count": 2747,
+    "cited_by_count": 2754,
     "url": "https://doi.org/10.1109/cvpr.2018.00931",
     "category": "Computer Vision",
     "title_hint": "PWC-Net: CNNs for Optical Flow Using Pyramid, Warping, and Cost Volume"
@@ -3295,7 +3295,7 @@
     ],
     "year": 2015,
     "venue": null,
-    "cited_by_count": 4274,
+    "cited_by_count": 4279,
     "url": "https://doi.org/10.1109/iccv.2015.316",
     "category": "Computer Vision",
     "title_hint": "FlowNet: Learning Optical Flow with Convolutional Networks"
@@ -3348,7 +3348,7 @@
     ],
     "year": 2014,
     "venue": null,
-    "cited_by_count": 32166,
+    "cited_by_count": 32170,
     "url": "https://doi.org/10.1109/cvpr.2014.81",
     "category": "Computer Vision",
     "title_hint": "Rich feature hierarchies for accurate object detection and semantic segmentation"
@@ -3363,7 +3363,7 @@
     ],
     "year": 2015,
     "venue": null,
-    "cited_by_count": 28426,
+    "cited_by_count": 28435,
     "url": "https://doi.org/10.1109/iccv.2015.169",
     "category": "Computer Vision",
     "title_hint": "Fast R-CNN"
@@ -3380,7 +3380,7 @@
     ],
     "year": 2018,
     "venue": null,
-    "cited_by_count": 1991,
+    "cited_by_count": 1992,
     "url": "https://doi.org/10.1109/cvpr.2018.00984",
     "category": "Image Generation",
     "title_hint": "Deep Image Prior"
@@ -3399,7 +3399,7 @@
     ],
     "year": 2020,
     "venue": null,
-    "cited_by_count": 12545,
+    "cited_by_count": 12555,
     "url": "https://doi.org/10.1109/cvpr42600.2020.00975",
     "category": "Computer Vision",
     "title_hint": "Momentum Contrast for Unsupervised Visual Representation Learning"
@@ -3466,7 +3466,7 @@
     ],
     "year": 2016,
     "venue": null,
-    "cited_by_count": 12223,
+    "cited_by_count": 12232,
     "url": "https://doi.org/10.1109/cvpr.2016.350",
     "category": "Computer Vision",
     "title_hint": "The Cityscapes Dataset for Semantic Urban Scene Understanding"
@@ -3510,7 +3510,7 @@
     ],
     "year": 2020,
     "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
-    "cited_by_count": 4805,
+    "cited_by_count": 4807,
     "url": "https://doi.org/10.1109/tpami.2020.2983686",
     "category": "Computer Vision",
     "title_hint": "Deep High-Resolution Representation Learning for Visual Recognition"
@@ -3607,7 +3607,7 @@
     ],
     "year": 2023,
     "venue": "ACM eBooks",
-    "cited_by_count": 763,
+    "cited_by_count": 767,
     "url": "https://doi.org/10.1145/3596711.3596800",
     "category": "Computer Vision",
     "title_hint": "SMPL: A Skinned Multi-Person Linear Model"
@@ -3627,7 +3627,7 @@
     ],
     "year": 2019,
     "venue": null,
-    "cited_by_count": 1252,
+    "cited_by_count": 1253,
     "url": "https://doi.org/10.1109/iccv.2019.00239",
     "category": "Computer Vision",
     "title_hint": "PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization"
@@ -3644,7 +3644,7 @@
     ],
     "year": 2015,
     "venue": null,
-    "cited_by_count": 11514,
+    "cited_by_count": 11515,
     "url": "https://doi.org/10.1109/cvpr.2015.7298682",
     "category": "Computer Vision",
     "title_hint": "FaceNet: A Unified Embedding for Face Recognition and Clustering"
@@ -3681,7 +3681,7 @@
     ],
     "year": 2017,
     "venue": null,
-    "cited_by_count": 4936,
+    "cited_by_count": 4943,
     "url": "https://doi.org/10.1109/icip.2017.8296962",
     "category": "Computer Vision",
     "title_hint": "Simple Online and Realtime Tracking with a Deep Association Metric"
@@ -3698,7 +3698,7 @@
     ],
     "year": 2017,
     "venue": null,
-    "cited_by_count": 4936,
+    "cited_by_count": 4943,
     "url": "https://doi.org/10.1109/icip.2017.8296962",
     "category": "Computer Vision",
     "title_hint": "Simple Online and Realtime Tracking"
@@ -3721,7 +3721,7 @@
     ],
     "year": 2022,
     "venue": "Lecture notes in computer science",
-    "cited_by_count": 2301,
+    "cited_by_count": 2311,
     "url": "https://doi.org/10.1007/978-3-031-20047-2_1",
     "category": "Computer Vision",
     "title_hint": "ByteTrack: Multi-Object Tracking by Associating Every Detection Box"
@@ -3740,7 +3740,7 @@
     ],
     "year": 2021,
     "venue": "International Journal of Computer Vision",
-    "cited_by_count": 1593,
+    "cited_by_count": 1598,
     "url": "https://doi.org/10.1007/s11263-021-01513-4",
     "category": "Computer Vision",
     "title_hint": "FairMOT: On the Fairness of Detection and Re-identification in Multiple Object Tracking"
@@ -3778,7 +3778,7 @@
     ],
     "year": 2016,
     "venue": "Lecture notes in computer science",
-    "cited_by_count": 4425,
+    "cited_by_count": 4427,
     "url": "https://doi.org/10.1007/978-3-319-48881-3_56",
     "category": "Computer Vision",
     "title_hint": "Fully-Convolutional Siamese Networks for Object Tracking"
@@ -3833,14 +3833,14 @@
     ],
     "year": 2019,
     "venue": null,
-    "cited_by_count": 3752,
+    "cited_by_count": 3755,
     "url": "https://doi.org/10.1109/iccv.2019.00630",
     "category": "Computer Vision",
     "title_hint": "SlowFast Networks for Video Recognition"
   },
   {
     "key": "quo vadis, action recognition? a new model and the kinetics dataset",
-    "openalex_id": null,
+    "openalex_id": "W2619082050",
     "doi": "10.1109/cvpr.2017.502",
     "title": "Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset",
     "authors": [
@@ -3849,7 +3849,7 @@
     ],
     "year": 2017,
     "venue": "Computer Vision and Pattern Recognition",
-    "cited_by_count": 9923,
+    "cited_by_count": 432,
     "url": "https://doi.org/10.1109/cvpr.2017.502",
     "category": "Computer Vision",
     "title_hint": "Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset"
@@ -3888,7 +3888,7 @@
     ],
     "year": 2023,
     "venue": null,
-    "cited_by_count": 788,
+    "cited_by_count": 791,
     "url": "https://doi.org/10.1109/cvpr52729.2023.01457",
     "category": "VLM",
     "title_hint": "ImageBind: One Embedding Space To Bind Them All"
@@ -3913,7 +3913,7 @@
     ],
     "year": 2021,
     "venue": null,
-    "cited_by_count": 1475,
+    "cited_by_count": 1477,
     "url": "https://doi.org/10.1109/cvpr46437.2021.01422",
     "category": "Computer Vision",
     "title_hint": "Sparse R-CNN: End-to-End Object Detection with Learnable Proposals"
@@ -3933,7 +3933,7 @@
     ],
     "year": 2024,
     "venue": null,
-    "cited_by_count": 690,
+    "cited_by_count": 693,
     "url": "https://doi.org/10.1109/cvpr52733.2024.01599",
     "category": "Computer Vision",
     "title_hint": "YOLO-World: Real-Time Open-Vocabulary Object Detection"
@@ -4015,7 +4015,7 @@
     ],
     "year": 2017,
     "venue": null,
-    "cited_by_count": 19244,
+    "cited_by_count": 19247,
     "url": "https://doi.org/10.1109/cvpr.2017.690",
     "category": "Computer Vision",
     "title_hint": "YOLO9000: Better, Faster, Stronger"
@@ -4060,7 +4060,7 @@
     ],
     "year": 2019,
     "venue": null,
-    "cited_by_count": 1526,
+    "cited_by_count": 1527,
     "url": "https://doi.org/10.1109/cvpr.2019.00511",
     "category": "Computer Vision",
     "title_hint": "Hybrid Task Cascade for Instance Segmentation"
@@ -4080,7 +4080,7 @@
     ],
     "year": 2022,
     "venue": "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
-    "cited_by_count": 1341,
+    "cited_by_count": 1345,
     "url": "https://doi.org/10.1109/cvpr52688.2022.00542",
     "category": "3D Vision",
     "title_hint": "Plenoxels: Radiance Fields without Neural Networks"
@@ -4097,7 +4097,7 @@
     ],
     "year": 2022,
     "venue": "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
-    "cited_by_count": 913,
+    "cited_by_count": 916,
     "url": "https://doi.org/10.1109/cvpr52688.2022.00538",
     "category": "3D Vision",
     "title_hint": "Direct Voxel Grid Optimization: Super-fast Convergence for Radiance Fields Reconstruction"
@@ -4136,7 +4136,7 @@
     ],
     "year": 2022,
     "venue": "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
-    "cited_by_count": 553,
+    "cited_by_count": 554,
     "url": "https://doi.org/10.1109/cvpr52688.2022.00536",
     "category": "3D Vision",
     "title_hint": "Point-NeRF: Point-based Neural Radiance Fields"
@@ -4164,9 +4164,9 @@
   },
   {
     "key": "d-nerf: neural radiance fields for dynamic scenes",
-    "openalex_id": "W3153220274",
+    "openalex_id": "W3109476562",
     "doi": "10.1109/cvpr46437.2021.01018",
-    "title": "D-NeRF: neural radiance fields for dynamic scenes",
+    "title": "D-NeRF: Neural Radiance Fields for Dynamic Scenes",
     "authors": [
       "Albert Pumarola",
       "Enric Corona",
@@ -4175,8 +4175,8 @@
     ],
     "year": 2021,
     "venue": "UPCommons institutional repository (Universitat Politècnica de Catalunya)",
-    "cited_by_count": 1312,
-    "url": "http://hdl.handle.net/2117/365218",
+    "cited_by_count": 23,
+    "url": "https://doi.org/10.1109/cvpr46437.2021.01018",
     "category": "3D Vision",
     "title_hint": "D-NeRF: Neural Radiance Fields for Dynamic Scenes"
   },
@@ -4197,7 +4197,7 @@
     ],
     "year": 2022,
     "venue": "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
-    "cited_by_count": 755,
+    "cited_by_count": 757,
     "url": "https://doi.org/10.1109/cvpr52688.2022.00807",
     "category": "3D Vision",
     "title_hint": "Block-NeRF: Scalable Large Scene Neural View Synthesis"
@@ -4248,7 +4248,7 @@
     ],
     "year": 2023,
     "venue": null,
-    "cited_by_count": 767,
+    "cited_by_count": 770,
     "url": "https://doi.org/10.1109/iccv51070.2023.00853",
     "category": "3D Vision",
     "title_hint": "Zero-1-to-3: Zero-shot One Image to 3D Object"
@@ -4292,7 +4292,7 @@
     ],
     "year": 2024,
     "venue": null,
-    "cited_by_count": 1091,
+    "cited_by_count": 1106,
     "url": "https://doi.org/10.1109/cvpr52733.2024.00987",
     "category": "3D Vision",
     "title_hint": "Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data"
@@ -4311,7 +4311,7 @@
     ],
     "year": 2020,
     "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
-    "cited_by_count": 1540,
+    "cited_by_count": 1544,
     "url": "https://doi.org/10.1109/tpami.2020.3019967",
     "category": "3D Vision",
     "title_hint": "Towards Robust Monocular Depth Estimation: Mixing Datasets for Zero-Shot Cross-Dataset Transfer"
@@ -4363,7 +4363,7 @@
     ],
     "year": 2024,
     "venue": "Computer Vision and Pattern Recognition",
-    "cited_by_count": 352,
+    "cited_by_count": 362,
     "url": "https://doi.org/10.1109/cvpr52733.2024.00907",
     "category": "3D Vision",
     "title_hint": "Marigold: Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation"
@@ -4385,7 +4385,7 @@
     ],
     "year": 2023,
     "venue": null,
-    "cited_by_count": 139,
+    "cited_by_count": 141,
     "url": "https://doi.org/10.1109/iccv51070.2023.00923",
     "category": "3D Vision",
     "title_hint": "TAPIR: Tracking Any Point with per-frame Initialization and temporal Refinement"
@@ -4479,7 +4479,7 @@
     ],
     "year": 2017,
     "venue": null,
-    "cited_by_count": 4181,
+    "cited_by_count": 4191,
     "url": "https://doi.org/10.1109/cvpr.2017.261",
     "category": "3D Vision",
     "title_hint": "ScanNet: Richly-annotated 3D Reconstructions of Indoor Scenes"
@@ -4658,7 +4658,7 @@
     ],
     "year": 2002,
     "venue": "Annual Review of Entomology",
-    "cited_by_count": 1529,
+    "cited_by_count": 1530,
     "url": "https://doi.org/10.1146/annurev.ento.47.091201.145240",
     "category": "VLA",
     "title_hint": "A Generalist Agent"
@@ -4706,7 +4706,7 @@
     ],
     "year": 2023,
     "venue": null,
-    "cited_by_count": 663,
+    "cited_by_count": 667,
     "url": "https://doi.org/10.1109/icra48891.2023.10160591",
     "category": "VLA",
     "title_hint": "Code as Policies: Language Model Programs for Embodied Control"
@@ -4845,7 +4845,7 @@
     ],
     "year": 2024,
     "venue": null,
-    "cited_by_count": 157,
+    "cited_by_count": 158,
     "url": "https://doi.org/10.15607/rss.2024.xx.045",
     "category": "VLA",
     "title_hint": "Universal Manipulation Interface: In-The-Wild Robot Teaching Without Humans"
@@ -4933,7 +4933,7 @@
     ],
     "year": 2020,
     "venue": "IEEE Robotics and Automation Letters",
-    "cited_by_count": 351,
+    "cited_by_count": 355,
     "url": "https://doi.org/10.1109/lra.2020.2974707",
     "category": "VLA",
     "title_hint": "RLBench: The Robot Learning Benchmark and Learning Environment"
@@ -5014,7 +5014,7 @@
     ],
     "year": 2023,
     "venue": null,
-    "cited_by_count": 64,
+    "cited_by_count": 67,
     "url": "https://doi.org/10.52202/075280-1939",
     "category": "VLA",
     "title_hint": "LIBERO: Benchmarking Knowledge Transfer for Lifelong Robot Learning"
@@ -5144,7 +5144,7 @@
     ],
     "year": 2023,
     "venue": null,
-    "cited_by_count": 843,
+    "cited_by_count": 851,
     "url": "https://doi.org/10.1109/cvpr52729.2023.01712",
     "category": "Autonomous Driving",
     "title_hint": "Planning-oriented Autonomous Driving"
@@ -5168,7 +5168,7 @@
     ],
     "year": 2023,
     "venue": null,
-    "cited_by_count": 274,
+    "cited_by_count": 280,
     "url": "https://doi.org/10.1109/iccv51070.2023.00766",
     "category": "Autonomous Driving",
     "title_hint": "VAD: Vectorized Scene Representation for Efficient Autonomous Driving"
@@ -5188,7 +5188,7 @@
     ],
     "year": 2022,
     "venue": "Lecture notes in computer science",
-    "cited_by_count": 237,
+    "cited_by_count": 238,
     "url": "https://doi.org/10.1007/978-3-031-19839-7_31",
     "category": "Autonomous Driving",
     "title_hint": "End-to-end Vision-based Autonomous Driving via Spatial-Temporal Feature Learning"
@@ -5276,7 +5276,7 @@
     ],
     "year": 2017,
     "venue": "Springer proceedings in advanced robotics",
-    "cited_by_count": 2179,
+    "cited_by_count": 2181,
     "url": "https://doi.org/10.1007/978-3-319-67361-5_40",
     "category": "Autonomous Driving",
     "title_hint": "AirSim: High-Fidelity Visual and Physical Simulation for Autonomous Vehicles"
@@ -5405,7 +5405,7 @@
     ],
     "year": 2021,
     "venue": "2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
-    "cited_by_count": 139,
+    "cited_by_count": 141,
     "url": "https://doi.org/10.1109/iros51168.2021.9636667",
     "category": "Robotics",
     "title_hint": "iGibson 1.0: A Simulation Environment for Interactive Tasks in Large Realistic Scenes"
@@ -5431,7 +5431,7 @@
     ],
     "year": 2020,
     "venue": null,
-    "cited_by_count": 395,
+    "cited_by_count": 396,
     "url": "https://doi.org/10.1109/cvpr42600.2020.01111",
     "category": "Robotics",
     "title_hint": "SAPIEN: A SimulAted Part-based Interactive ENvironment"
@@ -6083,7 +6083,7 @@
     ],
     "year": 2023,
     "venue": "arXiv (Cornell University)",
-    "cited_by_count": 199,
+    "cited_by_count": 200,
     "url": "http://arxiv.org/abs/2305.06161",
     "category": "Coding AI",
     "title_hint": "StarCoder: may the source be with you!"
@@ -6109,7 +6109,7 @@
     ],
     "year": 2023,
     "venue": "arXiv (Cornell University)",
-    "cited_by_count": 421,
+    "cited_by_count": 422,
     "url": "http://arxiv.org/abs/2308.12950",
     "category": "Coding AI",
     "title_hint": "Code Llama: Open Foundation Models for Code"
@@ -6156,7 +6156,7 @@
     ],
     "year": 2023,
     "venue": "arXiv (Cornell University)",
-    "cited_by_count": 51,
+    "cited_by_count": 53,
     "url": "http://arxiv.org/abs/2310.06770",
     "category": "Coding AI",
     "title_hint": "SWE-bench: Can Language Models Resolve Real-World Bugs?"
