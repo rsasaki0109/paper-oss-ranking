@@ -4319,13 +4319,17 @@
   {
     "key": "vision transformers for dense prediction",
     "openalex_id": null,
-    "doi": null,
-    "title": null,
-    "authors": [],
-    "year": null,
-    "venue": null,
-    "cited_by_count": null,
-    "url": null,
+    "doi": "10.1109/iccv48922.2021.01196",
+    "title": "Vision Transformers for Dense Prediction",
+    "authors": [
+      "René Ranftl",
+      "Alexey Bochkovskiy",
+      "V. Koltun"
+    ],
+    "year": 2021,
+    "venue": "IEEE International Conference on Computer Vision",
+    "cited_by_count": 3063,
+    "url": "https://doi.org/10.1109/iccv48922.2021.01196",
     "category": "3D Vision",
     "title_hint": "Vision Transformers for Dense Prediction"
   },
@@ -5232,7 +5236,7 @@
   },
   {
     "key": "transfuser: imitation with transformer-based sensor fusion for chai autonomous driving",
-    "openalex_id": null,
+    "openalex_id": "W4292347911",
     "doi": "10.1109/tpami.2022.3200245",
     "title": "TransFuser: Imitation With Transformer-Based Sensor Fusion for Autonomous Driving",
     "authors": [
@@ -5245,7 +5249,7 @@
     ],
     "year": 2022,
     "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
-    "cited_by_count": 833,
+    "cited_by_count": 467,
     "url": "https://doi.org/10.1109/tpami.2022.3200245",
     "category": "Autonomous Driving",
     "title_hint": "TransFuser: Imitation with Transformer-based Sensor Fusion for Chai Autonomous Driving"
